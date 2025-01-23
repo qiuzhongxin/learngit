@@ -1,0 +1,2502 @@
+[
+    {
+        "id": "1",
+        "english": "pen",
+        "chinese": "钢笔"
+    },
+    {
+        "id": "2",
+        "english": "pencil",
+        "chinese": "铅笔"
+    },
+    {
+        "id": "3",
+        "english": "book",
+        "chinese": "书"
+    },
+    {
+        "id": "4",
+        "english": "notebook",
+        "chinese": "笔记本"
+    },
+    {
+        "id": "5",
+        "english": "desk",
+        "chinese": "桌子"
+    },
+    {
+        "id": "6",
+        "english": "chair",
+        "chinese": "椅子"
+    },
+    {
+        "id": "7",
+        "english": "bag",
+        "chinese": "包"
+    },
+    {
+        "id": "8",
+        "english": "ruler",
+        "chinese": "尺子"
+    },
+    {
+        "id": "9",
+        "english": "eraser",
+        "chinese": "橡皮"
+    },
+    {
+        "id": "10",
+        "english": "scissors",
+        "chinese": "剪刀"
+    },
+    {
+        "id": "11",
+        "english": "phone",
+        "chinese": "电话"
+    },
+    {
+        "id": "12",
+        "english": "computer",
+        "chinese": "电脑"
+    },
+    {
+        "id": "13",
+        "english": "key",
+        "chinese": "钥匙"
+    },
+    {
+        "id": "14",
+        "english": "clock",
+        "chinese": "时钟"
+    },
+    {
+        "id": "15",
+        "english": "watch",
+        "chinese": "手表"
+    },
+    {
+        "id": "16",
+        "english": "umbrella",
+        "chinese": "雨伞"
+    },
+    {
+        "id": "17",
+        "english": "glass",
+        "chinese": "玻璃杯"
+    },
+    {
+        "id": "18",
+        "english": "cup",
+        "chinese": "杯子"
+    },
+    {
+        "id": "19",
+        "english": "bottle",
+        "chinese": "瓶子"
+    },
+    {
+        "id": "20",
+        "english": "paper",
+        "chinese": "纸"
+    },
+    {
+        "id": "21",
+        "english": "newspaper",
+        "chinese": "报纸"
+    },
+    {
+        "id": "22",
+        "english": "magazine",
+        "chinese": "杂志"
+    },
+    {
+        "id": "23",
+        "english": "card",
+        "chinese": "卡片"
+    },
+    {
+        "id": "24",
+        "english": "letter",
+        "chinese": "信"
+    },
+    {
+        "id": "25",
+        "english": "box",
+        "chinese": "盒子"
+    },
+    {
+        "id": "26",
+        "english": "toy",
+        "chinese": "玩具"
+    },
+    {
+        "id": "27",
+        "english": "ball",
+        "chinese": "球"
+    },
+    {
+        "id": "28",
+        "english": "door",
+        "chinese": "门"
+    },
+    {
+        "id": "29",
+        "english": "window",
+        "chinese": "窗户"
+    },
+    {
+        "id": "30",
+        "english": "wall",
+        "chinese": "墙"
+    },
+    {
+        "id": "31",
+        "english": "floor",
+        "chinese": "地板"
+    },
+    {
+        "id": "32",
+        "english": "ceiling",
+        "chinese": "天花板"
+    },
+    {
+        "id": "33",
+        "english": "light",
+        "chinese": "灯"
+    },
+    {
+        "id": "34",
+        "english": "lamp",
+        "chinese": "台灯"
+    },
+    {
+        "id": "35",
+        "english": "fan",
+        "chinese": "风扇"
+    },
+    {
+        "id": "36",
+        "english": "air conditioner",
+        "chinese": "空调"
+    },
+    {
+        "id": "37",
+        "english": "television",
+        "chinese": "电视"
+    },
+    {
+        "id": "38",
+        "english": "radio",
+        "chinese": "收音机"
+    },
+    {
+        "id": "39",
+        "english": "camera",
+        "chinese": "相机"
+    },
+    {
+        "id": "40",
+        "english": "mirror",
+        "chinese": "镜子"
+    },
+    {
+        "id": "41",
+        "english": "picture",
+        "chinese": "图片"
+    },
+    {
+        "id": "42",
+        "english": "painting",
+        "chinese": "画"
+    },
+    {
+        "id": "43",
+        "english": "brush",
+        "chinese": "刷子"
+    },
+    {
+        "id": "44",
+        "english": "soap",
+        "chinese": "肥皂"
+    },
+    {
+        "id": "45",
+        "english": "towel",
+        "chinese": "毛巾"
+    },
+    {
+        "id": "46",
+        "english": "toothbrush",
+        "chinese": "牙刷"
+    },
+    {
+        "id": "47",
+        "english": "toothpaste",
+        "chinese": "牙膏"
+    },
+    {
+        "id": "48",
+        "english": "comb",
+        "chinese": "梳子"
+    },
+    {
+        "id": "49",
+        "english": "wallet",
+        "chinese": "钱包"
+    },
+    {
+        "id": "50",
+        "english": "money",
+        "chinese": "钱"
+    },
+    {
+        "id": "51",
+        "english": "cat",
+        "chinese": "猫"
+    },
+    {
+        "id": "52",
+        "english": "dog",
+        "chinese": "狗"
+    },
+    {
+        "id": "53",
+        "english": "bird",
+        "chinese": "鸟"
+    },
+    {
+        "id": "54",
+        "english": "fish",
+        "chinese": "鱼"
+    },
+    {
+        "id": "55",
+        "english": "rabbit",
+        "chinese": "兔子"
+    },
+    {
+        "id": "56",
+        "english": "mouse",
+        "chinese": "老鼠"
+    },
+    {
+        "id": "57",
+        "english": "horse",
+        "chinese": "马"
+    },
+    {
+        "id": "58",
+        "english": "cow",
+        "chinese": "牛"
+    },
+    {
+        "id": "59",
+        "english": "pig",
+        "chinese": "猪"
+    },
+    {
+        "id": "60",
+        "english": "sheep",
+        "chinese": "羊"
+    },
+    {
+        "id": "61",
+        "english": "chicken",
+        "chinese": "鸡"
+    },
+    {
+        "id": "62",
+        "english": "duck",
+        "chinese": "鸭子"
+    },
+    {
+        "id": "63",
+        "english": "goose",
+        "chinese": "鹅"
+    },
+    {
+        "id": "64",
+        "english": "tiger",
+        "chinese": "老虎"
+    },
+    {
+        "id": "65",
+        "english": "lion",
+        "chinese": "狮子"
+    },
+    {
+        "id": "66",
+        "english": "elephant",
+        "chinese": "大象"
+    },
+    {
+        "id": "67",
+        "english": "monkey",
+        "chinese": "猴子"
+    },
+    {
+        "id": "68",
+        "english": "bear",
+        "chinese": "熊"
+    },
+    {
+        "id": "69",
+        "english": "panda",
+        "chinese": "熊猫"
+    },
+    {
+        "id": "70",
+        "english": "snake",
+        "chinese": "蛇"
+    },
+    {
+        "id": "71",
+        "english": "butterfly",
+        "chinese": "蝴蝶"
+    },
+    {
+        "id": "72",
+        "english": "bee",
+        "chinese": "蜜蜂"
+    },
+    {
+        "id": "73",
+        "english": "ant",
+        "chinese": "蚂蚁"
+    },
+    {
+        "id": "74",
+        "english": "spider",
+        "chinese": "蜘蛛"
+    },
+    {
+        "id": "75",
+        "english": "frog",
+        "chinese": "青蛙"
+    },
+    {
+        "id": "76",
+        "english": "turtle",
+        "chinese": "乌龟"
+    },
+    {
+        "id": "77",
+        "english": "dolphin",
+        "chinese": "海豚"
+    },
+    {
+        "id": "78",
+        "english": "whale",
+        "chinese": "鲸鱼"
+    },
+    {
+        "id": "79",
+        "english": "shark",
+        "chinese": "鲨鱼"
+    },
+    {
+        "id": "80",
+        "english": "penguin",
+        "chinese": "企鹅"
+    },
+    {
+        "id": "81",
+        "english": "eagle",
+        "chinese": "鹰"
+    },
+    {
+        "id": "82",
+        "english": "owl",
+        "chinese": "猫头鹰"
+    },
+    {
+        "id": "83",
+        "english": "parrot",
+        "chinese": "鹦鹉"
+    },
+    {
+        "id": "84",
+        "english": "peacock",
+        "chinese": "孔雀"
+    },
+    {
+        "id": "85",
+        "english": "swan",
+        "chinese": "天鹅"
+    },
+    {
+        "id": "86",
+        "english": "giraffe",
+        "chinese": "长颈鹿"
+    },
+    {
+        "id": "87",
+        "english": "zebra",
+        "chinese": "斑马"
+    },
+    {
+        "id": "88",
+        "english": "kangaroo",
+        "chinese": "袋鼠"
+    },
+    {
+        "id": "89",
+        "english": "koala",
+        "chinese": "考拉"
+    },
+    {
+        "id": "90",
+        "english": "deer",
+        "chinese": "鹿"
+    },
+    {
+        "id": "91",
+        "english": "wolf",
+        "chinese": "狼"
+    },
+    {
+        "id": "92",
+        "english": "fox",
+        "chinese": "狐狸"
+    },
+    {
+        "id": "93",
+        "english": "squirrel",
+        "chinese": "松鼠"
+    },
+    {
+        "id": "94",
+        "english": "hedgehog",
+        "chinese": "刺猬"
+    },
+    {
+        "id": "95",
+        "english": "bat",
+        "chinese": "蝙蝠"
+    },
+    {
+        "id": "96",
+        "english": "octopus",
+        "chinese": "章鱼"
+    },
+    {
+        "id": "97",
+        "english": "crab",
+        "chinese": "螃蟹"
+    },
+    {
+        "id": "98",
+        "english": "shrimp",
+        "chinese": "虾"
+    },
+    {
+        "id": "99",
+        "english": "lobster",
+        "chinese": "龙虾"
+    },
+    {
+        "id": "100",
+        "english": "starfish",
+        "chinese": "海星"
+    },
+    {
+        "id": "101",
+        "english": "rice",
+        "chinese": "米饭"
+    },
+    {
+        "id": "102",
+        "english": "bread",
+        "chinese": "面包"
+    },
+    {
+        "id": "103",
+        "english": "noodles",
+        "chinese": "面条"
+    },
+    {
+        "id": "104",
+        "english": "meat",
+        "chinese": "肉"
+    },
+    {
+        "id": "105",
+        "english": "egg",
+        "chinese": "鸡蛋"
+    },
+    {
+        "id": "106",
+        "english": "milk",
+        "chinese": "牛奶"
+    },
+    {
+        "id": "107",
+        "english": "water",
+        "chinese": "水"
+    },
+    {
+        "id": "108",
+        "english": "tea",
+        "chinese": "茶"
+    },
+    {
+        "id": "109",
+        "english": "coffee",
+        "chinese": "咖啡"
+    },
+    {
+        "id": "110",
+        "english": "juice",
+        "chinese": "果汁"
+    },
+    {
+        "id": "111",
+        "english": "apple",
+        "chinese": "苹果"
+    },
+    {
+        "id": "112",
+        "english": "banana",
+        "chinese": "香蕉"
+    },
+    {
+        "id": "113",
+        "english": "orange",
+        "chinese": "橙子"
+    },
+    {
+        "id": "114",
+        "english": "grape",
+        "chinese": "葡萄"
+    },
+    {
+        "id": "115",
+        "english": "watermelon",
+        "chinese": "西瓜"
+    },
+    {
+        "id": "116",
+        "english": "strawberry",
+        "chinese": "草莓"
+    },
+    {
+        "id": "117",
+        "english": "peach",
+        "chinese": "桃子"
+    },
+    {
+        "id": "118",
+        "english": "pear",
+        "chinese": "梨"
+    },
+    {
+        "id": "119",
+        "english": "mango",
+        "chinese": "芒果"
+    },
+    {
+        "id": "120",
+        "english": "pineapple",
+        "chinese": "菠萝"
+    },
+    {
+        "id": "121",
+        "english": "tomato",
+        "chinese": "番茄"
+    },
+    {
+        "id": "122",
+        "english": "potato",
+        "chinese": "土豆"
+    },
+    {
+        "id": "123",
+        "english": "carrot",
+        "chinese": "胡萝卜"
+    },
+    {
+        "id": "124",
+        "english": "cucumber",
+        "chinese": "黄瓜"
+    },
+    {
+        "id": "125",
+        "english": "onion",
+        "chinese": "洋葱"
+    },
+    {
+        "id": "126",
+        "english": "garlic",
+        "chinese": "大蒜"
+    },
+    {
+        "id": "127",
+        "english": "cabbage",
+        "chinese": "白菜"
+    },
+    {
+        "id": "128",
+        "english": "lettuce",
+        "chinese": "生菜"
+    },
+    {
+        "id": "129",
+        "english": "pepper",
+        "chinese": "辣椒"
+    },
+    {
+        "id": "130",
+        "english": "mushroom",
+        "chinese": "蘑菇"
+    },
+    {
+        "id": "131",
+        "english": "cake",
+        "chinese": "蛋糕"
+    },
+    {
+        "id": "132",
+        "english": "cookie",
+        "chinese": "饼干"
+    },
+    {
+        "id": "133",
+        "english": "candy",
+        "chinese": "糖果"
+    },
+    {
+        "id": "134",
+        "english": "chocolate",
+        "chinese": "巧克力"
+    },
+    {
+        "id": "135",
+        "english": "ice cream",
+        "chinese": "冰淇淋"
+    },
+    {
+        "id": "136",
+        "english": "soup",
+        "chinese": "汤"
+    },
+    {
+        "id": "137",
+        "english": "salt",
+        "chinese": "盐"
+    },
+    {
+        "id": "138",
+        "english": "sugar",
+        "chinese": "糖"
+    },
+    {
+        "id": "139",
+        "english": "sauce",
+        "chinese": "酱"
+    },
+    {
+        "id": "140",
+        "english": "oil",
+        "chinese": "油"
+    },
+    {
+        "id": "141",
+        "english": "red",
+        "chinese": "红色"
+    },
+    {
+        "id": "142",
+        "english": "blue",
+        "chinese": "蓝色"
+    },
+    {
+        "id": "143",
+        "english": "yellow",
+        "chinese": "黄色"
+    },
+    {
+        "id": "144",
+        "english": "green",
+        "chinese": "绿色"
+    },
+    {
+        "id": "145",
+        "english": "black",
+        "chinese": "黑色"
+    },
+    {
+        "id": "146",
+        "english": "white",
+        "chinese": "白色"
+    },
+    {
+        "id": "147",
+        "english": "purple",
+        "chinese": "紫色"
+    },
+    {
+        "id": "148",
+        "english": "pink",
+        "chinese": "粉色"
+    },
+    {
+        "id": "149",
+        "english": "brown",
+        "chinese": "棕色"
+    },
+    {
+        "id": "150",
+        "english": "gray",
+        "chinese": "灰色"
+    },
+    {
+        "id": "151",
+        "english": "circle",
+        "chinese": "圆形"
+    },
+    {
+        "id": "152",
+        "english": "square",
+        "chinese": "正方形"
+    },
+    {
+        "id": "153",
+        "english": "triangle",
+        "chinese": "三角形"
+    },
+    {
+        "id": "154",
+        "english": "rectangle",
+        "chinese": "长方形"
+    },
+    {
+        "id": "155",
+        "english": "star",
+        "chinese": "星星"
+    },
+    {
+        "id": "156",
+        "english": "heart",
+        "chinese": "心形"
+    },
+    {
+        "id": "157",
+        "english": "diamond",
+        "chinese": "菱形"
+    },
+    {
+        "id": "158",
+        "english": "oval",
+        "chinese": "椭圆形"
+    },
+    {
+        "id": "159",
+        "english": "line",
+        "chinese": "直线"
+    },
+    {
+        "id": "160",
+        "english": "point",
+        "chinese": "点"
+    },
+    {
+        "id": "161",
+        "english": "one",
+        "chinese": "一"
+    },
+    {
+        "id": "162",
+        "english": "two",
+        "chinese": "二"
+    },
+    {
+        "id": "163",
+        "english": "three",
+        "chinese": "三"
+    },
+    {
+        "id": "164",
+        "english": "four",
+        "chinese": "四"
+    },
+    {
+        "id": "165",
+        "english": "five",
+        "chinese": "五"
+    },
+    {
+        "id": "166",
+        "english": "six",
+        "chinese": "六"
+    },
+    {
+        "id": "167",
+        "english": "seven",
+        "chinese": "七"
+    },
+    {
+        "id": "168",
+        "english": "eight",
+        "chinese": "八"
+    },
+    {
+        "id": "169",
+        "english": "nine",
+        "chinese": "九"
+    },
+    {
+        "id": "170",
+        "english": "ten",
+        "chinese": "十"
+    },
+    {
+        "id": "171",
+        "english": "hundred",
+        "chinese": "百"
+    },
+    {
+        "id": "172",
+        "english": "thousand",
+        "chinese": "千"
+    },
+    {
+        "id": "173",
+        "english": "million",
+        "chinese": "百万"
+    },
+    {
+        "id": "174",
+        "english": "first",
+        "chinese": "第一"
+    },
+    {
+        "id": "175",
+        "english": "second",
+        "chinese": "第二"
+    },
+    {
+        "id": "176",
+        "english": "time",
+        "chinese": "时间"
+    },
+    {
+        "id": "177",
+        "english": "morning",
+        "chinese": "早上"
+    },
+    {
+        "id": "178",
+        "english": "noon",
+        "chinese": "中午"
+    },
+    {
+        "id": "179",
+        "english": "afternoon",
+        "chinese": "下午"
+    },
+    {
+        "id": "180",
+        "english": "evening",
+        "chinese": "晚上"
+    },
+    {
+        "id": "181",
+        "english": "night",
+        "chinese": "夜晚"
+    },
+    {
+        "id": "182",
+        "english": "today",
+        "chinese": "今天"
+    },
+    {
+        "id": "183",
+        "english": "tomorrow",
+        "chinese": "明天"
+    },
+    {
+        "id": "184",
+        "english": "yesterday",
+        "chinese": "昨天"
+    },
+    {
+        "id": "185",
+        "english": "week",
+        "chinese": "星期"
+    },
+    {
+        "id": "186",
+        "english": "month",
+        "chinese": "月份"
+    },
+    {
+        "id": "187",
+        "english": "year",
+        "chinese": "年"
+    },
+    {
+        "id": "188",
+        "english": "Monday",
+        "chinese": "星期一"
+    },
+    {
+        "id": "189",
+        "english": "Tuesday",
+        "chinese": "星期二"
+    },
+    {
+        "id": "190",
+        "english": "Wednesday",
+        "chinese": "星期三"
+    },
+    {
+        "id": "191",
+        "english": "Thursday",
+        "chinese": "星期四"
+    },
+    {
+        "id": "192",
+        "english": "Friday",
+        "chinese": "星期五"
+    },
+    {
+        "id": "193",
+        "english": "Saturday",
+        "chinese": "星期六"
+    },
+    {
+        "id": "194",
+        "english": "Sunday",
+        "chinese": "星期日"
+    },
+    {
+        "id": "195",
+        "english": "January",
+        "chinese": "一月"
+    },
+    {
+        "id": "196",
+        "english": "February",
+        "chinese": "二月"
+    },
+    {
+        "id": "197",
+        "english": "March",
+        "chinese": "三月"
+    },
+    {
+        "id": "198",
+        "english": "April",
+        "chinese": "四月"
+    },
+    {
+        "id": "199",
+        "english": "May",
+        "chinese": "五月"
+    },
+    {
+        "id": "200",
+        "english": "June",
+        "chinese": "六月"
+    },
+    {
+        "id": "201",
+        "english": "July",
+        "chinese": "七月"
+    },
+    {
+        "id": "202",
+        "english": "August",
+        "chinese": "八月"
+    },
+    {
+        "id": "203",
+        "english": "September",
+        "chinese": "九月"
+    },
+    {
+        "id": "204",
+        "english": "October",
+        "chinese": "十月"
+    },
+    {
+        "id": "205",
+        "english": "November",
+        "chinese": "十一月"
+    },
+    {
+        "id": "206",
+        "english": "December",
+        "chinese": "十二月"
+    },
+    {
+        "id": "207",
+        "english": "season",
+        "chinese": "季节"
+    },
+    {
+        "id": "208",
+        "english": "spring",
+        "chinese": "春天"
+    },
+    {
+        "id": "209",
+        "english": "summer",
+        "chinese": "夏天"
+    },
+    {
+        "id": "210",
+        "english": "autumn",
+        "chinese": "秋天"
+    },
+    {
+        "id": "211",
+        "english": "winter",
+        "chinese": "冬天"
+    },
+    {
+        "id": "212",
+        "english": "weather",
+        "chinese": "天气"
+    },
+    {
+        "id": "213",
+        "english": "sunny",
+        "chinese": "晴朗的"
+    },
+    {
+        "id": "214",
+        "english": "cloudy",
+        "chinese": "多云的"
+    },
+    {
+        "id": "215",
+        "english": "rainy",
+        "chinese": "下雨的"
+    },
+    {
+        "id": "216",
+        "english": "snowy",
+        "chinese": "下雪的"
+    },
+    {
+        "id": "217",
+        "english": "windy",
+        "chinese": "有风的"
+    },
+    {
+        "id": "218",
+        "english": "hot",
+        "chinese": "热的"
+    },
+    {
+        "id": "219",
+        "english": "cold",
+        "chinese": "冷的"
+    },
+    {
+        "id": "220",
+        "english": "warm",
+        "chinese": "温暖的"
+    },
+    {
+        "id": "221",
+        "english": "cool",
+        "chinese": "凉爽的"
+    },
+    {
+        "id": "222",
+        "english": "sun",
+        "chinese": "太阳"
+    },
+    {
+        "id": "223",
+        "english": "moon",
+        "chinese": "月亮"
+    },
+    {
+        "id": "224",
+        "english": "cloud",
+        "chinese": "云"
+    },
+    {
+        "id": "225",
+        "english": "rain",
+        "chinese": "雨"
+    },
+    {
+        "id": "226",
+        "english": "snow",
+        "chinese": "雪"
+    },
+    {
+        "id": "227",
+        "english": "wind",
+        "chinese": "风"
+    },
+    {
+        "id": "228",
+        "english": "rainbow",
+        "chinese": "彩虹"
+    },
+    {
+        "id": "229",
+        "english": "thunder",
+        "chinese": "雷"
+    },
+    {
+        "id": "230",
+        "english": "lightning",
+        "chinese": "闪电"
+    },
+    {
+        "id": "231",
+        "english": "storm",
+        "chinese": "暴风雨"
+    },
+    {
+        "id": "232",
+        "english": "sky",
+        "chinese": "天空"
+    },
+    {
+        "id": "233",
+        "english": "mountain",
+        "chinese": "山"
+    },
+    {
+        "id": "234",
+        "english": "river",
+        "chinese": "河"
+    },
+    {
+        "id": "235",
+        "english": "lake",
+        "chinese": "湖"
+    },
+    {
+        "id": "236",
+        "english": "ocean",
+        "chinese": "海洋"
+    },
+    {
+        "id": "237",
+        "english": "beach",
+        "chinese": "海滩"
+    },
+    {
+        "id": "238",
+        "english": "forest",
+        "chinese": "森林"
+    },
+    {
+        "id": "239",
+        "english": "grass",
+        "chinese": "草"
+    },
+    {
+        "id": "240",
+        "english": "tree",
+        "chinese": "树"
+    },
+    {
+        "id": "241",
+        "english": "flower",
+        "chinese": "花"
+    },
+    {
+        "id": "242",
+        "english": "leaf",
+        "chinese": "叶子"
+    },
+    {
+        "id": "243",
+        "english": "plant",
+        "chinese": "植物"
+    },
+    {
+        "id": "244",
+        "english": "seed",
+        "chinese": "种子"
+    },
+    {
+        "id": "245",
+        "english": "root",
+        "chinese": "根"
+    },
+    {
+        "id": "246",
+        "english": "branch",
+        "chinese": "树枝"
+    },
+    {
+        "id": "247",
+        "english": "wood",
+        "chinese": "木头"
+    },
+    {
+        "id": "248",
+        "english": "stone",
+        "chinese": "石头"
+    },
+    {
+        "id": "249",
+        "english": "soil",
+        "chinese": "土壤"
+    },
+    {
+        "id": "250",
+        "english": "earth",
+        "chinese": "地球"
+    },
+    {
+        "id": "251",
+        "english": "head",
+        "chinese": "头"
+    },
+    {
+        "id": "252",
+        "english": "face",
+        "chinese": "脸"
+    },
+    {
+        "id": "253",
+        "english": "hair",
+        "chinese": "头发"
+    },
+    {
+        "id": "254",
+        "english": "eye",
+        "chinese": "眼睛"
+    },
+    {
+        "id": "255",
+        "english": "ear",
+        "chinese": "耳朵"
+    },
+    {
+        "id": "256",
+        "english": "nose",
+        "chinese": "鼻子"
+    },
+    {
+        "id": "257",
+        "english": "mouth",
+        "chinese": "嘴"
+    },
+    {
+        "id": "258",
+        "english": "tooth",
+        "chinese": "牙齿"
+    },
+    {
+        "id": "259",
+        "english": "tongue",
+        "chinese": "舌头"
+    },
+    {
+        "id": "260",
+        "english": "neck",
+        "chinese": "脖子"
+    },
+    {
+        "id": "261",
+        "english": "shoulder",
+        "chinese": "肩膀"
+    },
+    {
+        "id": "262",
+        "english": "arm",
+        "chinese": "手臂"
+    },
+    {
+        "id": "263",
+        "english": "elbow",
+        "chinese": "肘"
+    },
+    {
+        "id": "264",
+        "english": "hand",
+        "chinese": "手"
+    },
+    {
+        "id": "265",
+        "english": "finger",
+        "chinese": "手指"
+    },
+    {
+        "id": "266",
+        "english": "nail",
+        "chinese": "指甲"
+    },
+    {
+        "id": "267",
+        "english": "chest",
+        "chinese": "胸"
+    },
+    {
+        "id": "268",
+        "english": "stomach",
+        "chinese": "胃"
+    },
+    {
+        "id": "269",
+        "english": "back",
+        "chinese": "背"
+    },
+    {
+        "id": "270",
+        "english": "waist",
+        "chinese": "腰"
+    },
+    {
+        "id": "271",
+        "english": "leg",
+        "chinese": "腿"
+    },
+    {
+        "id": "272",
+        "english": "knee",
+        "chinese": "膝盖"
+    },
+    {
+        "id": "273",
+        "english": "foot",
+        "chinese": "脚"
+    },
+    {
+        "id": "274",
+        "english": "toe",
+        "chinese": "脚趾"
+    },
+    {
+        "id": "275",
+        "english": "bone",
+        "chinese": "骨头"
+    },
+    {
+        "id": "276",
+        "english": "blood",
+        "chinese": "血"
+    },
+    {
+        "id": "277",
+        "english": "heart",
+        "chinese": "心脏"
+    },
+    {
+        "id": "278",
+        "english": "brain",
+        "chinese": "大脑"
+    },
+    {
+        "id": "279",
+        "english": "skin",
+        "chinese": "皮肤"
+    },
+    {
+        "id": "280",
+        "english": "muscle",
+        "chinese": "肌肉"
+    },
+    {
+        "id": "281",
+        "english": "shirt",
+        "chinese": "衬衫"
+    },
+    {
+        "id": "282",
+        "english": "pants",
+        "chinese": "裤子"
+    },
+    {
+        "id": "283",
+        "english": "dress",
+        "chinese": "连衣裙"
+    },
+    {
+        "id": "284",
+        "english": "skirt",
+        "chinese": "裙子"
+    },
+    {
+        "id": "285",
+        "english": "coat",
+        "chinese": "外套"
+    },
+    {
+        "id": "286",
+        "english": "jacket",
+        "chinese": "夹克"
+    },
+    {
+        "id": "287",
+        "english": "sweater",
+        "chinese": "毛衣"
+    },
+    {
+        "id": "288",
+        "english": "sock",
+        "chinese": "袜子"
+    },
+    {
+        "id": "289",
+        "english": "shoe",
+        "chinese": "鞋"
+    },
+    {
+        "id": "290",
+        "english": "boot",
+        "chinese": "靴子"
+    },
+    {
+        "id": "291",
+        "english": "hat",
+        "chinese": "帽子"
+    },
+    {
+        "id": "292",
+        "english": "glove",
+        "chinese": "手套"
+    },
+    {
+        "id": "293",
+        "english": "scarf",
+        "chinese": "围巾"
+    },
+    {
+        "id": "294",
+        "english": "belt",
+        "chinese": "腰带"
+    },
+    {
+        "id": "295",
+        "english": "glasses",
+        "chinese": "眼镜"
+    },
+    {
+        "id": "296",
+        "english": "watch",
+        "chinese": "手表"
+    },
+    {
+        "id": "297",
+        "english": "ring",
+        "chinese": "戒指"
+    },
+    {
+        "id": "298",
+        "english": "necklace",
+        "chinese": "项链"
+    },
+    {
+        "id": "299",
+        "english": "earring",
+        "chinese": "耳环"
+    },
+    {
+        "id": "300",
+        "english": "bracelet",
+        "chinese": "手镯"
+    },
+    {
+        "id": "301",
+        "english": "house",
+        "chinese": "房子"
+    },
+    {
+        "id": "302",
+        "english": "room",
+        "chinese": "房间"
+    },
+    {
+        "id": "303",
+        "english": "bedroom",
+        "chinese": "卧室"
+    },
+    {
+        "id": "304",
+        "english": "bathroom",
+        "chinese": "浴室"
+    },
+    {
+        "id": "305",
+        "english": "kitchen",
+        "chinese": "厨房"
+    },
+    {
+        "id": "306",
+        "english": "living room",
+        "chinese": "客厅"
+    },
+    {
+        "id": "307",
+        "english": "dining room",
+        "chinese": "餐厅"
+    },
+    {
+        "id": "308",
+        "english": "office",
+        "chinese": "办公室"
+    },
+    {
+        "id": "309",
+        "english": "garden",
+        "chinese": "花园"
+    },
+    {
+        "id": "310",
+        "english": "garage",
+        "chinese": "车库"
+    },
+    {
+        "id": "311",
+        "english": "bed",
+        "chinese": "床"
+    },
+    {
+        "id": "312",
+        "english": "table",
+        "chinese": "桌子"
+    },
+    {
+        "id": "313",
+        "english": "chair",
+        "chinese": "椅子"
+    },
+    {
+        "id": "314",
+        "english": "sofa",
+        "chinese": "沙发"
+    },
+    {
+        "id": "315",
+        "english": "cabinet",
+        "chinese": "柜子"
+    },
+    {
+        "id": "316",
+        "english": "drawer",
+        "chinese": "抽屉"
+    },
+    {
+        "id": "317",
+        "english": "mirror",
+        "chinese": "镜子"
+    },
+    {
+        "id": "318",
+        "english": "picture",
+        "chinese": "图片"
+    },
+    {
+        "id": "319",
+        "english": "clock",
+        "chinese": "时钟"
+    },
+    {
+        "id": "320",
+        "english": "lamp",
+        "chinese": "台灯"
+    },
+    {
+        "id": "321",
+        "english": "run",
+        "chinese": "跑"
+    },
+    {
+        "id": "322",
+        "english": "walk",
+        "chinese": "走"
+    },
+    {
+        "id": "323",
+        "english": "jump",
+        "chinese": "跳"
+    },
+    {
+        "id": "324",
+        "english": "sit",
+        "chinese": "坐"
+    },
+    {
+        "id": "325",
+        "english": "stand",
+        "chinese": "站"
+    },
+    {
+        "id": "326",
+        "english": "sleep",
+        "chinese": "睡觉"
+    },
+    {
+        "id": "327",
+        "english": "eat",
+        "chinese": "吃"
+    },
+    {
+        "id": "328",
+        "english": "drink",
+        "chinese": "喝"
+    },
+    {
+        "id": "329",
+        "english": "speak",
+        "chinese": "说话"
+    },
+    {
+        "id": "330",
+        "english": "listen",
+        "chinese": "听"
+    },
+    {
+        "id": "331",
+        "english": "look",
+        "chinese": "看"
+    },
+    {
+        "id": "332",
+        "english": "watch",
+        "chinese": "观看"
+    },
+    {
+        "id": "333",
+        "english": "read",
+        "chinese": "读"
+    },
+    {
+        "id": "334",
+        "english": "write",
+        "chinese": "写"
+    },
+    {
+        "id": "335",
+        "english": "draw",
+        "chinese": "画"
+    },
+    {
+        "id": "336",
+        "english": "sing",
+        "chinese": "唱歌"
+    },
+    {
+        "id": "337",
+        "english": "dance",
+        "chinese": "跳舞"
+    },
+    {
+        "id": "338",
+        "english": "play",
+        "chinese": "玩"
+    },
+    {
+        "id": "339",
+        "english": "study",
+        "chinese": "学习"
+    },
+    {
+        "id": "340",
+        "english": "work",
+        "chinese": "工作"
+    },
+    {
+        "id": "341",
+        "english": "cook",
+        "chinese": "烹饪"
+    },
+    {
+        "id": "342",
+        "english": "clean",
+        "chinese": "清洁"
+    },
+    {
+        "id": "343",
+        "english": "wash",
+        "chinese": "洗"
+    },
+    {
+        "id": "344",
+        "english": "buy",
+        "chinese": "买"
+    },
+    {
+        "id": "345",
+        "english": "sell",
+        "chinese": "卖"
+    },
+    {
+        "id": "346",
+        "english": "open",
+        "chinese": "打开"
+    },
+    {
+        "id": "347",
+        "english": "close",
+        "chinese": "关闭"
+    },
+    {
+        "id": "348",
+        "english": "come",
+        "chinese": "来"
+    },
+    {
+        "id": "349",
+        "english": "go",
+        "chinese": "去"
+    },
+    {
+        "id": "350",
+        "english": "start",
+        "chinese": "开始"
+    },
+    {
+        "id": "351",
+        "english": "stop",
+        "chinese": "停止"
+    },
+    {
+        "id": "352",
+        "english": "wait",
+        "chinese": "等待"
+    },
+    {
+        "id": "353",
+        "english": "help",
+        "chinese": "帮助"
+    },
+    {
+        "id": "354",
+        "english": "give",
+        "chinese": "给"
+    },
+    {
+        "id": "355",
+        "english": "take",
+        "chinese": "拿"
+    },
+    {
+        "id": "356",
+        "english": "make",
+        "chinese": "制作"
+    },
+    {
+        "id": "357",
+        "english": "break",
+        "chinese": "打破"
+    },
+    {
+        "id": "358",
+        "english": "fix",
+        "chinese": "修理"
+    },
+    {
+        "id": "359",
+        "english": "change",
+        "chinese": "改变"
+    },
+    {
+        "id": "360",
+        "english": "grow",
+        "chinese": "成长"
+    },
+    {
+        "id": "361",
+        "english": "live",
+        "chinese": "生活"
+    },
+    {
+        "id": "362",
+        "english": "die",
+        "chinese": "死亡"
+    },
+    {
+        "id": "363",
+        "english": "laugh",
+        "chinese": "笑"
+    },
+    {
+        "id": "364",
+        "english": "cry",
+        "chinese": "哭"
+    },
+    {
+        "id": "365",
+        "english": "smile",
+        "chinese": "微笑"
+    },
+    {
+        "id": "366",
+        "english": "think",
+        "chinese": "思考"
+    },
+    {
+        "id": "367",
+        "english": "know",
+        "chinese": "知道"
+    },
+    {
+        "id": "368",
+        "english": "understand",
+        "chinese": "理解"
+    },
+    {
+        "id": "369",
+        "english": "remember",
+        "chinese": "记住"
+    },
+    {
+        "id": "370",
+        "english": "forget",
+        "chinese": "忘记"
+    },
+    {
+        "id": "371",
+        "english": "like",
+        "chinese": "喜欢"
+    },
+    {
+        "id": "372",
+        "english": "love",
+        "chinese": "爱"
+    },
+    {
+        "id": "373",
+        "english": "hate",
+        "chinese": "讨厌"
+    },
+    {
+        "id": "374",
+        "english": "want",
+        "chinese": "想要"
+    },
+    {
+        "id": "375",
+        "english": "need",
+        "chinese": "需要"
+    },
+    {
+        "id": "376",
+        "english": "big",
+        "chinese": "大的"
+    },
+    {
+        "id": "377",
+        "english": "small",
+        "chinese": "小的"
+    },
+    {
+        "id": "378",
+        "english": "long",
+        "chinese": "长的"
+    },
+    {
+        "id": "379",
+        "english": "short",
+        "chinese": "短的"
+    },
+    {
+        "id": "380",
+        "english": "tall",
+        "chinese": "高的"
+    },
+    {
+        "id": "381",
+        "english": "low",
+        "chinese": "低的"
+    },
+    {
+        "id": "382",
+        "english": "heavy",
+        "chinese": "重的"
+    },
+    {
+        "id": "383",
+        "english": "light",
+        "chinese": "轻的"
+    },
+    {
+        "id": "384",
+        "english": "fast",
+        "chinese": "快的"
+    },
+    {
+        "id": "385",
+        "english": "slow",
+        "chinese": "慢的"
+    },
+    {
+        "id": "386",
+        "english": "old",
+        "chinese": "老的"
+    },
+    {
+        "id": "387",
+        "english": "new",
+        "chinese": "新的"
+    },
+    {
+        "id": "388",
+        "english": "young",
+        "chinese": "年轻的"
+    },
+    {
+        "id": "389",
+        "english": "good",
+        "chinese": "好的"
+    },
+    {
+        "id": "390",
+        "english": "bad",
+        "chinese": "坏的"
+    },
+    {
+        "id": "391",
+        "english": "happy",
+        "chinese": "快乐的"
+    },
+    {
+        "id": "392",
+        "english": "sad",
+        "chinese": "伤心的"
+    },
+    {
+        "id": "393",
+        "english": "angry",
+        "chinese": "生气的"
+    },
+    {
+        "id": "394",
+        "english": "tired",
+        "chinese": "疲倦的"
+    },
+    {
+        "id": "395",
+        "english": "hungry",
+        "chinese": "饥饿的"
+    },
+    {
+        "id": "396",
+        "english": "thirsty",
+        "chinese": "口渴的"
+    },
+    {
+        "id": "397",
+        "english": "sick",
+        "chinese": "生病的"
+    },
+    {
+        "id": "398",
+        "english": "healthy",
+        "chinese": "健康的"
+    },
+    {
+        "id": "399",
+        "english": "rich",
+        "chinese": "富有的"
+    },
+    {
+        "id": "400",
+        "english": "poor",
+        "chinese": "贫穷的"
+    },
+    {
+        "id": "401",
+        "english": "busy",
+        "chinese": "忙的"
+    },
+    {
+        "id": "402",
+        "english": "free",
+        "chinese": "空闲的"
+    },
+    {
+        "id": "403",
+        "english": "easy",
+        "chinese": "容易的"
+    },
+    {
+        "id": "404",
+        "english": "difficult",
+        "chinese": "困难的"
+    },
+    {
+        "id": "405",
+        "english": "right",
+        "chinese": "对的"
+    },
+    {
+        "id": "406",
+        "english": "wrong",
+        "chinese": "错的"
+    },
+    {
+        "id": "407",
+        "english": "true",
+        "chinese": "真的"
+    },
+    {
+        "id": "408",
+        "english": "false",
+        "chinese": "假的"
+    },
+    {
+        "id": "409",
+        "english": "same",
+        "chinese": "相同的"
+    },
+    {
+        "id": "410",
+        "english": "different",
+        "chinese": "不同的"
+    },
+    {
+        "id": "411",
+        "english": "important",
+        "chinese": "重要的"
+    },
+    {
+        "id": "412",
+        "english": "dangerous",
+        "chinese": "危险的"
+    },
+    {
+        "id": "413",
+        "english": "safe",
+        "chinese": "安全的"
+    },
+    {
+        "id": "414",
+        "english": "clean",
+        "chinese": "干净的"
+    },
+    {
+        "id": "415",
+        "english": "dirty",
+        "chinese": "脏的"
+    },
+    {
+        "id": "416",
+        "english": "beautiful",
+        "chinese": "美丽的"
+    },
+    {
+        "id": "417",
+        "english": "ugly",
+        "chinese": "丑的"
+    },
+    {
+        "id": "418",
+        "english": "strong",
+        "chinese": "强壮的"
+    },
+    {
+        "id": "419",
+        "english": "weak",
+        "chinese": "虚弱的"
+    },
+    {
+        "id": "420",
+        "english": "loud",
+        "chinese": "响亮的"
+    },
+    {
+        "id": "421",
+        "english": "quiet",
+        "chinese": "安静的"
+    },
+    {
+        "id": "422",
+        "english": "hard",
+        "chinese": "硬的"
+    },
+    {
+        "id": "423",
+        "english": "soft",
+        "chinese": "软的"
+    },
+    {
+        "id": "424",
+        "english": "dry",
+        "chinese": "干的"
+    },
+    {
+        "id": "425",
+        "english": "wet",
+        "chinese": "湿的"
+    },
+    {
+        "id": "426",
+        "english": "sweet",
+        "chinese": "甜的"
+    },
+    {
+        "id": "427",
+        "english": "sour",
+        "chinese": "酸的"
+    },
+    {
+        "id": "428",
+        "english": "bitter",
+        "chinese": "苦的"
+    },
+    {
+        "id": "429",
+        "english": "spicy",
+        "chinese": "辣的"
+    },
+    {
+        "id": "430",
+        "english": "salty",
+        "chinese": "咸的"
+    },
+    {
+        "id": "431",
+        "english": "high",
+        "chinese": "高的"
+    },
+    {
+        "id": "432",
+        "english": "deep",
+        "chinese": "深的"
+    },
+    {
+        "id": "433",
+        "english": "shallow",
+        "chinese": "浅的"
+    },
+    {
+        "id": "434",
+        "english": "wide",
+        "chinese": "宽的"
+    },
+    {
+        "id": "435",
+        "english": "narrow",
+        "chinese": "窄的"
+    },
+    {
+        "id": "436",
+        "english": "thick",
+        "chinese": "厚的"
+    },
+    {
+        "id": "437",
+        "english": "thin",
+        "chinese": "薄的"
+    },
+    {
+        "id": "438",
+        "english": "straight",
+        "chinese": "直的"
+    },
+    {
+        "id": "439",
+        "english": "curved",
+        "chinese": "弯的"
+    },
+    {
+        "id": "440",
+        "english": "full",
+        "chinese": "满的"
+    },
+    {
+        "id": "441",
+        "english": "empty",
+        "chinese": "空的"
+    },
+    {
+        "id": "442",
+        "english": "near",
+        "chinese": "近的"
+    },
+    {
+        "id": "443",
+        "english": "far",
+        "chinese": "远的"
+    },
+    {
+        "id": "444",
+        "english": "left",
+        "chinese": "左边"
+    },
+    {
+        "id": "445",
+        "english": "right",
+        "chinese": "右边"
+    },
+    {
+        "id": "446",
+        "english": "front",
+        "chinese": "前面"
+    },
+    {
+        "id": "447",
+        "english": "back",
+        "chinese": "后面"
+    },
+    {
+        "id": "448",
+        "english": "top",
+        "chinese": "顶部"
+    },
+    {
+        "id": "449",
+        "english": "bottom",
+        "chinese": "底部"
+    },
+    {
+        "id": "450",
+        "english": "inside",
+        "chinese": "里面"
+    },
+    {
+        "id": "451",
+        "english": "outside",
+        "chinese": "外面"
+    },
+    {
+        "id": "452",
+        "english": "up",
+        "chinese": "上"
+    },
+    {
+        "id": "453",
+        "english": "down",
+        "chinese": "下"
+    },
+    {
+        "id": "454",
+        "english": "early",
+        "chinese": "早的"
+    },
+    {
+        "id": "455",
+        "english": "late",
+        "chinese": "晚的"
+    },
+    {
+        "id": "456",
+        "english": "first",
+        "chinese": "第一"
+    },
+    {
+        "id": "457",
+        "english": "last",
+        "chinese": "最后"
+    },
+    {
+        "id": "458",
+        "english": "next",
+        "chinese": "下一个"
+    },
+    {
+        "id": "459",
+        "english": "previous",
+        "chinese": "上一个"
+    },
+    {
+        "id": "460",
+        "english": "now",
+        "chinese": "现在"
+    },
+    {
+        "id": "461",
+        "english": "later",
+        "chinese": "稍后"
+    },
+    {
+        "id": "462",
+        "english": "always",
+        "chinese": "总是"
+    },
+    {
+        "id": "463",
+        "english": "never",
+        "chinese": "从不"
+    },
+    {
+        "id": "464",
+        "english": "sometimes",
+        "chinese": "有时"
+    },
+    {
+        "id": "465",
+        "english": "often",
+        "chinese": "经常"
+    },
+    {
+        "id": "466",
+        "english": "usually",
+        "chinese": "通常"
+    },
+    {
+        "id": "467",
+        "english": "rarely",
+        "chinese": "很少"
+    },
+    {
+        "id": "468",
+        "english": "again",
+        "chinese": "再次"
+    },
+    {
+        "id": "469",
+        "english": "once",
+        "chinese": "一次"
+    },
+    {
+        "id": "470",
+        "english": "twice",
+        "chinese": "两次"
+    },
+    {
+        "id": "471",
+        "english": "daily",
+        "chinese": "每天"
+    },
+    {
+        "id": "472",
+        "english": "weekly",
+        "chinese": "每周"
+    },
+    {
+        "id": "473",
+        "english": "monthly",
+        "chinese": "每月"
+    },
+    {
+        "id": "474",
+        "english": "yearly",
+        "chinese": "每年"
+    },
+    {
+        "id": "475",
+        "english": "forever",
+        "chinese": "永远"
+    },
+    {
+        "id": "476",
+        "english": "suddenly",
+        "chinese": "突然"
+    },
+    {
+        "id": "477",
+        "english": "gradually",
+        "chinese": "逐渐"
+    },
+    {
+        "id": "478",
+        "english": "quickly",
+        "chinese": "快速地"
+    },
+    {
+        "id": "479",
+        "english": "slowly",
+        "chinese": "缓慢地"
+    },
+    {
+        "id": "480",
+        "english": "carefully",
+        "chinese": "小心地"
+    },
+    {
+        "id": "481",
+        "english": "well",
+        "chinese": "好地"
+    },
+    {
+        "id": "482",
+        "english": "badly",
+        "chinese": "糟糕地"
+    },
+    {
+        "id": "483",
+        "english": "together",
+        "chinese": "一起"
+    },
+    {
+        "id": "484",
+        "english": "alone",
+        "chinese": "独自"
+    },
+    {
+        "id": "485",
+        "english": "maybe",
+        "chinese": "可能"
+    },
+    {
+        "id": "486",
+        "english": "perhaps",
+        "chinese": "或许"
+    },
+    {
+        "id": "487",
+        "english": "certainly",
+        "chinese": "当然"
+    },
+    {
+        "id": "488",
+        "english": "probably",
+        "chinese": "可能"
+    },
+    {
+        "id": "489",
+        "english": "definitely",
+        "chinese": "一定"
+    },
+    {
+        "id": "490",
+        "english": "really",
+        "chinese": "真的"
+    },
+    {
+        "id": "491",
+        "english": "very",
+        "chinese": "非常"
+    },
+    {
+        "id": "492",
+        "english": "quite",
+        "chinese": "相当"
+    },
+    {
+        "id": "493",
+        "english": "too",
+        "chinese": "太"
+    },
+    {
+        "id": "494",
+        "english": "enough",
+        "chinese": "足够"
+    },
+    {
+        "id": "495",
+        "english": "almost",
+        "chinese": "几乎"
+    },
+    {
+        "id": "496",
+        "english": "about",
+        "chinese": "大约"
+    },
+    {
+        "id": "497",
+        "english": "only",
+        "chinese": "只有"
+    },
+    {
+        "id": "498",
+        "english": "just",
+        "chinese": "刚刚"
+    },
+    {
+        "id": "499",
+        "english": "still",
+        "chinese": "仍然"
+    },
+    {
+        "id": "500",
+        "english": "already",
+        "chinese": "已经"
+    }
+]

@@ -1,0 +1,5002 @@
+[
+    {
+        "id": "1",
+        "english": "It's delicious ",
+        "chinese": " 很好吃"
+    },
+    {
+        "id": "2",
+        "english": "How are you? ",
+        "chinese": " 你好吗?"
+    },
+    {
+        "id": "3",
+        "english": "Nice to meet you ",
+        "chinese": " 很高兴见到你"
+    },
+    {
+        "id": "4",
+        "english": "What's your name? ",
+        "chinese": " 你叫什么名字?"
+    },
+    {
+        "id": "5",
+        "english": "Where are you from? ",
+        "chinese": " 你来自哪里?"
+    },
+    {
+        "id": "6",
+        "english": "Thank you very much ",
+        "chinese": " 非常感谢"
+    },
+    {
+        "id": "7",
+        "english": "You're welcome ",
+        "chinese": " 不客气"
+    },
+    {
+        "id": "8",
+        "english": "I'm sorry ",
+        "chinese": " 对不起"
+    },
+    {
+        "id": "9",
+        "english": "Excuse me ",
+        "chinese": " 打扰一下"
+    },
+    {
+        "id": "10",
+        "english": "Good morning ",
+        "chinese": " 早上好"
+    },
+    {
+        "id": "11",
+        "english": "Good night ",
+        "chinese": " 晚安"
+    },
+    {
+        "id": "12",
+        "english": "See you later ",
+        "chinese": " 待会见"
+    },
+    {
+        "id": "13",
+        "english": "Take care ",
+        "chinese": " 保重"
+    },
+    {
+        "id": "14",
+        "english": "I love you ",
+        "chinese": " 我爱你"
+    },
+    {
+        "id": "15",
+        "english": "I miss you ",
+        "chinese": " 我想你"
+    },
+    {
+        "id": "16",
+        "english": "Happy birthday ",
+        "chinese": " 生日快乐"
+    },
+    {
+        "id": "17",
+        "english": "Congratulations ",
+        "chinese": " 恭喜"
+    },
+    {
+        "id": "18",
+        "english": "Well done ",
+        "chinese": " 做得好"
+    },
+    {
+        "id": "19",
+        "english": "I understand ",
+        "chinese": " 我明白了"
+    },
+    {
+        "id": "20",
+        "english": "I don't understand ",
+        "chinese": " 我不明白"
+    },
+    {
+        "id": "21",
+        "english": "Can you help me? ",
+        "chinese": " 你能帮我吗?"
+    },
+    {
+        "id": "22",
+        "english": "What time is it? ",
+        "chinese": " 现在几点?"
+    },
+    {
+        "id": "23",
+        "english": "How much is this? ",
+        "chinese": " 这个多少钱?"
+    },
+    {
+        "id": "24",
+        "english": "I'm hungry ",
+        "chinese": " 我饿了"
+    },
+    {
+        "id": "25",
+        "english": "I'm tired ",
+        "chinese": " 我累了"
+    },
+    {
+        "id": "26",
+        "english": "I'm busy ",
+        "chinese": " 我很忙"
+    },
+    {
+        "id": "27",
+        "english": "No problem ",
+        "chinese": " 没问题"
+    },
+    {
+        "id": "28",
+        "english": "That's great ",
+        "chinese": " 太好了"
+    },
+    {
+        "id": "29",
+        "english": "I agree ",
+        "chinese": " 我同意"
+    },
+    {
+        "id": "30",
+        "english": "I disagree ",
+        "chinese": " 我不同意"
+    },
+    {
+        "id": "31",
+        "english": "Be careful ",
+        "chinese": " 小心"
+    },
+    {
+        "id": "32",
+        "english": "Good luck ",
+        "chinese": " 祝你好运"
+    },
+    {
+        "id": "33",
+        "english": "Have a nice day ",
+        "chinese": " 祝你今天愉快"
+    },
+    {
+        "id": "34",
+        "english": "What's wrong? ",
+        "chinese": " 怎么了?"
+    },
+    {
+        "id": "35",
+        "english": "I'm fine ",
+        "chinese": " 我很好"
+    },
+    {
+        "id": "36",
+        "english": "Don't worry ",
+        "chinese": " 别担心"
+    },
+    {
+        "id": "37",
+        "english": "I'm late ",
+        "chinese": " 我迟到了"
+    },
+    {
+        "id": "38",
+        "english": "Please wait ",
+        "chinese": " 请等一下"
+    },
+    {
+        "id": "39",
+        "english": "Come in ",
+        "chinese": " 请进"
+    },
+    {
+        "id": "40",
+        "english": "Sit down ",
+        "chinese": " 请坐"
+    },
+    {
+        "id": "41",
+        "english": "Follow me ",
+        "chinese": " 跟我来"
+    },
+    {
+        "id": "42",
+        "english": "I like it ",
+        "chinese": " 我喜欢"
+    },
+    {
+        "id": "43",
+        "english": "I don't like it ",
+        "chinese": " 我不喜欢"
+    },
+    {
+        "id": "44",
+        "english": "What's new? ",
+        "chinese": " 有什么新鲜事?"
+    },
+    {
+        "id": "45",
+        "english": "Take your time ",
+        "chinese": " 慢慢来"
+    },
+    {
+        "id": "46",
+        "english": "It's time to go ",
+        "chinese": " 该走了"
+    },
+    {
+        "id": "47",
+        "english": "Call me ",
+        "chinese": " 给我打电话"
+    },
+    {
+        "id": "48",
+        "english": "Text me ",
+        "chinese": " 给我发短信"
+    },
+    {
+        "id": "49",
+        "english": "I got it ",
+        "chinese": " 我知道了"
+    },
+    {
+        "id": "50",
+        "english": "Let me think ",
+        "chinese": " 让我想想"
+    },
+    {
+        "id": "51",
+        "english": "What's happening? ",
+        "chinese": " 发生什么事了？"
+    },
+    {
+        "id": "52",
+        "english": "I can't believe it ",
+        "chinese": " 我不敢相信"
+    },
+    {
+        "id": "53",
+        "english": "Are you sure? ",
+        "chinese": " 你确定吗？"
+    },
+    {
+        "id": "54",
+        "english": "Just kidding ",
+        "chinese": " 开玩笑的"
+    },
+    {
+        "id": "55",
+        "english": "Never mind ",
+        "chinese": " 没关系"
+    },
+    {
+        "id": "56",
+        "english": "What's the matter? ",
+        "chinese": " 怎么回事？"
+    },
+    {
+        "id": "57",
+        "english": "I'm lost ",
+        "chinese": " 我迷路了"
+    },
+    {
+        "id": "58",
+        "english": "Let's go ",
+        "chinese": " 我们走吧"
+    },
+    {
+        "id": "59",
+        "english": "Hurry up ",
+        "chinese": " 快点"
+    },
+    {
+        "id": "60",
+        "english": "Slow down ",
+        "chinese": " 慢点"
+    },
+    {
+        "id": "61",
+        "english": "Keep going ",
+        "chinese": " 继续"
+    },
+    {
+        "id": "62",
+        "english": "Stop here ",
+        "chinese": " 在这里停"
+    },
+    {
+        "id": "63",
+        "english": "Turn left ",
+        "chinese": " 左转"
+    },
+    {
+        "id": "64",
+        "english": "Turn right ",
+        "chinese": " 右转"
+    },
+    {
+        "id": "65",
+        "english": "Go straight ",
+        "chinese": " 直走"
+    },
+    {
+        "id": "66",
+        "english": "Come back ",
+        "chinese": " 回来"
+    },
+    {
+        "id": "67",
+        "english": "Get out ",
+        "chinese": " 出去"
+    },
+    {
+        "id": "68",
+        "english": "Stay here ",
+        "chinese": " 待在这里"
+    },
+    {
+        "id": "69",
+        "english": "Be quiet ",
+        "chinese": " 安静"
+    },
+    {
+        "id": "70",
+        "english": "Listen carefully ",
+        "chinese": " 仔细听"
+    },
+    {
+        "id": "71",
+        "english": "Look at this ",
+        "chinese": " 看这个"
+    },
+    {
+        "id": "72",
+        "english": "Pay attention ",
+        "chinese": " 注意"
+    },
+    {
+        "id": "73",
+        "english": "Remember this ",
+        "chinese": " 记住这个"
+    },
+    {
+        "id": "74",
+        "english": "Forget it ",
+        "chinese": " 算了"
+    },
+    {
+        "id": "75",
+        "english": "Tell me ",
+        "chinese": " 告诉我"
+    },
+    {
+        "id": "76",
+        "english": "Show me ",
+        "chinese": " 给我看看"
+    },
+    {
+        "id": "77",
+        "english": "Help yourself ",
+        "chinese": " 请自便"
+    },
+    {
+        "id": "78",
+        "english": "Make yourself at home ",
+        "chinese": " 随便点"
+    },
+    {
+        "id": "79",
+        "english": "Long time no see ",
+        "chinese": " 好久不见"
+    },
+    {
+        "id": "80",
+        "english": "Take it easy ",
+        "chinese": " 别紧张"
+    },
+    {
+        "id": "81",
+        "english": "Cheer up ",
+        "chinese": " 振作起来"
+    },
+    {
+        "id": "82",
+        "english": "Get well soon ",
+        "chinese": " 早日康复"
+    },
+    {
+        "id": "83",
+        "english": "Sweet dreams ",
+        "chinese": " 做个好梦"
+    },
+    {
+        "id": "84",
+        "english": "What's the weather like? ",
+        "chinese": " 天气怎么样？"
+    },
+    {
+        "id": "85",
+        "english": "It's raining ",
+        "chinese": " 在下雨"
+    },
+    {
+        "id": "86",
+        "english": "It's sunny ",
+        "chinese": " 天气晴朗"
+    },
+    {
+        "id": "87",
+        "english": "It's cold ",
+        "chinese": " 天气很冷"
+    },
+    {
+        "id": "88",
+        "english": "It's hot ",
+        "chinese": " 天气很热"
+    },
+    {
+        "id": "89",
+        "english": "I'm thirsty ",
+        "chinese": " 我渴了"
+    },
+    {
+        "id": "90",
+        "english": "I'm full ",
+        "chinese": " 我饱了"
+    },
+    {
+        "id": "91",
+        "english": "I'm sleepy ",
+        "chinese": " 我困了"
+    },
+    {
+        "id": "92",
+        "english": "I feel sick ",
+        "chinese": " 我感觉不舒服"
+    },
+    {
+        "id": "93",
+        "english": "Get better ",
+        "chinese": " 好起来"
+    },
+    {
+        "id": "94",
+        "english": "Take a rest ",
+        "chinese": " 休息一下"
+    },
+    {
+        "id": "95",
+        "english": "Wake up ",
+        "chinese": " 醒醒"
+    },
+    {
+        "id": "96",
+        "english": "Go to sleep ",
+        "chinese": " 去睡觉"
+    },
+    {
+        "id": "97",
+        "english": "Have a seat ",
+        "chinese": " 请坐"
+    },
+    {
+        "id": "98",
+        "english": "May I come in? ",
+        "chinese": " 我可以进来吗？"
+    },
+    {
+        "id": "99",
+        "english": "Please help yourself ",
+        "chinese": " 请随意"
+    },
+    {
+        "id": "100",
+        "english": "What do you think? ",
+        "chinese": " 你觉得怎么样？"
+    },
+    {
+        "id": "101",
+        "english": "I think so ",
+        "chinese": " 我也这么认为"
+    },
+    {
+        "id": "102",
+        "english": "I don't think so ",
+        "chinese": " 我不这么认为"
+    },
+    {
+        "id": "103",
+        "english": "That's right ",
+        "chinese": " 对的"
+    },
+    {
+        "id": "104",
+        "english": "That's wrong ",
+        "chinese": " 错的"
+    },
+    {
+        "id": "105",
+        "english": "I made a mistake ",
+        "chinese": " 我犯了个错"
+    },
+    {
+        "id": "106",
+        "english": "Try again ",
+        "chinese": " 再试一次"
+    },
+    {
+        "id": "107",
+        "english": "Good job ",
+        "chinese": " 干得好"
+    },
+    {
+        "id": "108",
+        "english": "Well done ",
+        "chinese": " 做得好"
+    },
+    {
+        "id": "109",
+        "english": "Keep it up ",
+        "chinese": " 继续保持"
+    },
+    {
+        "id": "110",
+        "english": "Take your time ",
+        "chinese": " 慢慢来"
+    },
+    {
+        "id": "111",
+        "english": "Time's up ",
+        "chinese": " 时间到了"
+    },
+    {
+        "id": "112",
+        "english": "Wait a minute ",
+        "chinese": " 等一下"
+    },
+    {
+        "id": "113",
+        "english": "Hold on ",
+        "chinese": " 稍等"
+    },
+    {
+        "id": "114",
+        "english": "Just a moment ",
+        "chinese": " 稍等一会"
+    },
+    {
+        "id": "115",
+        "english": "I'll be right back ",
+        "chinese": " 我马上回来"
+    },
+    {
+        "id": "116",
+        "english": "See you tomorrow ",
+        "chinese": " 明天见"
+    },
+    {
+        "id": "117",
+        "english": "See you soon ",
+        "chinese": " 待会见"
+    },
+    {
+        "id": "118",
+        "english": "Take care ",
+        "chinese": " 保重"
+    },
+    {
+        "id": "119",
+        "english": "Have fun ",
+        "chinese": " 玩得开心"
+    },
+    {
+        "id": "120",
+        "english": "Be careful ",
+        "chinese": " 小心"
+    },
+    {
+        "id": "121",
+        "english": "Watch out ",
+        "chinese": " 当心"
+    },
+    {
+        "id": "122",
+        "english": "Look out ",
+        "chinese": " 注意"
+    },
+    {
+        "id": "123",
+        "english": "Be patient ",
+        "chinese": " 要有耐心"
+    },
+    {
+        "id": "124",
+        "english": "Keep calm ",
+        "chinese": " 保持冷静"
+    },
+    {
+        "id": "125",
+        "english": "Don't give up ",
+        "chinese": " 不要放弃"
+    },
+    {
+        "id": "126",
+        "english": "Do your best ",
+        "chinese": " 尽你最大努力"
+    },
+    {
+        "id": "127",
+        "english": "It's up to you ",
+        "chinese": " 由你决定"
+    },
+    {
+        "id": "128",
+        "english": "As you wish ",
+        "chinese": " 随你便"
+    },
+    {
+        "id": "129",
+        "english": "Whatever you say ",
+        "chinese": " 随你说"
+    },
+    {
+        "id": "130",
+        "english": "I can't help it ",
+        "chinese": " 我没办法"
+    },
+    {
+        "id": "131",
+        "english": "That's life ",
+        "chinese": " 生活就是这样"
+    },
+    {
+        "id": "132",
+        "english": "Time flies ",
+        "chinese": " 时光飞逝"
+    },
+    {
+        "id": "133",
+        "english": "Better late than never ",
+        "chinese": " 迟到总比不到好"
+    },
+    {
+        "id": "134",
+        "english": "Take it or leave it ",
+        "chinese": " 爱要不要"
+    },
+    {
+        "id": "135",
+        "english": "Make yourself clear ",
+        "chinese": " 说清楚点"
+    },
+    {
+        "id": "136",
+        "english": "Speak up ",
+        "chinese": " 说大声点"
+    },
+    {
+        "id": "137",
+        "english": "Say that again ",
+        "chinese": " 再说一遍"
+    },
+    {
+        "id": "138",
+        "english": "I beg your pardon ",
+        "chinese": " 请再说一遍"
+    },
+    {
+        "id": "139",
+        "english": "Could you repeat that? ",
+        "chinese": " 能再重复一遍吗？"
+    },
+    {
+        "id": "140",
+        "english": "I didn't catch that ",
+        "chinese": " 我没听清"
+    },
+    {
+        "id": "141",
+        "english": "Speak slowly ",
+        "chinese": " 说慢点"
+    },
+    {
+        "id": "142",
+        "english": "What do you mean? ",
+        "chinese": " 你什么意思？"
+    },
+    {
+        "id": "143",
+        "english": "I see ",
+        "chinese": " 我明白了"
+    },
+    {
+        "id": "144",
+        "english": "Is that so? ",
+        "chinese": " 是这样吗？"
+    },
+    {
+        "id": "145",
+        "english": "Really? ",
+        "chinese": " 真的吗？"
+    },
+    {
+        "id": "146",
+        "english": "Seriously? ",
+        "chinese": " 认真的吗？"
+    },
+    {
+        "id": "147",
+        "english": "No way ",
+        "chinese": " 不可能"
+    },
+    {
+        "id": "148",
+        "english": "That's impossible ",
+        "chinese": " 那是不可能的"
+    },
+    {
+        "id": "149",
+        "english": "Maybe ",
+        "chinese": " 也许"
+    },
+    {
+        "id": "150",
+        "english": "Probably ",
+        "chinese": " 可能"
+    },
+    {
+        "id": "151",
+        "english": "Let me know ",
+        "chinese": " 告诉我"
+    },
+    {
+        "id": "152",
+        "english": "Keep in touch ",
+        "chinese": " 保持联系"
+    },
+    {
+        "id": "153",
+        "english": "Call me back ",
+        "chinese": " 回我电话"
+    },
+    {
+        "id": "154",
+        "english": "I'll call you later ",
+        "chinese": " 我待会打给你"
+    },
+    {
+        "id": "155",
+        "english": "Send me a message ",
+        "chinese": " 给我发消息"
+    },
+    {
+        "id": "156",
+        "english": "Check it out ",
+        "chinese": " 看看这个"
+    },
+    {
+        "id": "157",
+        "english": "Think about it ",
+        "chinese": " 考虑一下"
+    },
+    {
+        "id": "158",
+        "english": "Take a look ",
+        "chinese": " 看一看"
+    },
+    {
+        "id": "159",
+        "english": "Give it a try ",
+        "chinese": " 试一试"
+    },
+    {
+        "id": "160",
+        "english": "Count me in ",
+        "chinese": " 算我一个"
+    },
+    {
+        "id": "161",
+        "english": "I'm in ",
+        "chinese": " 我参加"
+    },
+    {
+        "id": "162",
+        "english": "I'm out ",
+        "chinese": " 我不参加"
+    },
+    {
+        "id": "163",
+        "english": "Deal ",
+        "chinese": " 说定了"
+    },
+    {
+        "id": "164",
+        "english": "It's a deal ",
+        "chinese": " 一言为定"
+    },
+    {
+        "id": "165",
+        "english": "Promise me ",
+        "chinese": " 答应我"
+    },
+    {
+        "id": "166",
+        "english": "Trust me ",
+        "chinese": " 相信我"
+    },
+    {
+        "id": "167",
+        "english": "Believe me ",
+        "chinese": " 相信我"
+    },
+    {
+        "id": "168",
+        "english": "I swear ",
+        "chinese": " 我发誓"
+    },
+    {
+        "id": "169",
+        "english": "To be honest ",
+        "chinese": " 说实话"
+    },
+    {
+        "id": "170",
+        "english": "Actually ",
+        "chinese": " 事实上"
+    },
+    {
+        "id": "171",
+        "english": "By the way ",
+        "chinese": " 顺便说一下"
+    },
+    {
+        "id": "172",
+        "english": "In other words ",
+        "chinese": " 换句话说"
+    },
+    {
+        "id": "173",
+        "english": "For example ",
+        "chinese": " 比如说"
+    },
+    {
+        "id": "174",
+        "english": "Such as ",
+        "chinese": " 例如"
+    },
+    {
+        "id": "175",
+        "english": "That is to say ",
+        "chinese": " 也就是说"
+    },
+    {
+        "id": "176",
+        "english": "What I mean is ",
+        "chinese": " 我的意思是"
+    },
+    {
+        "id": "177",
+        "english": "The point is ",
+        "chinese": " 重点是"
+    },
+    {
+        "id": "178",
+        "english": "First of all ",
+        "chinese": " 首先"
+    },
+    {
+        "id": "179",
+        "english": "Last but not least ",
+        "chinese": " 最后但同样重要"
+    },
+    {
+        "id": "180",
+        "english": "On the other hand ",
+        "chinese": " 另一方面"
+    },
+    {
+        "id": "181",
+        "english": "In my opinion ",
+        "chinese": " 在我看来"
+    },
+    {
+        "id": "182",
+        "english": "As far as I know ",
+        "chinese": " 据我所知"
+    },
+    {
+        "id": "183",
+        "english": "To tell the truth ",
+        "chinese": " 说实话"
+    },
+    {
+        "id": "184",
+        "english": "To be frank ",
+        "chinese": " 坦白说"
+    },
+    {
+        "id": "185",
+        "english": "Guess what ",
+        "chinese": " 猜猜看"
+    },
+    {
+        "id": "186",
+        "english": "You know what ",
+        "chinese": " 你知道吗"
+    },
+    {
+        "id": "187",
+        "english": "Can you imagine ",
+        "chinese": " 你能想象吗"
+    },
+    {
+        "id": "188",
+        "english": "Believe it or not ",
+        "chinese": " 信不信由你"
+    },
+    {
+        "id": "189",
+        "english": "It depends ",
+        "chinese": " 这得看情况"
+    },
+    {
+        "id": "190",
+        "english": "Who knows ",
+        "chinese": " 谁知道呢"
+    },
+    {
+        "id": "191",
+        "english": "It's up to you ",
+        "chinese": " 由你决定"
+    },
+    {
+        "id": "192",
+        "english": "Whatever you like ",
+        "chinese": " 随你喜欢"
+    },
+    {
+        "id": "193",
+        "english": "As you please ",
+        "chinese": " 随你便"
+    },
+    {
+        "id": "194",
+        "english": "Help yourself ",
+        "chinese": " 请自便"
+    },
+    {
+        "id": "195",
+        "english": "Make yourself at home ",
+        "chinese": " 别客气"
+    },
+    {
+        "id": "196",
+        "english": "Feel free ",
+        "chinese": " 随意"
+    },
+    {
+        "id": "197",
+        "english": "Go ahead ",
+        "chinese": " 请便"
+    },
+    {
+        "id": "198",
+        "english": "After you ",
+        "chinese": " 您先请"
+    },
+    {
+        "id": "199",
+        "english": "Ladies first ",
+        "chinese": " 女士优先"
+    },
+    {
+        "id": "200",
+        "english": "Age before beauty ",
+        "chinese": " 长者优先"
+    },
+    {
+        "id": "201",
+        "english": "What's the rush? ",
+        "chinese": " 着什么急？"
+    },
+    {
+        "id": "202",
+        "english": "Take it easy ",
+        "chinese": " 别着急"
+    },
+    {
+        "id": "203",
+        "english": "Relax ",
+        "chinese": " 放轻松"
+    },
+    {
+        "id": "204",
+        "english": "Don't panic ",
+        "chinese": " 别慌"
+    },
+    {
+        "id": "205",
+        "english": "Stay cool ",
+        "chinese": " 保持冷静"
+    },
+    {
+        "id": "206",
+        "english": "Keep going ",
+        "chinese": " 继续"
+    },
+    {
+        "id": "207",
+        "english": "That's enough ",
+        "chinese": " 够了"
+    },
+    {
+        "id": "208",
+        "english": "Stop it ",
+        "chinese": " 停下"
+    },
+    {
+        "id": "209",
+        "english": "Cut it out ",
+        "chinese": " 别闹了"
+    },
+    {
+        "id": "210",
+        "english": "Give me a break ",
+        "chinese": " 饶了我吧"
+    },
+    {
+        "id": "211",
+        "english": "Leave me alone ",
+        "chinese": " 别烦我"
+    },
+    {
+        "id": "212",
+        "english": "Mind your own business ",
+        "chinese": " 管好你自己的事"
+    },
+    {
+        "id": "213",
+        "english": "What's the big deal? ",
+        "chinese": " 有什么大不了的？"
+    },
+    {
+        "id": "214",
+        "english": "Who cares? ",
+        "chinese": " 谁在乎？"
+    },
+    {
+        "id": "215",
+        "english": "Big deal ",
+        "chinese": " 大不了"
+    },
+    {
+        "id": "216",
+        "english": "So what? ",
+        "chinese": " 那又怎样？"
+    },
+    {
+        "id": "217",
+        "english": "What for? ",
+        "chinese": " 为什么要这样？"
+    },
+    {
+        "id": "218",
+        "english": "What's the point? ",
+        "chinese": " 有什么意义？"
+    },
+    {
+        "id": "219",
+        "english": "It's worth it ",
+        "chinese": " 值得"
+    },
+    {
+        "id": "220",
+        "english": "It's not worth it ",
+        "chinese": " 不值得"
+    },
+    {
+        "id": "221",
+        "english": "That makes sense ",
+        "chinese": " 有道理"
+    },
+    {
+        "id": "222",
+        "english": "That doesn't make sense ",
+        "chinese": " 说不通"
+    },
+    {
+        "id": "223",
+        "english": "Fair enough ",
+        "chinese": " 说得对"
+    },
+    {
+        "id": "224",
+        "english": "Good point ",
+        "chinese": " 说得好"
+    },
+    {
+        "id": "225",
+        "english": "You have a point ",
+        "chinese": " 你说得有道理"
+    },
+    {
+        "id": "226",
+        "english": "Exactly ",
+        "chinese": " 就是这样"
+    },
+    {
+        "id": "227",
+        "english": " Precisely ",
+        "chinese": " 正是如此"
+    },
+    {
+        "id": "228",
+        "english": "Absolutely ",
+        "chinese": " 绝对是"
+    },
+    {
+        "id": "229",
+        "english": "Definitely ",
+        "chinese": " 当然"
+    },
+    {
+        "id": "230",
+        "english": "Of course ",
+        "chinese": " 当然"
+    },
+    {
+        "id": "231",
+        "english": "Sure thing ",
+        "chinese": " 当然可以"
+    },
+    {
+        "id": "232",
+        "english": "Why not? ",
+        "chinese": " 为什么不呢？"
+    },
+    {
+        "id": "233",
+        "english": "How come? ",
+        "chinese": " 怎么会？"
+    },
+    {
+        "id": "234",
+        "english": "What happened? ",
+        "chinese": " 发生什么事了？"
+    },
+    {
+        "id": "235",
+        "english": "What's going on? ",
+        "chinese": " 怎么回事？"
+    },
+    {
+        "id": "236",
+        "english": "What's up? ",
+        "chinese": " 最近怎么样？"
+    },
+    {
+        "id": "237",
+        "english": "How's it going? ",
+        "chinese": " 近况如何？"
+    },
+    {
+        "id": "238",
+        "english": "How are things? ",
+        "chinese": " 情况如何？"
+    },
+    {
+        "id": "239",
+        "english": "How's life? ",
+        "chinese": " 生活怎么样？"
+    },
+    {
+        "id": "240",
+        "english": "Not bad ",
+        "chinese": " 还不错"
+    },
+    {
+        "id": "241",
+        "english": "So far so good ",
+        "chinese": " 到目前为止都很好"
+    },
+    {
+        "id": "242",
+        "english": "Could be better ",
+        "chinese": " 可能会更好"
+    },
+    {
+        "id": "243",
+        "english": "Can't complain ",
+        "chinese": " 没什么可抱怨的"
+    },
+    {
+        "id": "244",
+        "english": "Same old, same old ",
+        "chinese": " 老样子"
+    },
+    {
+        "id": "245",
+        "english": "Nothing special ",
+        "chinese": " 没什么特别的"
+    },
+    {
+        "id": "246",
+        "english": "Nothing much ",
+        "chinese": " 没什么"
+    },
+    {
+        "id": "247",
+        "english": "Just kidding ",
+        "chinese": " 开玩笑的"
+    },
+    {
+        "id": "248",
+        "english": "I'm just messing with you ",
+        "chinese": " 我逗你玩呢"
+    },
+    {
+        "id": "249",
+        "english": "Don't take it seriously ",
+        "chinese": " 别当真"
+    },
+    {
+        "id": "250",
+        "english": "I mean it ",
+        "chinese": " 我是认真的"
+    },
+    {
+        "id": "251",
+        "english": "I got stuck in traffic ",
+        "chinese": " 我遇到堵车了"
+    },
+    {
+        "id": "252",
+        "english": "I'm running late ",
+        "chinese": " 我要迟到了"
+    },
+    {
+        "id": "253",
+        "english": "What's for dinner? ",
+        "chinese": " 晚饭吃什么？"
+    },
+    {
+        "id": "254",
+        "english": "I'm starving ",
+        "chinese": " 我快饿死了"
+    },
+    {
+        "id": "255",
+        "english": "This is my treat ",
+        "chinese": " 这顿我请"
+    },
+    {
+        "id": "256",
+        "english": "Let's split the bill ",
+        "chinese": " 我们平摊吧"
+    },
+    {
+        "id": "257",
+        "english": "Can I borrow this? ",
+        "chinese": " 我能借这个吗？"
+    },
+    {
+        "id": "258",
+        "english": "Give me a hand ",
+        "chinese": " 帮我一下"
+    },
+    {
+        "id": "259",
+        "english": "Do me a favor ",
+        "chinese": " 帮个忙"
+    },
+    {
+        "id": "260",
+        "english": "Leave a message ",
+        "chinese": " 留言吧"
+    },
+    {
+        "id": "261",
+        "english": "I'll pass ",
+        "chinese": " 我就算了"
+    },
+    {
+        "id": "262",
+        "english": "Count me out ",
+        "chinese": " 不用算上我"
+    },
+    {
+        "id": "263",
+        "english": "I changed my mind ",
+        "chinese": " 我改变主意了"
+    },
+    {
+        "id": "264",
+        "english": "Make up your mind ",
+        "chinese": " 做个决定吧"
+    },
+    {
+        "id": "265",
+        "english": "Take your pick ",
+        "chinese": " 随便选"
+    },
+    {
+        "id": "266",
+        "english": "It's your turn ",
+        "chinese": " 轮到你了"
+    },
+    {
+        "id": "267",
+        "english": "I can't afford it ",
+        "chinese": " 我买不起"
+    },
+    {
+        "id": "268",
+        "english": "It's on sale ",
+        "chinese": " 在打折"
+    },
+    {
+        "id": "269",
+        "english": "What a bargain ",
+        "chinese": " 真便宜"
+    },
+    {
+        "id": "270",
+        "english": "That's too expensive ",
+        "chinese": " 太贵了"
+    },
+    {
+        "id": "271",
+        "english": "Can you give me a discount? ",
+        "chinese": " 能便宜点吗？"
+    },
+    {
+        "id": "272",
+        "english": "Do you have change? ",
+        "chinese": " 你有零钱吗？"
+    },
+    {
+        "id": "273",
+        "english": "Keep the change ",
+        "chinese": " 不用找了"
+    },
+    {
+        "id": "274",
+        "english": "I'll think about it ",
+        "chinese": " 我考虑考虑"
+    },
+    {
+        "id": "275",
+        "english": "Let me check ",
+        "chinese": " 让我看看"
+    },
+    {
+        "id": "276",
+        "english": "Just looking ",
+        "chinese": " 随便看看"
+    },
+    {
+        "id": "277",
+        "english": "I'm just browsing ",
+        "chinese": " 我只是随便看看"
+    },
+    {
+        "id": "278",
+        "english": "What size do you wear? ",
+        "chinese": " 你穿多大号？"
+    },
+    {
+        "id": "279",
+        "english": "It fits perfectly ",
+        "chinese": " 很合身"
+    },
+    {
+        "id": "280",
+        "english": "It's too tight ",
+        "chinese": " 太紧了"
+    },
+    {
+        "id": "281",
+        "english": "It's too loose ",
+        "chinese": " 太松了"
+    },
+    {
+        "id": "282",
+        "english": "Where's the bathroom? ",
+        "chinese": " 洗手间在哪？"
+    },
+    {
+        "id": "283",
+        "english": "I'm lost ",
+        "chinese": " 我迷路了"
+    },
+    {
+        "id": "284",
+        "english": "Which way? ",
+        "chinese": " 往哪边走？"
+    },
+    {
+        "id": "285",
+        "english": "How far is it? ",
+        "chinese": " 有多远？"
+    },
+    {
+        "id": "286",
+        "english": "Is it walking distance? ",
+        "chinese": " 步行能到吗？"
+    },
+    {
+        "id": "287",
+        "english": "Can you drop me off? ",
+        "chinese": " 你能送我一程吗？"
+    },
+    {
+        "id": "288",
+        "english": "Pull over here ",
+        "chinese": " 在这停车"
+    },
+    {
+        "id": "289",
+        "english": "Watch your step ",
+        "chinese": " 小心脚下"
+    },
+    {
+        "id": "290",
+        "english": "After you ",
+        "chinese": " 您请"
+    },
+    {
+        "id": "291",
+        "english": "What's the wifi password? ",
+        "chinese": " wifi密码是什么？"
+    },
+    {
+        "id": "292",
+        "english": "My phone is dead ",
+        "chinese": " 我手机没电了"
+    },
+    {
+        "id": "293",
+        "english": "Can I charge my phone? ",
+        "chinese": " 我能充下电吗？"
+    },
+    {
+        "id": "294",
+        "english": "Do you have a charger? ",
+        "chinese": " 你有充电器吗？"
+    },
+    {
+        "id": "295",
+        "english": "The signal is bad ",
+        "chinese": " 信号不好"
+    },
+    {
+        "id": "296",
+        "english": "I can't get through ",
+        "chinese": " 打不通"
+    },
+    {
+        "id": "297",
+        "english": "You're breaking up ",
+        "chinese": " 你说话断断续续的"
+    },
+    {
+        "id": "298",
+        "english": "Speak up please ",
+        "chinese": " 请说大声点"
+    },
+    {
+        "id": "299",
+        "english": "Can you hear me? ",
+        "chinese": " 你能听到我说话吗？"
+    },
+    {
+        "id": "300",
+        "english": "The line is busy ",
+        "chinese": " 占线"
+    },
+    {
+        "id": "301",
+        "english": "I'll call back later ",
+        "chinese": " 我待会再打"
+    },
+    {
+        "id": "302",
+        "english": "Wrong number ",
+        "chinese": " 打错了"
+    },
+    {
+        "id": "303",
+        "english": "Who's calling? ",
+        "chinese": " 是谁打来的？"
+    },
+    {
+        "id": "304",
+        "english": "Hold the line ",
+        "chinese": " 别挂电话"
+    },
+    {
+        "id": "305",
+        "english": "I need to go ",
+        "chinese": " 我得走了"
+    },
+    {
+        "id": "306",
+        "english": "Time to go ",
+        "chinese": " 该走了"
+    },
+    {
+        "id": "307",
+        "english": "I'm heading out ",
+        "chinese": " 我要出门了"
+    },
+    {
+        "id": "308",
+        "english": "Take it easy ",
+        "chinese": " 别太累了"
+    },
+    {
+        "id": "309",
+        "english": "Get some rest ",
+        "chinese": " 好好休息"
+    },
+    {
+        "id": "310",
+        "english": "Feel better ",
+        "chinese": " 感觉好一点"
+    },
+    {
+        "id": "311",
+        "english": "What's the problem? ",
+        "chinese": " 什么问题？"
+    },
+    {
+        "id": "312",
+        "english": "That's weird ",
+        "chinese": " 真奇怪"
+    },
+    {
+        "id": "313",
+        "english": "No wonder ",
+        "chinese": " 难怪"
+    },
+    {
+        "id": "314",
+        "english": "That explains it ",
+        "chinese": " 这就说得通了"
+    },
+    {
+        "id": "315",
+        "english": "Same here ",
+        "chinese": " 我也是"
+    },
+    {
+        "id": "316",
+        "english": "Me too ",
+        "chinese": " 我也是"
+    },
+    {
+        "id": "317",
+        "english": "Not really ",
+        "chinese": " 不太是"
+    },
+    {
+        "id": "318",
+        "english": "Sort of ",
+        "chinese": " 差不多"
+    },
+    {
+        "id": "319",
+        "english": "More or less ",
+        "chinese": " 或多或少"
+    },
+    {
+        "id": "320",
+        "english": "I guess so ",
+        "chinese": " 我想是的"
+    },
+    {
+        "id": "321",
+        "english": "Here you go ",
+        "chinese": " 给你"
+    },
+    {
+        "id": "322",
+        "english": "There you are ",
+        "chinese": " 你在这啊"
+    },
+    {
+        "id": "323",
+        "english": "Help yourself ",
+        "chinese": " 请自便"
+    },
+    {
+        "id": "324",
+        "english": "Make yourself at home ",
+        "chinese": " 别客气"
+    },
+    {
+        "id": "325",
+        "english": "What brings you here? ",
+        "chinese": " 什么风把你吹来了？"
+    },
+    {
+        "id": "326",
+        "english": "Long time no see ",
+        "chinese": " 好久不见"
+    },
+    {
+        "id": "327",
+        "english": "You look great ",
+        "chinese": " 你看起来不错"
+    },
+    {
+        "id": "328",
+        "english": "Have a good one ",
+        "chinese": " 祝你愉快"
+    },
+    {
+        "id": "329",
+        "english": "Take care of yourself ",
+        "chinese": " 保重"
+    },
+    {
+        "id": "330",
+        "english": "Keep in touch ",
+        "chinese": " 保持联系"
+    },
+    {
+        "id": "331",
+        "english": "Don't forget ",
+        "chinese": " 别忘了"
+    },
+    {
+        "id": "332",
+        "english": "Remember to ",
+        "chinese": " 记得要"
+    },
+    {
+        "id": "333",
+        "english": "Did you get that? ",
+        "chinese": " 你明白了吗？"
+    },
+    {
+        "id": "334",
+        "english": "Got it ",
+        "chinese": " 明白了"
+    },
+    {
+        "id": "335",
+        "english": "I see ",
+        "chinese": " 我懂了"
+    },
+    {
+        "id": "336",
+        "english": "That works ",
+        "chinese": " 可以"
+    },
+    {
+        "id": "337",
+        "english": "Sounds good ",
+        "chinese": " 听起来不错"
+    },
+    {
+        "id": "338",
+        "english": "Works for me ",
+        "chinese": " 我觉得可以"
+    },
+    {
+        "id": "339",
+        "english": "Fine with me ",
+        "chinese": " 我没意见"
+    },
+    {
+        "id": "340",
+        "english": "Whatever works ",
+        "chinese": " 都行"
+    },
+    {
+        "id": "341",
+        "english": "Up to you ",
+        "chinese": " 随你"
+    },
+    {
+        "id": "342",
+        "english": "I don't mind ",
+        "chinese": " 我无所谓"
+    },
+    {
+        "id": "343",
+        "english": "If you say so ",
+        "chinese": " 既然你这么说"
+    },
+    {
+        "id": "344",
+        "english": "Let me see ",
+        "chinese": " 让我看看"
+    },
+    {
+        "id": "345",
+        "english": "Let me think ",
+        "chinese": " 让我想想"
+    },
+    {
+        "id": "346",
+        "english": "Give me a second ",
+        "chinese": " 等一下"
+    },
+    {
+        "id": "347",
+        "english": "Just a minute ",
+        "chinese": " 等一会"
+    },
+    {
+        "id": "348",
+        "english": "Hold on ",
+        "chinese": " 等等"
+    },
+    {
+        "id": "349",
+        "english": "Almost done ",
+        "chinese": " 快好了"
+    },
+    {
+        "id": "350",
+        "english": "All set ",
+        "chinese": " 准备好了"
+    },
+    {
+        "id": "351",
+        "english": "What's on your mind? ",
+        "chinese": " 你在想什么？"
+    },
+    {
+        "id": "352",
+        "english": "I'm not sure ",
+        "chinese": " 我不确定"
+    },
+    {
+        "id": "353",
+        "english": "Let me double check ",
+        "chinese": " 让我再确认一下"
+    },
+    {
+        "id": "354",
+        "english": "Are you ready? ",
+        "chinese": " 你准备好了吗？"
+    },
+    {
+        "id": "355",
+        "english": "Ready to go ",
+        "chinese": " 准备走了"
+    },
+    {
+        "id": "356",
+        "english": "I'm done ",
+        "chinese": " 我完成了"
+    },
+    {
+        "id": "357",
+        "english": "All done ",
+        "chinese": " 都做完了"
+    },
+    {
+        "id": "358",
+        "english": "Not yet ",
+        "chinese": " 还没有"
+    },
+    {
+        "id": "359",
+        "english": "Just started ",
+        "chinese": " 刚开始"
+    },
+    {
+        "id": "360",
+        "english": "Almost there ",
+        "chinese": " 快到了"
+    },
+    {
+        "id": "361",
+        "english": "On my way ",
+        "chinese": " 我在路上"
+    },
+    {
+        "id": "362",
+        "english": "Be right there ",
+        "chinese": " 马上到"
+    },
+    {
+        "id": "363",
+        "english": "Running late ",
+        "chinese": " 要迟到了"
+    },
+    {
+        "id": "364",
+        "english": "Stuck in traffic ",
+        "chinese": " 堵车了"
+    },
+    {
+        "id": "365",
+        "english": "Wait for me ",
+        "chinese": " 等等我"
+    },
+    {
+        "id": "366",
+        "english": "Save me a seat ",
+        "chinese": " 帮我占个座"
+    },
+    {
+        "id": "367",
+        "english": "Is this seat taken? ",
+        "chinese": " 这座位有人吗？"
+    },
+    {
+        "id": "368",
+        "english": "Mind if I join you? ",
+        "chinese": " 介意我加入吗？"
+    },
+    {
+        "id": "369",
+        "english": "What's the occasion? ",
+        "chinese": " 什么特别的日子？"
+    },
+    {
+        "id": "370",
+        "english": "What's the plan? ",
+        "chinese": " 有什么计划？"
+    },
+    {
+        "id": "371",
+        "english": "Any suggestions? ",
+        "chinese": " 有什么建议吗？"
+    },
+    {
+        "id": "372",
+        "english": "What do you recommend? ",
+        "chinese": " 你推荐什么？"
+    },
+    {
+        "id": "373",
+        "english": "I'll have the same ",
+        "chinese": " 我要一样的"
+    },
+    {
+        "id": "374",
+        "english": "That's enough ",
+        "chinese": " 够了"
+    },
+    {
+        "id": "375",
+        "english": "I'm good ",
+        "chinese": " 我很好"
+    },
+    {
+        "id": "376",
+        "english": "I'll pass ",
+        "chinese": " 我就算了"
+    },
+    {
+        "id": "377",
+        "english": "Maybe next time ",
+        "chinese": " 下次吧"
+    },
+    {
+        "id": "378",
+        "english": "Some other time ",
+        "chinese": " 改天吧"
+    },
+    {
+        "id": "379",
+        "english": "Rain check? ",
+        "chinese": " 改天再约？"
+    },
+    {
+        "id": "380",
+        "english": "What's the catch? ",
+        "chinese": " 有什么陷阱？"
+    },
+    {
+        "id": "381",
+        "english": "What's the deal? ",
+        "chinese": " 是怎么回事？"
+    },
+    {
+        "id": "382",
+        "english": "What happened? ",
+        "chinese": " 发生什么了？"
+    },
+    {
+        "id": "383",
+        "english": "No way! ",
+        "chinese": " 不会吧！"
+    },
+    {
+        "id": "384",
+        "english": "You're kidding! ",
+        "chinese": " 你在开玩笑吧！"
+    },
+    {
+        "id": "385",
+        "english": "For real? ",
+        "chinese": " 真的吗？"
+    },
+    {
+        "id": "386",
+        "english": "Are you serious? ",
+        "chinese": " 你认真的吗？"
+    },
+    {
+        "id": "387",
+        "english": "Tell me about it ",
+        "chinese": " 给我说说"
+    },
+    {
+        "id": "388",
+        "english": "Keep me posted ",
+        "chinese": " 告诉我最新情况"
+    },
+    {
+        "id": "389",
+        "english": "Fill me in ",
+        "chinese": " 跟我说说详情"
+    },
+    {
+        "id": "390",
+        "english": "What's new? ",
+        "chinese": " 有什么新鲜事？"
+    },
+    {
+        "id": "391",
+        "english": "How's everything? ",
+        "chinese": " 一切都好吗？"
+    },
+    {
+        "id": "392",
+        "english": "How's work? ",
+        "chinese": " 工作怎么样？"
+    },
+    {
+        "id": "393",
+        "english": "How's your family? ",
+        "chinese": " 家人都好吗？"
+    },
+    {
+        "id": "394",
+        "english": "Take your time ",
+        "chinese": " 慢慢来"
+    },
+    {
+        "id": "395",
+        "english": "No rush ",
+        "chinese": " 不着急"
+    },
+    {
+        "id": "396",
+        "english": "No pressure ",
+        "chinese": " 不要有压力"
+    },
+    {
+        "id": "397",
+        "english": "Don't worry about it ",
+        "chinese": " 别担心"
+    },
+    {
+        "id": "398",
+        "english": "It happens ",
+        "chinese": " 这种事情常有"
+    },
+    {
+        "id": "399",
+        "english": "That's life ",
+        "chinese": " 生活就是这样"
+    },
+    {
+        "id": "400",
+        "english": "Could be worse ",
+        "chinese": " 还可能更糟"
+    },
+    {
+        "id": "401",
+        "english": "Better than nothing ",
+        "chinese": " 总比没有强"
+    },
+    {
+        "id": "402",
+        "english": "Not too bad ",
+        "chinese": " 还不错"
+    },
+    {
+        "id": "403",
+        "english": "Pretty good ",
+        "chinese": " 挺好的"
+    },
+    {
+        "id": "404",
+        "english": "Can't complain ",
+        "chinese": " 没什么可抱怨的"
+    },
+    {
+        "id": "405",
+        "english": "Same as usual ",
+        "chinese": " 和往常一样"
+    },
+    {
+        "id": "406",
+        "english": "Nothing special ",
+        "chinese": " 没什么特别的"
+    },
+    {
+        "id": "407",
+        "english": "Take a break ",
+        "chinese": " 休息一下"
+    },
+    {
+        "id": "408",
+        "english": "Have a seat ",
+        "chinese": " 请坐"
+    },
+    {
+        "id": "409",
+        "english": "Make yourself comfortable ",
+        "chinese": " 请随便坐"
+    },
+    {
+        "id": "410",
+        "english": "Help yourself ",
+        "chinese": " 请自便"
+    },
+    {
+        "id": "411",
+        "english": "Want some? ",
+        "chinese": " 要来点吗？"
+    },
+    {
+        "id": "412",
+        "english": "Need anything? ",
+        "chinese": " 需要什么吗？"
+    },
+    {
+        "id": "413",
+        "english": "Can I get you anything? ",
+        "chinese": " 需要我帮你拿什么吗？"
+    },
+    {
+        "id": "414",
+        "english": "I got this ",
+        "chinese": " 这个我来处理"
+    },
+    {
+        "id": "415",
+        "english": "Leave it to me ",
+        "chinese": " 交给我吧"
+    },
+    {
+        "id": "416",
+        "english": "My treat ",
+        "chinese": " 我请客"
+    },
+    {
+        "id": "417",
+        "english": "It's on me ",
+        "chinese": " 我来付"
+    },
+    {
+        "id": "418",
+        "english": "Let me get that ",
+        "chinese": " 让我来付"
+    },
+    {
+        "id": "419",
+        "english": "Your share is ",
+        "chinese": " 你的份额是"
+    },
+    {
+        "id": "420",
+        "english": "Split the bill? ",
+        "chinese": " 平摊账单？"
+    },
+    {
+        "id": "421",
+        "english": "Keep the receipt ",
+        "chinese": " 保管好收据"
+    },
+    {
+        "id": "422",
+        "english": "Where should we meet? ",
+        "chinese": " 我们在哪见面？"
+    },
+    {
+        "id": "423",
+        "english": "What time works for you? ",
+        "chinese": " 什么时间方便？"
+    },
+    {
+        "id": "424",
+        "english": "I'm flexible ",
+        "chinese": " 我时间很灵活"
+    },
+    {
+        "id": "425",
+        "english": "Works for me ",
+        "chinese": " 对我来说可以"
+    },
+    {
+        "id": "426",
+        "english": "Sounds like a plan ",
+        "chinese": " 听起来不错"
+    },
+    {
+        "id": "427",
+        "english": "Count me in ",
+        "chinese": " 算我一个"
+    },
+    {
+        "id": "428",
+        "english": "I'm down ",
+        "chinese": " 我同意"
+    },
+    {
+        "id": "429",
+        "english": "I'm game ",
+        "chinese": " 我愿意"
+    },
+    {
+        "id": "430",
+        "english": "Let's do it ",
+        "chinese": " 我们开始吧"
+    },
+    {
+        "id": "431",
+        "english": "Why not? ",
+        "chinese": " 为什么不呢？"
+    },
+    {
+        "id": "432",
+        "english": "Good idea ",
+        "chinese": " 好主意"
+    },
+    {
+        "id": "433",
+        "english": "Bad idea ",
+        "chinese": " 不好的主意"
+    },
+    {
+        "id": "434",
+        "english": "Think twice ",
+        "chinese": " 再想想"
+    },
+    {
+        "id": "435",
+        "english": "Sleep on it ",
+        "chinese": " 睡一觉再说"
+    },
+    {
+        "id": "436",
+        "english": "Let me sleep on it ",
+        "chinese": " 让我考虑一晚"
+    },
+    {
+        "id": "437",
+        "english": "Give it a shot ",
+        "chinese": " 试一试"
+    },
+    {
+        "id": "438",
+        "english": "Worth a try ",
+        "chinese": " 值得一试"
+    },
+    {
+        "id": "439",
+        "english": "Can't hurt to try ",
+        "chinese": " 试试也无妨"
+    },
+    {
+        "id": "440",
+        "english": "Better safe than sorry ",
+        "chinese": " 宁可小心"
+    },
+    {
+        "id": "441",
+        "english": "Just in case ",
+        "chinese": " 以防万一"
+    },
+    {
+        "id": "442",
+        "english": "To be on the safe side ",
+        "chinese": " 为了安全起见"
+    },
+    {
+        "id": "443",
+        "english": "Keep an eye on ",
+        "chinese": " 留意一下"
+    },
+    {
+        "id": "444",
+        "english": "Watch out for ",
+        "chinese": " 当心"
+    },
+    {
+        "id": "445",
+        "english": "Heads up ",
+        "chinese": " 注意"
+    },
+    {
+        "id": "446",
+        "english": "Look out ",
+        "chinese": " 小心"
+    },
+    {
+        "id": "447",
+        "english": "Be careful ",
+        "chinese": " 当心"
+    },
+    {
+        "id": "448",
+        "english": "Take care ",
+        "chinese": " 保重"
+    },
+    {
+        "id": "449",
+        "english": "Stay safe ",
+        "chinese": " 注意安全"
+    },
+    {
+        "id": "450",
+        "english": "Stay in touch ",
+        "chinese": " 保持联系"
+    },
+    {
+        "id": "451",
+        "english": "I owe you one ",
+        "chinese": " 我欠你一个人情"
+    },
+    {
+        "id": "452",
+        "english": "Thanks in advance ",
+        "chinese": " 先谢谢了"
+    },
+    {
+        "id": "453",
+        "english": "Much appreciated ",
+        "chinese": " 非常感谢"
+    },
+    {
+        "id": "454",
+        "english": "That's very kind of you ",
+        "chinese": " 你真是太好了"
+    },
+    {
+        "id": "455",
+        "english": "Don't mention it ",
+        "chinese": " 不用客气"
+    },
+    {
+        "id": "456",
+        "english": "My pleasure ",
+        "chinese": " 我很乐意"
+    },
+    {
+        "id": "457",
+        "english": "Any time ",
+        "chinese": " 随时效劳"
+    },
+    {
+        "id": "458",
+        "english": "No big deal ",
+        "chinese": " 没什么大不了的"
+    },
+    {
+        "id": "459",
+        "english": "It was nothing ",
+        "chinese": " 这不算什么"
+    },
+    {
+        "id": "460",
+        "english": "Happy to help ",
+        "chinese": " 很高兴能帮上忙"
+    },
+    {
+        "id": "461",
+        "english": "Just checking ",
+        "chinese": " 只是确认一下"
+    },
+    {
+        "id": "462",
+        "english": "Just wondering ",
+        "chinese": " 只是想问问"
+    },
+    {
+        "id": "463",
+        "english": "By the way ",
+        "chinese": " 顺便说一下"
+    },
+    {
+        "id": "464",
+        "english": "Speaking of which ",
+        "chinese": " 说到这个"
+    },
+    {
+        "id": "465",
+        "english": "That reminds me ",
+        "chinese": " 这让我想起"
+    },
+    {
+        "id": "466",
+        "english": "Long story short ",
+        "chinese": " 长话短说"
+    },
+    {
+        "id": "467",
+        "english": "To make a long story short ",
+        "chinese": " 简单来说"
+    },
+    {
+        "id": "468",
+        "english": "The thing is ",
+        "chinese": " 问题是"
+    },
+    {
+        "id": "469",
+        "english": "Here's the thing ",
+        "chinese": " 是这样的"
+    },
+    {
+        "id": "470",
+        "english": "The point is ",
+        "chinese": " 重点是"
+    },
+    {
+        "id": "471",
+        "english": "What I mean is ",
+        "chinese": " 我的意思是"
+    },
+    {
+        "id": "472",
+        "english": "In other words ",
+        "chinese": " 换句话说"
+    },
+    {
+        "id": "473",
+        "english": "Let me put it this way ",
+        "chinese": " 让我这么说"
+    },
+    {
+        "id": "474",
+        "english": "How should I put this ",
+        "chinese": " 我该怎么说呢"
+    },
+    {
+        "id": "475",
+        "english": "Let me explain ",
+        "chinese": " 让我解释一下"
+    },
+    {
+        "id": "476",
+        "english": "Let me get this straight ",
+        "chinese": " 让我理清楚"
+    },
+    {
+        "id": "477",
+        "english": "If I understand correctly ",
+        "chinese": " 如果我理解正确的话"
+    },
+    {
+        "id": "478",
+        "english": "Correct me if I'm wrong ",
+        "chinese": " 如果我说错了请指出"
+    },
+    {
+        "id": "479",
+        "english": "No offense ",
+        "chinese": " 无意冒犯"
+    },
+    {
+        "id": "480",
+        "english": "Don't get me wrong ",
+        "chinese": " 别误会我的意思"
+    },
+    {
+        "id": "481",
+        "english": "Just saying ",
+        "chinese": " 我只是说说"
+    },
+    {
+        "id": "482",
+        "english": "Fair enough ",
+        "chinese": " 有道理"
+    },
+    {
+        "id": "483",
+        "english": "Makes sense ",
+        "chinese": " 说得通"
+    },
+    {
+        "id": "484",
+        "english": "Good point ",
+        "chinese": " 说得好"
+    },
+    {
+        "id": "485",
+        "english": "True that ",
+        "chinese": " 说得对"
+    },
+    {
+        "id": "486",
+        "english": "Exactly ",
+        "chinese": " 就是这样"
+    },
+    {
+        "id": "487",
+        "english": "Totally ",
+        "chinese": " 完全同意"
+    },
+    {
+        "id": "488",
+        "english": "Absolutely ",
+        "chinese": " 绝对是"
+    },
+    {
+        "id": "489",
+        "english": "Definitely ",
+        "chinese": " 当然"
+    },
+    {
+        "id": "490",
+        "english": "For sure ",
+        "chinese": " 肯定的"
+    },
+    {
+        "id": "491",
+        "english": "You bet ",
+        "chinese": " 当然了"
+    },
+    {
+        "id": "492",
+        "english": "Right on ",
+        "chinese": " 没错"
+    },
+    {
+        "id": "493",
+        "english": "Got that right ",
+        "chinese": " 说对了"
+    },
+    {
+        "id": "494",
+        "english": "Couldn't agree more ",
+        "chinese": " 完全同意"
+    },
+    {
+        "id": "495",
+        "english": "That's what I thought ",
+        "chinese": " 我也是这么想的"
+    },
+    {
+        "id": "496",
+        "english": "Same here ",
+        "chinese": " 我也是"
+    },
+    {
+        "id": "497",
+        "english": "Tell me about it ",
+        "chinese": " 可不是嘛"
+    },
+    {
+        "id": "498",
+        "english": "You can say that again ",
+        "chinese": " 说得太对了"
+    },
+    {
+        "id": "499",
+        "english": "No doubt about it ",
+        "chinese": " 毫无疑问"
+    },
+    {
+        "id": "500",
+        "english": "That's for sure ",
+        "chinese": " 这是肯定的"
+    },
+    {
+        "id": "501",
+        "english": "I'll give it a try ",
+        "chinese": " 我试试看"
+    },
+    {
+        "id": "502",
+        "english": "Let's grab a bite ",
+        "chinese": " 我们去吃点东西吧"
+    },
+    {
+        "id": "503",
+        "english": "I'm down for that ",
+        "chinese": " 我同意这个主意"
+    },
+    {
+        "id": "504",
+        "english": "What's the damage? ",
+        "chinese": " 多少钱？"
+    },
+    {
+        "id": "505",
+        "english": "Can you spot me? ",
+        "chinese": " 能先帮我垫付吗？"
+    },
+    {
+        "id": "506",
+        "english": "I'll pay you back ",
+        "chinese": " 我会还你的"
+    },
+    {
+        "id": "507",
+        "english": "We're even ",
+        "chinese": " 我们扯平了"
+    },
+    {
+        "id": "508",
+        "english": "My bad ",
+        "chinese": " 我的错"
+    },
+    {
+        "id": "509",
+        "english": "That's my fault ",
+        "chinese": " 那是我的错"
+    },
+    {
+        "id": "510",
+        "english": "My mistake ",
+        "chinese": " 我搞错了"
+    },
+    {
+        "id": "511",
+        "english": "You got me there ",
+        "chinese": " 你说到点子上了"
+    },
+    {
+        "id": "512",
+        "english": "Good call ",
+        "chinese": " 好主意"
+    },
+    {
+        "id": "513",
+        "english": "Nice one ",
+        "chinese": " 做得好"
+    },
+    {
+        "id": "514",
+        "english": "Way to go ",
+        "chinese": " 做得好"
+    },
+    {
+        "id": "515",
+        "english": "You nailed it ",
+        "chinese": " 你做得太棒了"
+    },
+    {
+        "id": "516",
+        "english": "Piece of cake ",
+        "chinese": " 小菜一碟"
+    },
+    {
+        "id": "517",
+        "english": "No sweat ",
+        "chinese": " 没问题"
+    },
+    {
+        "id": "518",
+        "english": "Easy peasy ",
+        "chinese": " 很容易"
+    },
+    {
+        "id": "519",
+        "english": "I'm beat ",
+        "chinese": " 我累坏了"
+    },
+    {
+        "id": "520",
+        "english": "I'm exhausted ",
+        "chinese": " 我筋疲力尽了"
+    },
+    {
+        "id": "521",
+        "english": "I need a break ",
+        "chinese": " 我需要休息一下"
+    },
+    {
+        "id": "522",
+        "english": "Time out ",
+        "chinese": " 暂停一下"
+    },
+    {
+        "id": "523",
+        "english": "Give me a minute ",
+        "chinese": " 给我一分钟"
+    },
+    {
+        "id": "524",
+        "english": "Just a sec ",
+        "chinese": " 等一下"
+    },
+    {
+        "id": "525",
+        "english": "Hang on ",
+        "chinese": " 等等"
+    },
+    {
+        "id": "526",
+        "english": "What's the hold up? ",
+        "chinese": " 什么耽搁了？"
+    },
+    {
+        "id": "527",
+        "english": "What's taking so long? ",
+        "chinese": " 怎么这么久？"
+    },
+    {
+        "id": "528",
+        "english": "Are we there yet? ",
+        "chinese": " 到了没有？"
+    },
+    {
+        "id": "529",
+        "english": "How much longer? ",
+        "chinese": " 还要多久？"
+    },
+    {
+        "id": "530",
+        "english": "Coming right up ",
+        "chinese": " 马上就来"
+    },
+    {
+        "id": "531",
+        "english": "On it ",
+        "chinese": " 我在处理"
+    },
+    {
+        "id": "532",
+        "english": "Working on it ",
+        "chinese": " 正在做"
+    },
+    {
+        "id": "533",
+        "english": "In progress ",
+        "chinese": " 进行中"
+    },
+    {
+        "id": "534",
+        "english": "Getting there ",
+        "chinese": " 快好了"
+    },
+    {
+        "id": "535",
+        "english": "Almost finished ",
+        "chinese": " 快完成了"
+    },
+    {
+        "id": "536",
+        "english": "That should do it ",
+        "chinese": " 这样应该可以了"
+    },
+    {
+        "id": "537",
+        "english": "That ought to work ",
+        "chinese": " 这样应该行"
+    },
+    {
+        "id": "538",
+        "english": "Whatever works ",
+        "chinese": " 怎样都行"
+    },
+    {
+        "id": "539",
+        "english": "If you insist ",
+        "chinese": " 如果你坚持的话"
+    },
+    {
+        "id": "540",
+        "english": "Have it your way ",
+        "chinese": " 随你的便"
+    },
+    {
+        "id": "541",
+        "english": "Suit yourself ",
+        "chinese": " 随你便"
+    },
+    {
+        "id": "542",
+        "english": "As you wish ",
+        "chinese": " 如你所愿"
+    },
+    {
+        "id": "543",
+        "english": "Up to you ",
+        "chinese": " 由你决定"
+    },
+    {
+        "id": "544",
+        "english": "Your call ",
+        "chinese": " 你来决定"
+    },
+    {
+        "id": "545",
+        "english": "You're the boss ",
+        "chinese": " 你说了算"
+    },
+    {
+        "id": "546",
+        "english": "Fair and square ",
+        "chinese": " 公平公正"
+    },
+    {
+        "id": "547",
+        "english": "Fifty fifty",
+        "chinese": "对半分 "
+    },
+    {
+        "id": "548",
+        "english": "Call it even ",
+        "chinese": " 就这么算了"
+    },
+    {
+        "id": "549",
+        "english": "Let's call it a day ",
+        "chinese": " 今天就到这里吧"
+    },
+    {
+        "id": "550",
+        "english": "Time to wrap up ",
+        "chinese": " 该收尾了"
+    },
+    {
+        "id": "551",
+        "english": "I should get going ",
+        "chinese": " 我该走了"
+    },
+    {
+        "id": "552",
+        "english": "Gotta run ",
+        "chinese": " 我得走了"
+    },
+    {
+        "id": "553",
+        "english": "Catch you later ",
+        "chinese": " 回头见"
+    },
+    {
+        "id": "554",
+        "english": "Until next time ",
+        "chinese": " 下次见"
+    },
+    {
+        "id": "555",
+        "english": "Keep me posted ",
+        "chinese": " 有消息告诉我"
+    },
+    {
+        "id": "556",
+        "english": "Let me know how it goes ",
+        "chinese": " 告诉我结果如何"
+    },
+    {
+        "id": "557",
+        "english": "What's the verdict? ",
+        "chinese": " 结果如何？"
+    },
+    {
+        "id": "558",
+        "english": "How did it go? ",
+        "chinese": " 怎么样？"
+    },
+    {
+        "id": "559",
+        "english": "How was it? ",
+        "chinese": " 感觉如何？"
+    },
+    {
+        "id": "560",
+        "english": "Not too shabby ",
+        "chinese": " 还不错"
+    },
+    {
+        "id": "561",
+        "english": "Could be better ",
+        "chinese": " 可能会更好"
+    },
+    {
+        "id": "562",
+        "english": "Room for improvement ",
+        "chinese": " 还有改进空间"
+    },
+    {
+        "id": "563",
+        "english": "Getting better ",
+        "chinese": " 在变好"
+    },
+    {
+        "id": "564",
+        "english": "Making progress ",
+        "chinese": " 有进步"
+    },
+    {
+        "id": "565",
+        "english": "Back to square one ",
+        "chinese": " 重头来过"
+    },
+    {
+        "id": "566",
+        "english": "Starting over ",
+        "chinese": " 重新开始"
+    },
+    {
+        "id": "567",
+        "english": "Here we go again ",
+        "chinese": " 又来了"
+    },
+    {
+        "id": "568",
+        "english": "Same old story ",
+        "chinese": " 老样子"
+    },
+    {
+        "id": "569",
+        "english": "Been there, done that ",
+        "chinese": " 经历过了"
+    },
+    {
+        "id": "570",
+        "english": "Story of my life ",
+        "chinese": " 我的日常"
+    },
+    {
+        "id": "571",
+        "english": "Join the club ",
+        "chinese": " 我也是"
+    },
+    {
+        "id": "572",
+        "english": "Welcome to my world ",
+        "chinese": " 欢迎了解我的世界"
+    },
+    {
+        "id": "573",
+        "english": "Tell me something I don't know ",
+        "chinese": " 说点我不知道的"
+    },
+    {
+        "id": "574",
+        "english": "You don't say ",
+        "chinese": " 真的吗"
+    },
+    {
+        "id": "575",
+        "english": "Who would've thought ",
+        "chinese": " 谁能想到"
+    },
+    {
+        "id": "576",
+        "english": "What are the odds ",
+        "chinese": " 多巧啊"
+    },
+    {
+        "id": "577",
+        "english": "Small world ",
+        "chinese": " 世界真小"
+    },
+    {
+        "id": "578",
+        "english": "It figures ",
+        "chinese": " 果然如此"
+    },
+    {
+        "id": "579",
+        "english": "Naturally ",
+        "chinese": " 自然是这样"
+    },
+    {
+        "id": "580",
+        "english": "Of course ",
+        "chinese": " 当然了"
+    },
+    {
+        "id": "581",
+        "english": "Goes without saying ",
+        "chinese": " 不用说"
+    },
+    {
+        "id": "582",
+        "english": "That's a given ",
+        "chinese": " 这是必然的"
+    },
+    {
+        "id": "583",
+        "english": "No brainer ",
+        "chinese": " 不用想也知道"
+    },
+    {
+        "id": "584",
+        "english": "Obviously ",
+        "chinese": " 显然"
+    },
+    {
+        "id": "585",
+        "english": "Clearly ",
+        "chinese": " 显然"
+    },
+    {
+        "id": "586",
+        "english": "Apparently ",
+        "chinese": " 显然"
+    },
+    {
+        "id": "587",
+        "english": "Supposedly ",
+        "chinese": " 据说"
+    },
+    {
+        "id": "588",
+        "english": "Allegedly ",
+        "chinese": " 据称"
+    },
+    {
+        "id": "589",
+        "english": "Word has it ",
+        "chinese": " 据说"
+    },
+    {
+        "id": "590",
+        "english": "I heard that ",
+        "chinese": " 我听说"
+    },
+    {
+        "id": "591",
+        "english": "They say ",
+        "chinese": " 他们说"
+    },
+    {
+        "id": "592",
+        "english": "Rumor has it ",
+        "chinese": " 据传"
+    },
+    {
+        "id": "593",
+        "english": "From what I gather ",
+        "chinese": " 据我所知"
+    },
+    {
+        "id": "594",
+        "english": "As far as I know ",
+        "chinese": " 就我所知"
+    },
+    {
+        "id": "595",
+        "english": "To the best of my knowledge ",
+        "chinese": " 据我所知"
+    },
+    {
+        "id": "596",
+        "english": "If memory serves ",
+        "chinese": " 如果我没记错的话"
+    },
+    {
+        "id": "597",
+        "english": "If I recall correctly ",
+        "chinese": " 如果我没记错"
+    },
+    {
+        "id": "598",
+        "english": "Come to think of it ",
+        "chinese": " 想起来了"
+    },
+    {
+        "id": "599",
+        "english": "Now that you mention it ",
+        "chinese": " 既然你提到这个"
+    },
+    {
+        "id": "600",
+        "english": "Speaking of which ",
+        "chinese": " 说到这个"
+    },
+    {
+        "id": "601",
+        "english": "What's the deal with...? ",
+        "chinese": " ...是怎么回事？"
+    },
+    {
+        "id": "602",
+        "english": "What's going down? ",
+        "chinese": " 发生什么事了？"
+    },
+    {
+        "id": "603",
+        "english": "Fill me in ",
+        "chinese": " 告诉我详情"
+    },
+    {
+        "id": "604",
+        "english": "Get to the point ",
+        "chinese": " 说重点"
+    },
+    {
+        "id": "605",
+        "english": "Cut to the chase ",
+        "chinese": " 直说重点"
+    },
+    {
+        "id": "606",
+        "english": "Bottom line ",
+        "chinese": " 重点是"
+    },
+    {
+        "id": "607",
+        "english": "In a nutshell ",
+        "chinese": " 简单来说"
+    },
+    {
+        "id": "608",
+        "english": "Here's the scoop ",
+        "chinese": " 情况是这样的"
+    },
+    {
+        "id": "609",
+        "english": "Let me level with you ",
+        "chinese": " 让我坦白说"
+    },
+    {
+        "id": "610",
+        "english": "Between you and me ",
+        "chinese": " 我们私下说"
+    },
+    {
+        "id": "611",
+        "english": "Off the record ",
+        "chinese": " 不要外传"
+    },
+    {
+        "id": "612",
+        "english": "Keep this under wraps ",
+        "chinese": " 保密"
+    },
+    {
+        "id": "613",
+        "english": "Just between us ",
+        "chinese": " 我们之间的秘密"
+    },
+    {
+        "id": "614",
+        "english": "Mum's the word ",
+        "chinese": " 保密"
+    },
+    {
+        "id": "615",
+        "english": "Lips are sealed ",
+        "chinese": " 我不会说出去的"
+    },
+    {
+        "id": "616",
+        "english": "You didn't hear it from me ",
+        "chinese": " 别说是我说的"
+    },
+    {
+        "id": "617",
+        "english": "Don't quote me on this ",
+        "chinese": " 别说是我说的"
+    },
+    {
+        "id": "618",
+        "english": "For what it's worth ",
+        "chinese": " 供参考"
+    },
+    {
+        "id": "619",
+        "english": "Take it from me ",
+        "chinese": " 相信我的经验"
+    },
+    {
+        "id": "620",
+        "english": "If I were you ",
+        "chinese": " 如果我是你"
+    },
+    {
+        "id": "621",
+        "english": "My two cents ",
+        "chinese": " 我的建议"
+    },
+    {
+        "id": "622",
+        "english": "Just my opinion ",
+        "chinese": " 只是我的看法"
+    },
+    {
+        "id": "623",
+        "english": "No offense but... ",
+        "chinese": " 无意冒犯，但是..."
+    },
+    {
+        "id": "624",
+        "english": "With all due respect ",
+        "chinese": " 恕我直言"
+    },
+    {
+        "id": "625",
+        "english": "Don't take this the wrong way ",
+        "chinese": " 请别误会"
+    },
+    {
+        "id": "626",
+        "english": "I hate to say this but... ",
+        "chinese": " 我不想说但是..."
+    },
+    {
+        "id": "627",
+        "english": "Let's face it ",
+        "chinese": " 让我们面对现实"
+    },
+    {
+        "id": "628",
+        "english": "Truth be told ",
+        "chinese": " 说实话"
+    },
+    {
+        "id": "629",
+        "english": "To be honest ",
+        "chinese": " 老实说"
+    },
+    {
+        "id": "630",
+        "english": "Frankly speaking ",
+        "chinese": " 坦白说"
+    },
+    {
+        "id": "631",
+        "english": "As a matter of fact ",
+        "chinese": " 事实上"
+    },
+    {
+        "id": "632",
+        "english": "Come to think of it ",
+        "chinese": " 仔细想想"
+    },
+    {
+        "id": "633",
+        "english": "On second thought ",
+        "chinese": " 转念一想"
+    },
+    {
+        "id": "634",
+        "english": "Now that I think about it ",
+        "chinese": " 现在想想"
+    },
+    {
+        "id": "635",
+        "english": "Looking back ",
+        "chinese": " 回想起来"
+    },
+    {
+        "id": "636",
+        "english": "In retrospect ",
+        "chinese": " 回想起来"
+    },
+    {
+        "id": "637",
+        "english": "All things considered ",
+        "chinese": " 考虑到所有因素"
+    },
+    {
+        "id": "638",
+        "english": "When all is said and done ",
+        "chinese": " 总的来说"
+    },
+    {
+        "id": "639",
+        "english": "At the end of the day ",
+        "chinese": " 归根结底"
+    },
+    {
+        "id": "640",
+        "english": "Long story short ",
+        "chinese": " 长话短说"
+    },
+    {
+        "id": "641",
+        "english": "To make a long story short ",
+        "chinese": " 简单来说"
+    },
+    {
+        "id": "642",
+        "english": "In any case ",
+        "chinese": " 无论如何"
+    },
+    {
+        "id": "643",
+        "english": "Either way ",
+        "chinese": " 不管怎样"
+    },
+    {
+        "id": "644",
+        "english": "One way or another ",
+        "chinese": " 无论如何"
+    },
+    {
+        "id": "645",
+        "english": "Whatever happens ",
+        "chinese": " 不管发生什么"
+    },
+    {
+        "id": "646",
+        "english": "No matter what ",
+        "chinese": " 无论如何"
+    },
+    {
+        "id": "647",
+        "english": "Come what may ",
+        "chinese": " 不管发生什么"
+    },
+    {
+        "id": "648",
+        "english": "Rain or shine ",
+        "chinese": " 不管天气好坏"
+    },
+    {
+        "id": "649",
+        "english": "Like it or not ",
+        "chinese": " 不管喜欢与否"
+    },
+    {
+        "id": "650",
+        "english": "Ready or not ",
+        "chinese": " 准备好与否"
+    },
+    {
+        "id": "651",
+        "english": "Better late than never ",
+        "chinese": " 迟到总比不到好"
+    },
+    {
+        "id": "652",
+        "english": "Better safe than sorry ",
+        "chinese": " 宁可谨慎"
+    },
+    {
+        "id": "653",
+        "english": "Better yet ",
+        "chinese": " 更好的是"
+    },
+    {
+        "id": "654",
+        "english": "Even better ",
+        "chinese": " 更好"
+    },
+    {
+        "id": "655",
+        "english": "All the better ",
+        "chinese": " 那就更好了"
+    },
+    {
+        "id": "656",
+        "english": "So much the better ",
+        "chinese": " 那就更好了"
+    },
+    {
+        "id": "657",
+        "english": "Can't hurt ",
+        "chinese": " 无妨"
+    },
+    {
+        "id": "658",
+        "english": "Might as well ",
+        "chinese": " 不妨"
+    },
+    {
+        "id": "659",
+        "english": "May as well ",
+        "chinese": " 不妨"
+    },
+    {
+        "id": "660",
+        "english": "Worth a shot ",
+        "chinese": " 值得一试"
+    },
+    {
+        "id": "661",
+        "english": "Nothing ventured, nothing gained ",
+        "chinese": " 不试白不试"
+    },
+    {
+        "id": "662",
+        "english": "No pain, no gain ",
+        "chinese": " 不劳无获"
+    },
+    {
+        "id": "663",
+        "english": "Easy come, easy go ",
+        "chinese": " 来得容易去得快"
+    },
+    {
+        "id": "664",
+        "english": "What goes around comes around ",
+        "chinese": " 善有善报"
+    },
+    {
+        "id": "665",
+        "english": "Time will tell ",
+        "chinese": " 时间会证明一切"
+    },
+    {
+        "id": "666",
+        "english": "We'll see ",
+        "chinese": " 我们拭目以待"
+    },
+    {
+        "id": "667",
+        "english": "Let's wait and see ",
+        "chinese": " 让我们等等看"
+    },
+    {
+        "id": "668",
+        "english": "Only time will tell ",
+        "chinese": " 时间会告诉我们答案"
+    },
+    {
+        "id": "669",
+        "english": "Fingers crossed ",
+        "chinese": " 祝好运"
+    },
+    {
+        "id": "670",
+        "english": "Touch wood ",
+        "chinese": " 敲木头（祈求好运）"
+    },
+    {
+        "id": "671",
+        "english": "Break a leg ",
+        "chinese": " 祝好运"
+    },
+    {
+        "id": "672",
+        "english": "Best of luck ",
+        "chinese": " 祝好运"
+    },
+    {
+        "id": "673",
+        "english": "Here's hoping ",
+        "chinese": " 希望如此"
+    },
+    {
+        "id": "674",
+        "english": "Hopefully ",
+        "chinese": " 但愿"
+    },
+    {
+        "id": "675",
+        "english": "With any luck ",
+        "chinese": " 运气好的话"
+    },
+    {
+        "id": "676",
+        "english": "If all goes well ",
+        "chinese": " 如果一切顺利"
+    },
+    {
+        "id": "677",
+        "english": "So far so good ",
+        "chinese": " 到目前为止都不错"
+    },
+    {
+        "id": "678",
+        "english": "Knock on wood ",
+        "chinese": " 敲木头（祈求好运）"
+    },
+    {
+        "id": "679",
+        "english": "Just my luck ",
+        "chinese": " 我的运气就是这样"
+    },
+    {
+        "id": "680",
+        "english": "Lucky me ",
+        "chinese": " 我真幸运"
+    },
+    {
+        "id": "681",
+        "english": "Lucky you ",
+        "chinese": " 你真幸运"
+    },
+    {
+        "id": "682",
+        "english": "Good for you ",
+        "chinese": " 为你高兴"
+    },
+    {
+        "id": "683",
+        "english": "Way to go ",
+        "chinese": " 做得好"
+    },
+    {
+        "id": "684",
+        "english": "That's the spirit ",
+        "chinese": " 就是这种精神"
+    },
+    {
+        "id": "685",
+        "english": "Keep it up ",
+        "chinese": " 继续保持"
+    },
+    {
+        "id": "686",
+        "english": "Hang in there ",
+        "chinese": " 坚持住"
+    },
+    {
+        "id": "687",
+        "english": "Stick with it ",
+        "chinese": " 坚持下去"
+    },
+    {
+        "id": "688",
+        "english": "Don't give up ",
+        "chinese": " 别放弃"
+    },
+    {
+        "id": "689",
+        "english": "Hang on tight ",
+        "chinese": " 坚持住"
+    },
+    {
+        "id": "690",
+        "english": "Stay strong ",
+        "chinese": " 保持坚强"
+    },
+    {
+        "id": "691",
+        "english": "Keep your chin up ",
+        "chinese": " 保持乐观"
+    },
+    {
+        "id": "692",
+        "english": "Look on the bright side ",
+        "chinese": " 往好处想"
+    },
+    {
+        "id": "693",
+        "english": "Every cloud has a silver lining ",
+        "chinese": " 塞翁失马焉知非福"
+    },
+    {
+        "id": "694",
+        "english": "It could be worse ",
+        "chinese": " 可能会更糟"
+    },
+    {
+        "id": "695",
+        "english": "It's not the end of the world ",
+        "chinese": " 这不是世界末日"
+    },
+    {
+        "id": "696",
+        "english": "Life goes on ",
+        "chinese": " 生活继续"
+    },
+    {
+        "id": "697",
+        "english": "Such is life ",
+        "chinese": " 生活就是这样"
+    },
+    {
+        "id": "698",
+        "english": "That's life ",
+        "chinese": " 生活就是这样"
+    },
+    {
+        "id": "699",
+        "english": "C'est la vie ",
+        "chinese": " 这就是生活"
+    },
+    {
+        "id": "700",
+        "english": "Roll with the punches ",
+        "chinese": " 随遇而安"
+    },
+    {
+        "id": "701",
+        "english": "I'm all ears ",
+        "chinese": " 我洗耳恭听"
+    },
+    {
+        "id": "702",
+        "english": "You have my attention ",
+        "chinese": " 你说,我在听"
+    },
+    {
+        "id": "703",
+        "english": "I'm listening ",
+        "chinese": " 我在听"
+    },
+    {
+        "id": "704",
+        "english": "Go ahead ",
+        "chinese": " 请说"
+    },
+    {
+        "id": "705",
+        "english": "Shoot ",
+        "chinese": " 说吧"
+    },
+    {
+        "id": "706",
+        "english": "What's on your mind? ",
+        "chinese": " 你在想什么？"
+    },
+    {
+        "id": "707",
+        "english": "Penny for your thoughts ",
+        "chinese": " 说说你在想什么"
+    },
+    {
+        "id": "708",
+        "english": "Spill the beans ",
+        "chinese": " 说出来吧"
+    },
+    {
+        "id": "709",
+        "english": "Out with it ",
+        "chinese": " 说出来"
+    },
+    {
+        "id": "710",
+        "english": "Get it off your chest ",
+        "chinese": " 说出来会好受些"
+    },
+    {
+        "id": "711",
+        "english": "Don't hold back ",
+        "chinese": " 别憋着"
+    },
+    {
+        "id": "712",
+        "english": "Tell me straight ",
+        "chinese": " 直说吧"
+    },
+    {
+        "id": "713",
+        "english": "Give it to me straight ",
+        "chinese": " 直接告诉我"
+    },
+    {
+        "id": "714",
+        "english": "Be straight with me ",
+        "chinese": " 跟我说实话"
+    },
+    {
+        "id": "715",
+        "english": "Level with me ",
+        "chinese": " 跟我说实话"
+    },
+    {
+        "id": "716",
+        "english": "What's the real story? ",
+        "chinese": " 真实情况是什么？"
+    },
+    {
+        "id": "717",
+        "english": "What's really going on? ",
+        "chinese": " 到底怎么回事？"
+    },
+    {
+        "id": "718",
+        "english": "Something's up ",
+        "chinese": " 有事发生了"
+    },
+    {
+        "id": "719",
+        "english": "Something's wrong ",
+        "chinese": " 有问题"
+    },
+    {
+        "id": "720",
+        "english": "Something's not right ",
+        "chinese": " 有些不对劲"
+    },
+    {
+        "id": "721",
+        "english": "Something's fishy ",
+        "chinese": " 有些可疑"
+    },
+    {
+        "id": "722",
+        "english": "I smell a rat ",
+        "chinese": " 我觉得有问题"
+    },
+    {
+        "id": "723",
+        "english": "I don't buy it ",
+        "chinese": " 我不相信"
+    },
+    {
+        "id": "724",
+        "english": "I'm not convinced ",
+        "chinese": " 我不信服"
+    },
+    {
+        "id": "725",
+        "english": "I have my doubts ",
+        "chinese": " 我有疑虑"
+    },
+    {
+        "id": "726",
+        "english": "If you ask me ",
+        "chinese": " 依我看"
+    },
+    {
+        "id": "727",
+        "english": "In my book ",
+        "chinese": " 在我看来"
+    },
+    {
+        "id": "728",
+        "english": "The way I see it ",
+        "chinese": " 依我看"
+    },
+    {
+        "id": "729",
+        "english": "From where I stand ",
+        "chinese": " 从我的立场来看"
+    },
+    {
+        "id": "730",
+        "english": "As far as I'm concerned ",
+        "chinese": " 就我而言"
+    },
+    {
+        "id": "731",
+        "english": "Personally speaking ",
+        "chinese": " 就个人而言"
+    },
+    {
+        "id": "732",
+        "english": "Speaking for myself ",
+        "chinese": " 就我个人而言"
+    },
+    {
+        "id": "733",
+        "english": "That's just me ",
+        "chinese": " 这只是我的看法"
+    },
+    {
+        "id": "734",
+        "english": "But that's just me ",
+        "chinese": " 但这只是我的想法"
+    },
+    {
+        "id": "735",
+        "english": "Maybe it's just me ",
+        "chinese": " 可能只是我这么觉得"
+    },
+    {
+        "id": "736",
+        "english": "Call me crazy, but... ",
+        "chinese": " 也许我疯了,但是..."
+    },
+    {
+        "id": "737",
+        "english": "I could be wrong, but... ",
+        "chinese": " 我可能错了,但是..."
+    },
+    {
+        "id": "738",
+        "english": "I might be wrong, but... ",
+        "chinese": " 我可能错了,但是..."
+    },
+    {
+        "id": "739",
+        "english": "Correct me if I'm wrong ",
+        "chinese": " 如果我错了请指出"
+    },
+    {
+        "id": "740",
+        "english": "Don't quote me on this ",
+        "chinese": " 别说是我说的"
+    },
+    {
+        "id": "741",
+        "english": "Take it with a grain of salt ",
+        "chinese": " 不要全信"
+    },
+    {
+        "id": "742",
+        "english": "No guarantees ",
+        "chinese": " 不保证"
+    },
+    {
+        "id": "743",
+        "english": "Can't promise anything ",
+        "chinese": " 不能保证什么"
+    },
+    {
+        "id": "744",
+        "english": "We'll see about that ",
+        "chinese": " 到时候再说"
+    },
+    {
+        "id": "745",
+        "english": "Time will tell ",
+        "chinese": " 时间会证明一切"
+    },
+    {
+        "id": "746",
+        "english": "Only time will tell ",
+        "chinese": " 只有时间能证明"
+    },
+    {
+        "id": "747",
+        "english": "The jury's still out ",
+        "chinese": " 还没有定论"
+    },
+    {
+        "id": "748",
+        "english": "It remains to be seen ",
+        "chinese": " 还有待观察"
+    },
+    {
+        "id": "749",
+        "english": "That depends ",
+        "chinese": " 那要看情况"
+    },
+    {
+        "id": "750",
+        "english": "It all depends ",
+        "chinese": " 都要看情况"
+    },
+    {
+        "id": "751",
+        "english": "It varies ",
+        "chinese": " 情况不一样"
+    },
+    {
+        "id": "752",
+        "english": "Case by case ",
+        "chinese": " 具体情况具体分析"
+    },
+    {
+        "id": "753",
+        "english": "More or less ",
+        "chinese": " 或多或少"
+    },
+    {
+        "id": "754",
+        "english": "Give or take ",
+        "chinese": " 差不多"
+    },
+    {
+        "id": "755",
+        "english": "Roughly speaking ",
+        "chinese": " 粗略来说"
+    },
+    {
+        "id": "756",
+        "english": "Approximately ",
+        "chinese": " 大约"
+    },
+    {
+        "id": "757",
+        "english": "In the ballpark ",
+        "chinese": " 大致上"
+    },
+    {
+        "id": "758",
+        "english": "Thereabouts ",
+        "chinese": " 大约"
+    },
+    {
+        "id": "759",
+        "english": "Or so ",
+        "chinese": " 左右"
+    },
+    {
+        "id": "760",
+        "english": "Around there ",
+        "chinese": " 差不多"
+    },
+    {
+        "id": "761",
+        "english": "Something like that ",
+        "chinese": " 差不多是这样"
+    },
+    {
+        "id": "762",
+        "english": "Along those lines ",
+        "chinese": " 差不多是那样"
+    },
+    {
+        "id": "763",
+        "english": "That sort of thing ",
+        "chinese": " 诸如此类"
+    },
+    {
+        "id": "764",
+        "english": "And so forth ",
+        "chinese": " 等等"
+    },
+    {
+        "id": "765",
+        "english": "And so on ",
+        "chinese": " 等等"
+    },
+    {
+        "id": "766",
+        "english": "The list goes on ",
+        "chinese": " 还有很多"
+    },
+    {
+        "id": "767",
+        "english": "You name it ",
+        "chinese": " 应有尽有"
+    },
+    {
+        "id": "768",
+        "english": "Take your pick ",
+        "chinese": " 随便选"
+    },
+    {
+        "id": "769",
+        "english": "Whatever floats your boat ",
+        "chinese": " 随你喜欢"
+    },
+    {
+        "id": "770",
+        "english": "Different strokes for different folks ",
+        "chinese": " 每个人喜好不同"
+    },
+    {
+        "id": "771",
+        "english": "To each their own ",
+        "chinese": " 各有所好"
+    },
+    {
+        "id": "772",
+        "english": "Whatever works for you ",
+        "chinese": " 只要你觉得好"
+    },
+    {
+        "id": "773",
+        "english": "If that's what you want ",
+        "chinese": " 如果那是你想要的"
+    },
+    {
+        "id": "774",
+        "english": "If that makes you happy ",
+        "chinese": " 如果那能让你开心"
+    },
+    {
+        "id": "775",
+        "english": "As long as you're happy ",
+        "chinese": " 只要你开心就好"
+    },
+    {
+        "id": "776",
+        "english": "Whatever makes you happy ",
+        "chinese": " 只要能让你开心"
+    },
+    {
+        "id": "777",
+        "english": "Suit yourself ",
+        "chinese": " 随你便"
+    },
+    {
+        "id": "778",
+        "english": "Please yourself ",
+        "chinese": " 随你便"
+    },
+    {
+        "id": "779",
+        "english": "Do as you please ",
+        "chinese": " 随你便"
+    },
+    {
+        "id": "780",
+        "english": "Have it your way ",
+        "chinese": " 随你的便"
+    },
+    {
+        "id": "781",
+        "english": "It's your call ",
+        "chinese": " 由你决定"
+    },
+    {
+        "id": "782",
+        "english": "Your choice ",
+        "chinese": " 你来选择"
+    },
+    {
+        "id": "783",
+        "english": "Up to you ",
+        "chinese": " 由你决定"
+    },
+    {
+        "id": "784",
+        "english": "The ball's in your court ",
+        "chinese": " 由你决定"
+    },
+    {
+        "id": "785",
+        "english": "Over to you ",
+        "chinese": " 轮到你了"
+    },
+    {
+        "id": "786",
+        "english": "Your turn ",
+        "chinese": " 轮到你了"
+    },
+    {
+        "id": "787",
+        "english": "You're up ",
+        "chinese": " 轮到你了"
+    },
+    {
+        "id": "788",
+        "english": "After you ",
+        "chinese": " 你先请"
+    },
+    {
+        "id": "789",
+        "english": "Ladies first ",
+        "chinese": " 女士优先"
+    },
+    {
+        "id": "790",
+        "english": "Age before beauty ",
+        "chinese": " 长者优先"
+    },
+    {
+        "id": "791",
+        "english": "Be my guest ",
+        "chinese": " 请便"
+    },
+    {
+        "id": "792",
+        "english": "Help yourself ",
+        "chinese": " 请自便"
+    },
+    {
+        "id": "793",
+        "english": "Make yourself at home ",
+        "chinese": " 随便点"
+    },
+    {
+        "id": "794",
+        "english": "Feel free ",
+        "chinese": " 不要客气"
+    },
+    {
+        "id": "795",
+        "english": "Don't be shy ",
+        "chinese": " 别客气"
+    },
+    {
+        "id": "796",
+        "english": "Go right ahead ",
+        "chinese": " 请便"
+    },
+    {
+        "id": "797",
+        "english": "By all means ",
+        "chinese": " 尽管"
+    },
+    {
+        "id": "798",
+        "english": "Sure thing ",
+        "chinese": " 当然可以"
+    },
+    {
+        "id": "799",
+        "english": "No problem at all ",
+        "chinese": " 完全没问题"
+    },
+    {
+        "id": "800",
+        "english": "My pleasure ",
+        "chinese": " 我很乐意"
+    },
+    {
+        "id": "801",
+        "english": "I'm on it ",
+        "chinese": " 我来处理"
+    },
+    {
+        "id": "802",
+        "english": "Consider it done ",
+        "chinese": " 就当做完了"
+    },
+    {
+        "id": "803",
+        "english": "Leave it to me ",
+        "chinese": " 交给我吧"
+    },
+    {
+        "id": "804",
+        "english": "I'll take care of it ",
+        "chinese": " 我来处理"
+    },
+    {
+        "id": "805",
+        "english": "I got this ",
+        "chinese": " 我能搞定"
+    },
+    {
+        "id": "806",
+        "english": "I can handle it ",
+        "chinese": " 我能处理"
+    },
+    {
+        "id": "807",
+        "english": "Under control ",
+        "chinese": " 在掌控之中"
+    },
+    {
+        "id": "808",
+        "english": "All taken care of ",
+        "chinese": " 都处理好了"
+    },
+    {
+        "id": "809",
+        "english": "Done and done ",
+        "chinese": " 全部完成"
+    },
+    {
+        "id": "810",
+        "english": "Good to go ",
+        "chinese": " 准备就绪"
+    },
+    {
+        "id": "811",
+        "english": "All set ",
+        "chinese": " 一切就绪"
+    },
+    {
+        "id": "812",
+        "english": "Ready when you are ",
+        "chinese": " 你准备好就可以开始"
+    },
+    {
+        "id": "813",
+        "english": "Whenever you're ready ",
+        "chinese": " 你随时准备好就行"
+    },
+    {
+        "id": "814",
+        "english": "At your convenience ",
+        "chinese": " 在你方便的时候"
+    },
+    {
+        "id": "815",
+        "english": "Take your time ",
+        "chinese": " 慢慢来"
+    },
+    {
+        "id": "816",
+        "english": "No hurry ",
+        "chinese": " 不着急"
+    },
+    {
+        "id": "817",
+        "english": "What's the rush? ",
+        "chinese": " 着什么急？"
+    },
+    {
+        "id": "818",
+        "english": "Easy does it ",
+        "chinese": " 慢慢来"
+    },
+    {
+        "id": "819",
+        "english": "Slow and steady ",
+        "chinese": " 稳扎稳打"
+    },
+    {
+        "id": "820",
+        "english": "One step at a time ",
+        "chinese": " 一步一步来"
+    },
+    {
+        "id": "821",
+        "english": "Rome wasn't built in a day ",
+        "chinese": " 冰冻三尺非一日之寒"
+    },
+    {
+        "id": "822",
+        "english": "All in good time ",
+        "chinese": " 水到渠成"
+    },
+    {
+        "id": "823",
+        "english": "These things take time ",
+        "chinese": " 这些事需要时间"
+    },
+    {
+        "id": "824",
+        "english": "Patience is a virtue ",
+        "chinese": " 耐心是美德"
+    },
+    {
+        "id": "825",
+        "english": "Good things come to those who wait ",
+        "chinese": " 好事多磨"
+    },
+    {
+        "id": "826",
+        "english": "Worth the wait ",
+        "chinese": " 值得等待"
+    },
+    {
+        "id": "827",
+        "english": "The sooner the better ",
+        "chinese": " 越快越好"
+    },
+    {
+        "id": "828",
+        "english": "Time is of the essence ",
+        "chinese": " 时间就是生命"
+    },
+    {
+        "id": "829",
+        "english": "No time to lose ",
+        "chinese": " 刻不容缓"
+    },
+    {
+        "id": "830",
+        "english": "Time is money ",
+        "chinese": " 时间就是金钱"
+    },
+    {
+        "id": "831",
+        "english": "Time flies ",
+        "chinese": " 时光飞逝"
+    },
+    {
+        "id": "832",
+        "english": "Time flies when you're having fun ",
+        "chinese": " 快乐时光总是过得快"
+    },
+    {
+        "id": "833",
+        "english": "Where does the time go? ",
+        "chinese": " 时间都去哪了？"
+    },
+    {
+        "id": "834",
+        "english": "Lost track of time ",
+        "chinese": " 忘记时间了"
+    },
+    {
+        "id": "835",
+        "english": "Running out of time ",
+        "chinese": " 时间不够了"
+    },
+    {
+        "id": "836",
+        "english": "Against the clock ",
+        "chinese": " 在跟时间赛跑"
+    },
+    {
+        "id": "837",
+        "english": "Down to the wire ",
+        "chinese": " 到最后关头"
+    },
+    {
+        "id": "838",
+        "english": "At the last minute ",
+        "chinese": " 在最后一刻"
+    },
+    {
+        "id": "839",
+        "english": "Better late than never ",
+        "chinese": " 迟到总比不到好"
+    },
+    {
+        "id": "840",
+        "english": "Just in time ",
+        "chinese": " 正好赶上"
+    },
+    {
+        "id": "841",
+        "english": "In the nick of time ",
+        "chinese": " 在最后关头"
+    },
+    {
+        "id": "842",
+        "english": "Right on time ",
+        "chinese": " 准时"
+    },
+    {
+        "id": "843",
+        "english": "On schedule ",
+        "chinese": " 按计划进行"
+    },
+    {
+        "id": "844",
+        "english": "Ahead of schedule ",
+        "chinese": " 提前"
+    },
+    {
+        "id": "845",
+        "english": "Behind schedule ",
+        "chinese": " 落后进度"
+    },
+    {
+        "id": "846",
+        "english": "Making up for lost time ",
+        "chinese": " 弥补失去的时间"
+    },
+    {
+        "id": "847",
+        "english": "Back on track ",
+        "chinese": " 回到正轨"
+    },
+    {
+        "id": "848",
+        "english": "Getting there ",
+        "chinese": " 快要到了"
+    },
+    {
+        "id": "849",
+        "english": "Almost there ",
+        "chinese": " 就快到了"
+    },
+    {
+        "id": "850",
+        "english": "Nearly there ",
+        "chinese": " 快到了"
+    },
+    {
+        "id": "851",
+        "english": "On the way ",
+        "chinese": " 在路上"
+    },
+    {
+        "id": "852",
+        "english": "Coming up ",
+        "chinese": " 马上就来"
+    },
+    {
+        "id": "853",
+        "english": "Be right there ",
+        "chinese": " 马上到"
+    },
+    {
+        "id": "854",
+        "english": "Be right back ",
+        "chinese": " 马上回来"
+    },
+    {
+        "id": "855",
+        "english": "Won't be long ",
+        "chinese": " 不会太久"
+    },
+    {
+        "id": "856",
+        "english": "In a minute ",
+        "chinese": " 一会儿"
+    },
+    {
+        "id": "857",
+        "english": "Just a second ",
+        "chinese": " 等一下"
+    },
+    {
+        "id": "858",
+        "english": "Hold on ",
+        "chinese": " 等等"
+    },
+    {
+        "id": "859",
+        "english": "Hang on ",
+        "chinese": " 等等"
+    },
+    {
+        "id": "860",
+        "english": "Wait up ",
+        "chinese": " 等等"
+    },
+    {
+        "id": "861",
+        "english": "Give me a minute ",
+        "chinese": " 给我一分钟"
+    },
+    {
+        "id": "862",
+        "english": "Bear with me ",
+        "chinese": " 请稍等"
+    },
+    {
+        "id": "863",
+        "english": "Stay with me ",
+        "chinese": " 听我说"
+    },
+    {
+        "id": "864",
+        "english": "Follow me ",
+        "chinese": " 跟我来"
+    },
+    {
+        "id": "865",
+        "english": "This way ",
+        "chinese": " 这边请"
+    },
+    {
+        "id": "866",
+        "english": "After you ",
+        "chinese": " 您请"
+    },
+    {
+        "id": "867",
+        "english": "Watch your step ",
+        "chinese": " 小心脚下"
+    },
+    {
+        "id": "868",
+        "english": "Mind your head ",
+        "chinese": " 小心头"
+    },
+    {
+        "id": "869",
+        "english": "Look out ",
+        "chinese": " 当心"
+    },
+    {
+        "id": "870",
+        "english": "Heads up ",
+        "chinese": " 小心"
+    },
+    {
+        "id": "871",
+        "english": "Coming through ",
+        "chinese": " 让一让"
+    },
+    {
+        "id": "872",
+        "english": "Make way ",
+        "chinese": " 让路"
+    },
+    {
+        "id": "873",
+        "english": "Excuse me ",
+        "chinese": " 对不起,让一下"
+    },
+    {
+        "id": "874",
+        "english": "Pardon me ",
+        "chinese": " 对不起,让一下"
+    },
+    {
+        "id": "875",
+        "english": "Sorry to interrupt ",
+        "chinese": " 抱歉打扰了"
+    },
+    {
+        "id": "876",
+        "english": "Sorry to bother you ",
+        "chinese": " 抱歉打扰你"
+    },
+    {
+        "id": "877",
+        "english": "Hope I'm not interrupting ",
+        "chinese": " 希望没打扰到你"
+    },
+    {
+        "id": "878",
+        "english": "Got a minute? ",
+        "chinese": " 有时间吗？"
+    },
+    {
+        "id": "879",
+        "english": "Do you have a second? ",
+        "chinese": " 有空吗？"
+    },
+    {
+        "id": "880",
+        "english": "Quick question ",
+        "chinese": " 问个快问题"
+    },
+    {
+        "id": "881",
+        "english": "May I ask something? ",
+        "chinese": " 我能问个问题吗？"
+    },
+    {
+        "id": "882",
+        "english": "Can I pick your brain? ",
+        "chinese": " 能请教你吗？"
+    },
+    {
+        "id": "883",
+        "english": "Need your input ",
+        "chinese": " 需要你的意见"
+    },
+    {
+        "id": "884",
+        "english": "What do you think? ",
+        "chinese": " 你觉得怎么样？"
+    },
+    {
+        "id": "885",
+        "english": "How does that sound? ",
+        "chinese": " 听起来怎么样？"
+    },
+    {
+        "id": "886",
+        "english": "Make sense? ",
+        "chinese": " 说得通吗？"
+    },
+    {
+        "id": "887",
+        "english": "Get what I mean? ",
+        "chinese": " 明白我的意思吗？"
+    },
+    {
+        "id": "888",
+        "english": "Know what I mean? ",
+        "chinese": " 懂我意思吗？"
+    },
+    {
+        "id": "889",
+        "english": "See what I'm saying? ",
+        "chinese": " 明白我的意思吗？"
+    },
+    {
+        "id": "890",
+        "english": "Follow me? ",
+        "chinese": " 跟上我的思路了吗？"
+    },
+    {
+        "id": "891",
+        "english": "Are you with me? ",
+        "chinese": " 你听懂了吗？"
+    },
+    {
+        "id": "892",
+        "english": "Clear as mud? ",
+        "chinese": " 清楚了吗？"
+    },
+    {
+        "id": "893",
+        "english": "Ring a bell? ",
+        "chinese": " 听起来耳熟吗？"
+    },
+    {
+        "id": "894",
+        "english": "Sound familiar? ",
+        "chinese": " 听起来熟悉吗？"
+    },
+    {
+        "id": "895",
+        "english": "Rings any bells? ",
+        "chinese": " 有印象吗？"
+    },
+    {
+        "id": "896",
+        "english": "Does that help? ",
+        "chinese": " 这样解释有帮助吗？"
+    },
+    {
+        "id": "897",
+        "english": "Hope that helps ",
+        "chinese": " 希望对你有帮助"
+    },
+    {
+        "id": "898",
+        "english": "Hope this helps ",
+        "chinese": " 希望这个有帮助"
+    },
+    {
+        "id": "899",
+        "english": "Let me know if you need anything else ",
+        "chinese": " 如果还需要什么告诉我"
+    },
+    {
+        "id": "900",
+        "english": "Don't hesitate to ask ",
+        "chinese": " 有问题尽管问"
+    },
+    {
+        "id": "901",
+        "english": "Just checking in ",
+        "chinese": " 来看看情况"
+    },
+    {
+        "id": "902",
+        "english": "How's it coming along? ",
+        "chinese": " 进展如何？"
+    },
+    {
+        "id": "903",
+        "english": "Any progress? ",
+        "chinese": " 有进展吗？"
+    },
+    {
+        "id": "904",
+        "english": "How are we doing? ",
+        "chinese": " 我们进展如何？"
+    },
+    {
+        "id": "905",
+        "english": "Where do we stand? ",
+        "chinese": " 现在情况如何？"
+    },
+    {
+        "id": "906",
+        "english": "What's the status? ",
+        "chinese": " 现状如何？"
+    },
+    {
+        "id": "907",
+        "english": "Keep me in the loop ",
+        "chinese": " 告诉我最新情况"
+    },
+    {
+        "id": "908",
+        "english": "Keep me posted ",
+        "chinese": " 随时告诉我进展"
+    },
+    {
+        "id": "909",
+        "english": "Let me know how it goes ",
+        "chinese": " 告诉我结果"
+    },
+    {
+        "id": "910",
+        "english": "Update me when you can ",
+        "chinese": " 有空告诉我进展"
+    },
+    {
+        "id": "911",
+        "english": "Give me a heads up ",
+        "chinese": " 提前通知我"
+    },
+    {
+        "id": "912",
+        "english": "Just FYI ",
+        "chinese": " 供你参考"
+    },
+    {
+        "id": "913",
+        "english": "Thought you should know ",
+        "chinese": " 觉得你应该知道"
+    },
+    {
+        "id": "914",
+        "english": "Just so you know ",
+        "chinese": " 让你知道一下"
+    },
+    {
+        "id": "915",
+        "english": "For your reference ",
+        "chinese": " 供你参考"
+    },
+    {
+        "id": "916",
+        "english": "By the way ",
+        "chinese": " 顺便说一下"
+    },
+    {
+        "id": "917",
+        "english": "While we're on the subject ",
+        "chinese": " 说到这个"
+    },
+    {
+        "id": "918",
+        "english": "Speaking of which ",
+        "chinese": " 说到这个"
+    },
+    {
+        "id": "919",
+        "english": "That reminds me ",
+        "chinese": " 这让我想起"
+    },
+    {
+        "id": "920",
+        "english": "Now that you mention it ",
+        "chinese": " 既然你提到这个"
+    },
+    {
+        "id": "921",
+        "english": "Come to think of it ",
+        "chinese": " 想起来了"
+    },
+    {
+        "id": "922",
+        "english": "On a related note ",
+        "chinese": " 说到相关的"
+    },
+    {
+        "id": "923",
+        "english": "In that case ",
+        "chinese": " 那样的话"
+    },
+    {
+        "id": "924",
+        "english": "If that's the case ",
+        "chinese": " 如果是那样的话"
+    },
+    {
+        "id": "925",
+        "english": "Under those circumstances ",
+        "chinese": " 在那种情况下"
+    },
+    {
+        "id": "926",
+        "english": "That being the case ",
+        "chinese": " 既然如此"
+    },
+    {
+        "id": "927",
+        "english": "Given that ",
+        "chinese": " 考虑到这一点"
+    },
+    {
+        "id": "928",
+        "english": "All things considered ",
+        "chinese": " 考虑到所有因素"
+    },
+    {
+        "id": "929",
+        "english": "Taking everything into account ",
+        "chinese": " 把所有因素都考虑进去"
+    },
+    {
+        "id": "930",
+        "english": "Looking at the big picture ",
+        "chinese": " 从大局来看"
+    },
+    {
+        "id": "931",
+        "english": "In the grand scheme of things ",
+        "chinese": " 从大局来看"
+    },
+    {
+        "id": "932",
+        "english": "When all is said and done ",
+        "chinese": " 总的来说"
+    },
+    {
+        "id": "933",
+        "english": "At the end of the day ",
+        "chinese": " 归根结底"
+    },
+    {
+        "id": "934",
+        "english": "The bottom line is ",
+        "chinese": " 重点是"
+    },
+    {
+        "id": "935",
+        "english": "Long story short ",
+        "chinese": " 长话短说"
+    },
+    {
+        "id": "936",
+        "english": "To cut a long story short ",
+        "chinese": " 长话短说"
+    },
+    {
+        "id": "937",
+        "english": "In a nutshell ",
+        "chinese": " 简单来说"
+    },
+    {
+        "id": "938",
+        "english": "To put it simply ",
+        "chinese": " 简单说就是"
+    },
+    {
+        "id": "939",
+        "english": "Simply put ",
+        "chinese": " 简单来说"
+    },
+    {
+        "id": "940",
+        "english": "In other words ",
+        "chinese": " 换句话说"
+    },
+    {
+        "id": "941",
+        "english": "That is to say ",
+        "chinese": " 也就是说"
+    },
+    {
+        "id": "942",
+        "english": "What I'm trying to say is ",
+        "chinese": " 我想说的是"
+    },
+    {
+        "id": "943",
+        "english": "Let me put it another way ",
+        "chinese": " 让我换个方式说"
+    },
+    {
+        "id": "944",
+        "english": "To put it differently ",
+        "chinese": " 换种说法"
+    },
+    {
+        "id": "945",
+        "english": "How should I put this ",
+        "chinese": " 我该怎么说呢"
+    },
+    {
+        "id": "946",
+        "english": "How can I explain this ",
+        "chinese": " 我该怎么解释呢"
+    },
+    {
+        "id": "947",
+        "english": "Let me explain ",
+        "chinese": " 让我解释一下"
+    },
+    {
+        "id": "948",
+        "english": "Here's the thing ",
+        "chinese": " 是这样的"
+    },
+    {
+        "id": "949",
+        "english": "The thing is ",
+        "chinese": " 问题是"
+    },
+    {
+        "id": "950",
+        "english": "Here's what happened ",
+        "chinese": " 事情是这样的"
+    },
+    {
+        "id": "951",
+        "english": "Here's the situation ",
+        "chinese": " 情况是这样的"
+    },
+    {
+        "id": "952",
+        "english": "Here's where we are ",
+        "chinese": " 我们现在的情况是"
+    },
+    {
+        "id": "953",
+        "english": "This is where we stand ",
+        "chinese": " 我们现在的状况是"
+    },
+    {
+        "id": "954",
+        "english": "As it stands ",
+        "chinese": " 目前的情况是"
+    },
+    {
+        "id": "955",
+        "english": "As of now ",
+        "chinese": " 到目前为止"
+    },
+    {
+        "id": "956",
+        "english": "At this point ",
+        "chinese": " 在这个时候"
+    },
+    {
+        "id": "957",
+        "english": "For the time being ",
+        "chinese": " 暂时"
+    },
+    {
+        "id": "958",
+        "english": "In the meantime ",
+        "chinese": " 同时"
+    },
+    {
+        "id": "959",
+        "english": "Meanwhile ",
+        "chinese": " 与此同时"
+    },
+    {
+        "id": "960",
+        "english": "For now ",
+        "chinese": " 目前"
+    },
+    {
+        "id": "961",
+        "english": "Until then ",
+        "chinese": " 在那之前"
+    },
+    {
+        "id": "962",
+        "english": "Until further notice ",
+        "chinese": " 直到另行通知"
+    },
+    {
+        "id": "963",
+        "english": "Going forward ",
+        "chinese": " 今后"
+    },
+    {
+        "id": "964",
+        "english": "From now on ",
+        "chinese": " 从现在开始"
+    },
+    {
+        "id": "965",
+        "english": "From here on out ",
+        "chinese": " 从现在起"
+    },
+    {
+        "id": "966",
+        "english": "Moving forward ",
+        "chinese": " 往前看"
+    },
+    {
+        "id": "967",
+        "english": "Looking ahead ",
+        "chinese": " 展望未来"
+    },
+    {
+        "id": "968",
+        "english": "Down the road ",
+        "chinese": " 将来"
+    },
+    {
+        "id": "969",
+        "english": "In the long run ",
+        "chinese": " 从长远来看"
+    },
+    {
+        "id": "970",
+        "english": "Over time ",
+        "chinese": " 随着时间推移"
+    },
+    {
+        "id": "971",
+        "english": "Sooner or later ",
+        "chinese": " 迟早"
+    },
+    {
+        "id": "972",
+        "english": "Eventually ",
+        "chinese": " 最终"
+    },
+    {
+        "id": "973",
+        "english": "In the end ",
+        "chinese": " 最后"
+    },
+    {
+        "id": "974",
+        "english": "Ultimately ",
+        "chinese": " 最终"
+    },
+    {
+        "id": "975",
+        "english": "When all is said and done ",
+        "chinese": " 最终"
+    },
+    {
+        "id": "976",
+        "english": "At the end of the day ",
+        "chinese": " 最终"
+    },
+    {
+        "id": "977",
+        "english": "In conclusion ",
+        "chinese": " 总的来说"
+    },
+    {
+        "id": "978",
+        "english": "To sum up ",
+        "chinese": " 总结一下"
+    },
+    {
+        "id": "979",
+        "english": "All in all ",
+        "chinese": " 总的来说"
+    },
+    {
+        "id": "980",
+        "english": "On the whole ",
+        "chinese": " 总的来说"
+    },
+    {
+        "id": "981",
+        "english": "By and large ",
+        "chinese": " 总的来说"
+    },
+    {
+        "id": "982",
+        "english": "Generally speaking ",
+        "chinese": " 一般来说"
+    },
+    {
+        "id": "983",
+        "english": "For the most part ",
+        "chinese": " 在大多数情况下"
+    },
+    {
+        "id": "984",
+        "english": "More often than not ",
+        "chinese": " 通常"
+    },
+    {
+        "id": "985",
+        "english": "Nine times out of ten ",
+        "chinese": " 十有八九"
+    },
+    {
+        "id": "986",
+        "english": "Usually ",
+        "chinese": " 通常"
+    },
+    {
+        "id": "987",
+        "english": "Typically ",
+        "chinese": " 一般来说"
+    },
+    {
+        "id": "988",
+        "english": "As a rule ",
+        "chinese": " 通常"
+    },
+    {
+        "id": "989",
+        "english": "As a general rule ",
+        "chinese": " 一般来说"
+    },
+    {
+        "id": "990",
+        "english": "In general ",
+        "chinese": " 一般来说"
+    },
+    {
+        "id": "991",
+        "english": "Broadly speaking ",
+        "chinese": " 广泛来说"
+    },
+    {
+        "id": "992",
+        "english": "Roughly speaking ",
+        "chinese": " 粗略来说"
+    },
+    {
+        "id": "993",
+        "english": "More or less ",
+        "chinese": " 或多或少"
+    },
+    {
+        "id": "994",
+        "english": "Give or take ",
+        "chinese": " 上下浮动"
+    },
+    {
+        "id": "995",
+        "english": "Approximately ",
+        "chinese": " 大约"
+    },
+    {
+        "id": "996",
+        "english": "About ",
+        "chinese": " 大约"
+    },
+    {
+        "id": "997",
+        "english": "Around ",
+        "chinese": " 大约"
+    },
+    {
+        "id": "998",
+        "english": "Or so ",
+        "chinese": " 左右"
+    },
+    {
+        "id": "999",
+        "english": "Something like that ",
+        "chinese": " 差不多"
+    },
+    {
+        "id": "1000",
+        "english": "Along those lines ",
+        "chinese": " 差不多那样"
+    }
+]

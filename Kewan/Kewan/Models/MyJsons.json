@@ -1,0 +1,6200 @@
+[
+    {
+        "id": "1",
+        "english": "arm ",
+        "chinese": " 手臂",
+        "phonetic": "/ ɑ:m /"
+    },
+    {
+        "id": "2",
+        "english": "bridge ",
+        "chinese": "桥",
+        "phonetic": "/ brid3/"
+    },
+    {
+        "id": "3",
+        "english": "dictionary ",
+        "chinese": "词典",
+        "phonetic": "/ 'dikfeneri /"
+    },
+    {
+        "id": "4",
+        "english": "eggplant",
+        "chinese": "茄子",
+        "phonetic": "/ 'egpla:nt/"
+    },
+    {
+        "id": "5",
+        "english": "finger ",
+        "chinese": " 手指",
+        "phonetic": "/ 'fiŋgə /"
+    },
+    {
+        "id": "6",
+        "english": "foot",
+        "chinese": "脚",
+        "phonetic": "/ fut/"
+    },
+    {
+        "id": "7",
+        "english": "grape ",
+        "chinese": "葡萄",
+        "phonetic": "/ greip /"
+    },
+    {
+        "id": "8",
+        "english": "green beans ",
+        "chinese": "青豆",
+        "phonetic": "/ gri:n bi:ns /"
+    },
+    {
+        "id": "9",
+        "english": "English book ",
+        "chinese": "英语书",
+        "phonetic": "/ 'inglif /"
+    },
+    {
+        "id": "10",
+        "english": "sharpener ",
+        "chinese": "卷笔刀",
+        "phonetic": "/ 'Ja:pane /"
+    },
+    {
+        "id": "11",
+        "english": "cucumber",
+        "chinese": "黄瓜",
+        "phonetic": "/ 'kju:kembe/"
+    },
+    {
+        "id": "12",
+        "english": "crayon ",
+        "chinese": " 蜡笔",
+        "phonetic": "/ 'kreiən /"
+    },
+    {
+        "id": "13",
+        "english": "living room ",
+        "chinese": "起居室",
+        "phonetic": "/ 'living ru:m /"
+    },
+    {
+        "id": "14",
+        "english": "maths book ",
+        "chinese": "数学书",
+        "phonetic": "/ maeθs /"
+    },
+    {
+        "id": "15",
+        "english": "mouth ",
+        "chinese": "嘴",
+        "phonetic": "/ mauθ /"
+    },
+    {
+        "id": "16",
+        "english": "notebook ",
+        "chinese": "笔记本",
+        "phonetic": "/ 'neutbuk /"
+    },
+    {
+        "id": "17",
+        "english": "newspaper",
+        "chinese": "报纸",
+        "phonetic": "/ 'nju:zpeipa/"
+    },
+    {
+        "id": "18",
+        "english": "story-book ",
+        "chinese": "故事书",
+        "phonetic": "/ 'sto:ri] buk /"
+    },
+    {
+        "id": "19",
+        "english": "strawberry ",
+        "chinese": "草莓",
+        "phonetic": "/ 'stro:bari /"
+    },
+    {
+        "id": "20",
+        "english": "tomato",
+        "chinese": " 西红柿",
+        "phonetic": "/ ta'meiteu/"
+    },
+    {
+        "id": "21",
+        "english": "tail ",
+        "chinese": "尾巴",
+        "phonetic": "/ teil/"
+    },
+    {
+        "id": "22",
+        "english": "Chinese book ",
+        "chinese": "语文书",
+        "phonetic": "/ 'tfai'ni:z/"
+    },
+    {
+        "id": "23",
+        "english": "teacher's desk ",
+        "chinese": "讲台",
+        "phonetic": "/ 'ti:tfa desk/"
+    },
+    {
+        "id": "24",
+        "english": "vegetable ",
+        "chinese": "蔬菜",
+        "phonetic": "/ 'ved3itabl/"
+    },
+    {
+        "id": "25",
+        "english": "walkman ",
+        "chinese": "随身听",
+        "phonetic": "/ 'wo:kman /"
+    },
+    {
+        "id": "26",
+        "english": "eighteen ",
+        "chinese": " 十八",
+        "phonetic": "/,ei'ti:n/"
+    },
+    {
+        "id": "27",
+        "english": "read a magazine",
+        "chinese": "读杂志",
+        "phonetic": "/,maega'zi:n/"
+    },
+    {
+        "id": "28",
+        "english": "magazine ",
+        "chinese": " 杂志",
+        "phonetic": "/,mægə'zi:n /"
+    },
+    {
+        "id": "29",
+        "english": "nineteen ",
+        "chinese": " 十九",
+        "phonetic": "/,nain'ti:n/"
+    },
+    {
+        "id": "30",
+        "english": "seventeen ",
+        "chinese": " 十七",
+        "phonetic": "/,sevən'ti:n/"
+    },
+    {
+        "id": "31",
+        "english": "play the violin ",
+        "chinese": "拉小提琴",
+        "phonetic": "/,vaie'lin/"
+    },
+    {
+        "id": "32",
+        "english": "Thursday",
+        "chinese": "星期四",
+        "phonetic": "/'0a:zdi/"
+    },
+    {
+        "id": "33",
+        "english": "thin",
+        "chinese": "瘦的",
+        "phonetic": "/0in/"
+    },
+    {
+        "id": "34",
+        "english": "arm",
+        "chinese": "手臂",
+        "phonetic": "/a:m/"
+    },
+    {
+        "id": "35",
+        "english": "answer the phone",
+        "chinese": "接电话",
+        "phonetic": "/'a:nsa faun /"
+    },
+    {
+        "id": "36",
+        "english": "aunt",
+        "chinese": "阿姨",
+        "phonetic": "/a:nt/"
+    },
+    {
+        "id": "37",
+        "english": "artist ",
+        "chinese": "画家",
+        "phonetic": "/'a:tist /"
+    },
+    {
+        "id": "38",
+        "english": "art room",
+        "chinese": "美术室",
+        "phonetic": "/a:tru:m/"
+    },
+    {
+        "id": "39",
+        "english": "aunt ",
+        "chinese": " 阿姨；姑姑；婶婶；舅妈；姨妈",
+        "phonetic": "/ɑːnt/"
+    },
+    {
+        "id": "40",
+        "english": "actor",
+        "chinese": "男演员",
+        "phonetic": "/'aekte/"
+    },
+    {
+        "id": "41",
+        "english": "actor ",
+        "chinese": " 演员",
+        "phonetic": "/ˈæktə(r)/"
+    },
+    {
+        "id": "42",
+        "english": "active ",
+        "chinese": "积极的",
+        "phonetic": "/'aektiv/"
+    },
+    {
+        "id": "43",
+        "english": "actress ",
+        "chinese": " 女演员",
+        "phonetic": "/ˈæktrəs/"
+    },
+    {
+        "id": "44",
+        "english": "actress",
+        "chinese": "女演员",
+        "phonetic": "/'aektris/"
+    },
+    {
+        "id": "45",
+        "english": "angry",
+        "chinese": "生气的",
+        "phonetic": "/'aengri/"
+    },
+    {
+        "id": "46",
+        "english": "ant ",
+        "chinese": "蚂蚁",
+        "phonetic": "/aent/"
+    },
+    {
+        "id": "47",
+        "english": "angry ",
+        "chinese": " 生气的",
+        "phonetic": "/ˈæŋɡri/"
+    },
+    {
+        "id": "48",
+        "english": "ankle ",
+        "chinese": " 脚踝",
+        "phonetic": "/ˈæŋkl/"
+    },
+    {
+        "id": "49",
+        "english": "apple ",
+        "chinese": "苹果",
+        "phonetic": "/'aepl/"
+    },
+    {
+        "id": "50",
+        "english": "astronaut ",
+        "chinese": " 宇航员",
+        "phonetic": "/ˈæstrənɔːt/"
+    },
+    {
+        "id": "51",
+        "english": "uncle ",
+        "chinese": "叔叔",
+        "phonetic": "/'agkl/"
+    },
+    {
+        "id": "52",
+        "english": "eye ",
+        "chinese": "眼睛",
+        "phonetic": "/ai/"
+    },
+    {
+        "id": "53",
+        "english": "I",
+        "chinese": "我",
+        "phonetic": "/ai/"
+    },
+    {
+        "id": "54",
+        "english": "I ",
+        "chinese": " 我（主格）",
+        "phonetic": "/ai/"
+    },
+    {
+        "id": "55",
+        "english": "ice-cream ",
+        "chinese": "冰淇淋",
+        "phonetic": "/ais kri:m/"
+    },
+    {
+        "id": "56",
+        "english": "ice - cream ",
+        "chinese": " 冰淇淋",
+        "phonetic": "/ˈaɪs kriːm/"
+    },
+    {
+        "id": "57",
+        "english": "umbrella ",
+        "chinese": " 伞",
+        "phonetic": "/Am'brela/"
+    },
+    {
+        "id": "58",
+        "english": "under ",
+        "chinese": "在下面",
+        "phonetic": "/'Anda/"
+    },
+    {
+        "id": "59",
+        "english": "onion",
+        "chinese": "洋葱",
+        "phonetic": "/'anjan/"
+    },
+    {
+        "id": "60",
+        "english": "assistant ",
+        "chinese": "助理、售货员",
+        "phonetic": "/a'sistent /"
+    },
+    {
+        "id": "61",
+        "english": "our ",
+        "chinese": "我们的",
+        "phonetic": "/'aue/"
+    },
+    {
+        "id": "62",
+        "english": "open",
+        "chinese": " 打开",
+        "phonetic": "/'aupen/"
+    },
+    {
+        "id": "63",
+        "english": "outside ",
+        "chinese": " 外部",
+        "phonetic": "/ˌaʊtˈsaɪd/"
+    },
+    {
+        "id": "64",
+        "english": "bird",
+        "chinese": "鸟",
+        "phonetic": "/ba:d/"
+    },
+    {
+        "id": "65",
+        "english": "basketball ",
+        "chinese": " 篮球",
+        "phonetic": "/ˈbɑːskɪtbɔːl/"
+    },
+    {
+        "id": "66",
+        "english": "bad ",
+        "chinese": " 坏的",
+        "phonetic": "/bæd/"
+    },
+    {
+        "id": "67",
+        "english": "badminton ",
+        "chinese": " 羽毛球",
+        "phonetic": "/ˈbædmɪntən/"
+    },
+    {
+        "id": "68",
+        "english": "bag",
+        "chinese": "包",
+        "phonetic": "/baeg/"
+    },
+    {
+        "id": "69",
+        "english": "bag ",
+        "chinese": " 包",
+        "phonetic": "/bæg/"
+    },
+    {
+        "id": "70",
+        "english": "back ",
+        "chinese": " 背部",
+        "phonetic": "/bæk/"
+    },
+    {
+        "id": "71",
+        "english": "bank ",
+        "chinese": " 银行",
+        "phonetic": "/baenk/"
+    },
+    {
+        "id": "72",
+        "english": "bank clerk ",
+        "chinese": " 银行职员",
+        "phonetic": "/bæŋk klɑːk/"
+    },
+    {
+        "id": "73",
+        "english": "bathroom ",
+        "chinese": "卫生间",
+        "phonetic": "/'baeθrum/"
+    },
+    {
+        "id": "74",
+        "english": "buy",
+        "chinese": "买",
+        "phonetic": "/bai/"
+    },
+    {
+        "id": "75",
+        "english": "bike ",
+        "chinese": "自行车",
+        "phonetic": "/baik/"
+    },
+    {
+        "id": "76",
+        "english": "bicycle ",
+        "chinese": " 自行车",
+        "phonetic": "/ˈbaɪsɪkl/"
+    },
+    {
+        "id": "77",
+        "english": "balloon",
+        "chinese": "气球",
+        "phonetic": "/ba'lu:n/"
+    },
+    {
+        "id": "78",
+        "english": "bus",
+        "chinese": "公共汽车",
+        "phonetic": "/bas/"
+    },
+    {
+        "id": "79",
+        "english": "bottom ",
+        "chinese": " 底部",
+        "phonetic": "/ˈbɒtəm/"
+    },
+    {
+        "id": "80",
+        "english": "ball - point pen（或 biro，英式）",
+        "chinese": " 圆珠笔",
+        "phonetic": "/ˈbɔːl pɔɪnt pen/"
+    },
+    {
+        "id": "81",
+        "english": "bear",
+        "chinese": "熊",
+        "phonetic": "/bca/"
+    },
+    {
+        "id": "82",
+        "english": "boy ",
+        "chinese": " 男孩",
+        "phonetic": "/bɔi /"
+    },
+    {
+        "id": "83",
+        "english": "bird ",
+        "chinese": " 鸟",
+        "phonetic": "/bə:d/"
+    },
+    {
+        "id": "84",
+        "english": "bed ",
+        "chinese": "床",
+        "phonetic": "/bed/"
+    },
+    {
+        "id": "85",
+        "english": "bedroom ",
+        "chinese": "卧室",
+        "phonetic": "/bedrum/"
+    },
+    {
+        "id": "86",
+        "english": "baby ",
+        "chinese": "婴儿",
+        "phonetic": "/'beibi/"
+    },
+    {
+        "id": "87",
+        "english": "banana",
+        "chinese": "香蕉",
+        "phonetic": "/be'na:ne/"
+    },
+    {
+        "id": "88",
+        "english": "banana ",
+        "chinese": " 香蕉",
+        "phonetic": "/bəˈnɑːnə/"
+    },
+    {
+        "id": "89",
+        "english": "bowl ",
+        "chinese": " 碗",
+        "phonetic": "/bəʊl/"
+    },
+    {
+        "id": "90",
+        "english": "bowling ",
+        "chinese": " 保龄球",
+        "phonetic": "/ˈbəʊlɪŋ/"
+    },
+    {
+        "id": "91",
+        "english": "bear ",
+        "chinese": " 熊",
+        "phonetic": "/bɛə/"
+    },
+    {
+        "id": "92",
+        "english": "be (am, is, are) ",
+        "chinese": " 是",
+        "phonetic": "/bi:/"
+    },
+    {
+        "id": "93",
+        "english": "beef",
+        "chinese": "牛肉",
+        "phonetic": "/bi:f/"
+    },
+    {
+        "id": "94",
+        "english": "beef ",
+        "chinese": " 牛肉",
+        "phonetic": "/biːf/"
+    },
+    {
+        "id": "95",
+        "english": "beach ",
+        "chinese": " 海滩",
+        "phonetic": "/biːtʃ/"
+    },
+    {
+        "id": "96",
+        "english": "big",
+        "chinese": "大的",
+        "phonetic": "/big/"
+    },
+    {
+        "id": "97",
+        "english": "big ",
+        "chinese": " 大的",
+        "phonetic": "/big/"
+    },
+    {
+        "id": "98",
+        "english": "behind ",
+        "chinese": "在后面",
+        "phonetic": "/bi'haind/"
+    },
+    {
+        "id": "99",
+        "english": "become ",
+        "chinese": "变成",
+        "phonetic": "/bi'kam/"
+    },
+    {
+        "id": "100",
+        "english": "building ",
+        "chinese": "建筑物",
+        "phonetic": "/'bildin/"
+    },
+    {
+        "id": "101",
+        "english": "beside ",
+        "chinese": " 在…… 旁边",
+        "phonetic": "/bi'said/"
+    },
+    {
+        "id": "102",
+        "english": "biscuit ",
+        "chinese": "饼干",
+        "phonetic": "/'biskit/"
+    },
+    {
+        "id": "103",
+        "english": "biscuit（英式）",
+        "chinese": " 饼干",
+        "phonetic": "/ˈbɪskɪt/"
+    },
+    {
+        "id": "104",
+        "english": "between ",
+        "chinese": " 在…… 之间（两者）",
+        "phonetic": "/bɪˈtwiːn/"
+    },
+    {
+        "id": "105",
+        "english": "beautiful ",
+        "chinese": "漂亮的",
+        "phonetic": "/'bju:tafal/"
+    },
+    {
+        "id": "106",
+        "english": "black ",
+        "chinese": "黑",
+        "phonetic": "/blaek/"
+    },
+    {
+        "id": "107",
+        "english": "blanket ",
+        "chinese": " 毛毯",
+        "phonetic": "/ˈblæŋkɪt/"
+    },
+    {
+        "id": "108",
+        "english": "blouse ",
+        "chinese": " 女衬衫",
+        "phonetic": "/blauz/"
+    },
+    {
+        "id": "109",
+        "english": "blue",
+        "chinese": "蓝",
+        "phonetic": "/blu:/"
+    },
+    {
+        "id": "110",
+        "english": "blue ",
+        "chinese": " 蓝",
+        "phonetic": "/blu:/"
+    },
+    {
+        "id": "111",
+        "english": "board ",
+        "chinese": " 写字板",
+        "phonetic": "/bo:d/"
+    },
+    {
+        "id": "112",
+        "english": "bored ",
+        "chinese": "无聊的",
+        "phonetic": "/bo:d/"
+    },
+    {
+        "id": "113",
+        "english": "ball ",
+        "chinese": "球",
+        "phonetic": "/bo:l/"
+    },
+    {
+        "id": "114",
+        "english": "baseball player",
+        "chinese": "棒球运动员",
+        "phonetic": "/bo:l'pleia/"
+    },
+    {
+        "id": "115",
+        "english": "boy",
+        "chinese": "男孩",
+        "phonetic": "/boi/"
+    },
+    {
+        "id": "116",
+        "english": "box",
+        "chinese": "盒子",
+        "phonetic": "/boks/"
+    },
+    {
+        "id": "117",
+        "english": "boat ",
+        "chinese": " 小船",
+        "phonetic": "/bout/"
+    },
+    {
+        "id": "118",
+        "english": "brother",
+        "chinese": "兄弟",
+        "phonetic": "/brada/"
+    },
+    {
+        "id": "119",
+        "english": "broccoli ",
+        "chinese": " 西兰花",
+        "phonetic": "/ˈbrɒkəli/"
+    },
+    {
+        "id": "120",
+        "english": "brown ",
+        "chinese": "棕",
+        "phonetic": "/braun/"
+    },
+    {
+        "id": "121",
+        "english": "bread ",
+        "chinese": "面包",
+        "phonetic": "/bred/"
+    },
+    {
+        "id": "122",
+        "english": "breakfast",
+        "chinese": "早餐",
+        "phonetic": "/'brekfest/"
+    },
+    {
+        "id": "123",
+        "english": "brother ",
+        "chinese": " 兄弟",
+        "phonetic": "/'brʌðə/"
+    },
+    {
+        "id": "124",
+        "english": "boots",
+        "chinese": "靴子",
+        "phonetic": "/bu:ts/"
+    },
+    {
+        "id": "125",
+        "english": "book ",
+        "chinese": "书本",
+        "phonetic": "/buk/"
+    },
+    {
+        "id": "126",
+        "english": "bookcase ",
+        "chinese": " 书柜",
+        "phonetic": "/ˈbʊkkeɪs/"
+    },
+    {
+        "id": "127",
+        "english": "bookstore ",
+        "chinese": " 书店",
+        "phonetic": "/'buksto:/"
+    },
+    {
+        "id": "128",
+        "english": "bush ",
+        "chinese": " 灌木丛",
+        "phonetic": "/bʊʃ/"
+    },
+    {
+        "id": "129",
+        "english": "bus ",
+        "chinese": " 公共汽车",
+        "phonetic": "/bʌs/"
+    },
+    {
+        "id": "130",
+        "english": "butter ",
+        "chinese": " 黄油",
+        "phonetic": "/ˈbʌtə(r)/"
+    },
+    {
+        "id": "131",
+        "english": "August ",
+        "chinese": " 八月",
+        "phonetic": "/'ɔ:gəst/"
+    },
+    {
+        "id": "132",
+        "english": "autumn ",
+        "chinese": " 秋天（美 fall）",
+        "phonetic": "/'ɔ:təm/"
+    },
+    {
+        "id": "133",
+        "english": "office ",
+        "chinese": " 办公室",
+        "phonetic": "/'ɔfis/"
+    },
+    {
+        "id": "134",
+        "english": "October ",
+        "chinese": " 十月",
+        "phonetic": "/ɔk'təubə/"
+    },
+    {
+        "id": "135",
+        "english": "on ",
+        "chinese": " 在…… 上面",
+        "phonetic": "/ɔn/"
+    },
+    {
+        "id": "136",
+        "english": "jacket ",
+        "chinese": "夹克衫",
+        "phonetic": "/'d3aekit/"
+    },
+    {
+        "id": "137",
+        "english": "jam ",
+        "chinese": "果酱",
+        "phonetic": "/d3aem/"
+    },
+    {
+        "id": "138",
+        "english": "jump ",
+        "chinese": "跳",
+        "phonetic": "/d3Amp/"
+    },
+    {
+        "id": "139",
+        "english": "jeans ",
+        "chinese": "牛仔裤",
+        "phonetic": "/d3i:nz/"
+    },
+    {
+        "id": "140",
+        "english": "jeep ",
+        "chinese": "吉普车",
+        "phonetic": "/d3i:p/"
+    },
+    {
+        "id": "141",
+        "english": "jigsaw puzzle",
+        "chinese": "拼图游戏",
+        "phonetic": "/'d3igso:'pAzl/"
+    },
+    {
+        "id": "142",
+        "english": "gym",
+        "chinese": "体育馆",
+        "phonetic": "/d3im/"
+    },
+    {
+        "id": "143",
+        "english": "giraffe",
+        "chinese": "长颈鹿",
+        "phonetic": "/d3i'ra:f/"
+    },
+    {
+        "id": "144",
+        "english": "June ",
+        "chinese": "六月",
+        "phonetic": "/d3u:n/"
+    },
+    {
+        "id": "145",
+        "english": "juice ",
+        "chinese": "果汁",
+        "phonetic": "/d3u:s/"
+    },
+    {
+        "id": "146",
+        "english": "juicy",
+        "chinese": "有汁的",
+        "phonetic": "/'d3u:si/"
+    },
+    {
+        "id": "147",
+        "english": "dance ",
+        "chinese": "跳舞",
+        "phonetic": "/da:ns/"
+    },
+    {
+        "id": "148",
+        "english": "dancer ",
+        "chinese": " 舞者",
+        "phonetic": "/ˈdɑːnsə(r)/"
+    },
+    {
+        "id": "149",
+        "english": "dad",
+        "chinese": "爸爸",
+        "phonetic": "/daed/"
+    },
+    {
+        "id": "150",
+        "english": "diamond ",
+        "chinese": " 菱形",
+        "phonetic": "/ˈdaɪəmənd/"
+    },
+    {
+        "id": "151",
+        "english": "duck",
+        "chinese": "鸭",
+        "phonetic": "/dak/"
+    },
+    {
+        "id": "152",
+        "english": "doctor ",
+        "chinese": " 医生",
+        "phonetic": "/ˈdɒktə(r)/"
+    },
+    {
+        "id": "153",
+        "english": "dumplings",
+        "chinese": "饺子",
+        "phonetic": "/'dampling/"
+    },
+    {
+        "id": "154",
+        "english": "down ",
+        "chinese": " 向下",
+        "phonetic": "/daʊn/"
+    },
+    {
+        "id": "155",
+        "english": "door ",
+        "chinese": " 门",
+        "phonetic": "/dɔ:/"
+    },
+    {
+        "id": "156",
+        "english": "daughter ",
+        "chinese": " 女儿",
+        "phonetic": "/ˈdɔːtə(r)/"
+    },
+    {
+        "id": "157",
+        "english": "dog ",
+        "chinese": " 狗",
+        "phonetic": "/dɔg/"
+    },
+    {
+        "id": "158",
+        "english": "dirty ",
+        "chinese": " 脏的",
+        "phonetic": "/'də:ti/"
+    },
+    {
+        "id": "159",
+        "english": "they",
+        "chinese": "他们",
+        "phonetic": "/dei/"
+    },
+    {
+        "id": "160",
+        "english": "they ",
+        "chinese": " 他们；她们；它们（主格）",
+        "phonetic": "/ðei/"
+    },
+    {
+        "id": "161",
+        "english": "them ",
+        "chinese": " 他们；她们；它们（宾格）",
+        "phonetic": "/ðem/"
+    },
+    {
+        "id": "162",
+        "english": "desk",
+        "chinese": "课桌",
+        "phonetic": "/desk/"
+    },
+    {
+        "id": "163",
+        "english": "desk ",
+        "chinese": " 书桌",
+        "phonetic": "/desk/"
+    },
+    {
+        "id": "164",
+        "english": "their ",
+        "chinese": " 他们的；她们的；它们的",
+        "phonetic": "/ðɛə/"
+    },
+    {
+        "id": "165",
+        "english": "deer",
+        "chinese": "鹿",
+        "phonetic": "/die/"
+    },
+    {
+        "id": "166",
+        "english": "deer ",
+        "chinese": " 鹿",
+        "phonetic": "/diə/"
+    },
+    {
+        "id": "167",
+        "english": "wash the dishes ",
+        "chinese": "洗盘子",
+        "phonetic": "/dif/"
+    },
+    {
+        "id": "168",
+        "english": "eat dinner",
+        "chinese": "吃晚饭",
+        "phonetic": "/'dina /"
+    },
+    {
+        "id": "169",
+        "english": "dinner",
+        "chinese": "晚餐",
+        "phonetic": "/'dine/"
+    },
+    {
+        "id": "170",
+        "english": "December ",
+        "chinese": "十二月",
+        "phonetic": "/di'semba/"
+    },
+    {
+        "id": "171",
+        "english": "dishwasher ",
+        "chinese": " 洗碗机",
+        "phonetic": "/ˈdɪʃwɒʃə(r)/"
+    },
+    {
+        "id": "172",
+        "english": "door",
+        "chinese": "门",
+        "phonetic": "/do:/"
+    },
+    {
+        "id": "173",
+        "english": "dog",
+        "chinese": "狗",
+        "phonetic": "/dog/"
+    },
+    {
+        "id": "174",
+        "english": "doctor",
+        "chinese": "医生",
+        "phonetic": "/'dokta/"
+    },
+    {
+        "id": "175",
+        "english": "doll",
+        "chinese": "洋娃娃",
+        "phonetic": "/dol/"
+    },
+    {
+        "id": "176",
+        "english": "drive ",
+        "chinese": "驾驶",
+        "phonetic": "/draiv/"
+    },
+    {
+        "id": "177",
+        "english": "driver ",
+        "chinese": "司机",
+        "phonetic": "/'draiva/"
+    },
+    {
+        "id": "178",
+        "english": "draw ",
+        "chinese": " 画",
+        "phonetic": "/drɔ:/"
+    },
+    {
+        "id": "179",
+        "english": "drawer ",
+        "chinese": " 抽屉",
+        "phonetic": "/drɔː(r)/"
+    },
+    {
+        "id": "180",
+        "english": "dress",
+        "chinese": "连衣裙",
+        "phonetic": "/dres/"
+    },
+    {
+        "id": "181",
+        "english": "dress ",
+        "chinese": " 连衣裙",
+        "phonetic": "/dres/"
+    },
+    {
+        "id": "182",
+        "english": "drink ",
+        "chinese": "喝",
+        "phonetic": "/drink/"
+    },
+    {
+        "id": "183",
+        "english": "drink water ",
+        "chinese": "喝水",
+        "phonetic": "/drink 'wo:ta/"
+    },
+    {
+        "id": "184",
+        "english": "draw pictures ",
+        "chinese": "画画",
+        "phonetic": "/dro: 'piktfez/"
+    },
+    {
+        "id": "185",
+        "english": "drum ",
+        "chinese": " 鼓",
+        "phonetic": "/drʌm/"
+    },
+    {
+        "id": "186",
+        "english": "do ",
+        "chinese": " 做；干",
+        "phonetic": "/du:/"
+    },
+    {
+        "id": "187",
+        "english": "duck ",
+        "chinese": " 鸭",
+        "phonetic": "/dʌk/"
+    },
+    {
+        "id": "188",
+        "english": "dumpling ",
+        "chinese": " 饺子",
+        "phonetic": "/ˈdʌmplɪŋ/"
+    },
+    {
+        "id": "189",
+        "english": "January ",
+        "chinese": " 一月",
+        "phonetic": "/'dzaenjueri/"
+    },
+    {
+        "id": "190",
+        "english": "July ",
+        "chinese": " 七月",
+        "phonetic": "/dzu:'lai/"
+    },
+    {
+        "id": "191",
+        "english": "gymnastics ",
+        "chinese": " 体操",
+        "phonetic": "/dʒɪmˈnæstɪks/"
+    },
+    {
+        "id": "192",
+        "english": "giraffe ",
+        "chinese": " 长颈鹿",
+        "phonetic": "/dʒi'rɑ:f/"
+    },
+    {
+        "id": "193",
+        "english": "jungle ",
+        "chinese": " 丛林",
+        "phonetic": "/ˈdʒʌŋɡl/"
+    },
+    {
+        "id": "194",
+        "english": "egg",
+        "chinese": "鸡蛋",
+        "phonetic": "/eg/"
+    },
+    {
+        "id": "195",
+        "english": "egg ",
+        "chinese": " 鸡蛋",
+        "phonetic": "/eg/"
+    },
+    {
+        "id": "196",
+        "english": "eggplant（美式）",
+        "chinese": " 茄子",
+        "phonetic": "/ˈeɡplɑːnt/"
+    },
+    {
+        "id": "197",
+        "english": "think ",
+        "chinese": "想",
+        "phonetic": "/eink/"
+    },
+    {
+        "id": "198",
+        "english": "April ",
+        "chinese": "四月",
+        "phonetic": "/'eiprel/"
+    },
+    {
+        "id": "199",
+        "english": "eight ",
+        "chinese": " 八",
+        "phonetic": "/eit/"
+    },
+    {
+        "id": "200",
+        "english": "eighty ",
+        "chinese": " 八十",
+        "phonetic": "/'eiti/"
+    },
+    {
+        "id": "201",
+        "english": "elephant ",
+        "chinese": "大象",
+        "phonetic": "/'elifent/"
+    },
+    {
+        "id": "202",
+        "english": "empty the trash",
+        "chinese": "倒垃圾",
+        "phonetic": "/'empti traef/"
+    },
+    {
+        "id": "203",
+        "english": "among ",
+        "chinese": " 在…… 之中（三者或以上）",
+        "phonetic": "/əˈmʌŋ/"
+    },
+    {
+        "id": "204",
+        "english": "engineer ",
+        "chinese": "工程师",
+        "phonetic": "/ˌendʒɪˈnɪr/"
+    },
+    {
+        "id": "205",
+        "english": "aubergine（英式）",
+        "chinese": " 茄子",
+        "phonetic": "/ˈəʊbəʒiːn/"
+    },
+    {
+        "id": "206",
+        "english": "old",
+        "chinese": "老的",
+        "phonetic": "/euld/"
+    },
+    {
+        "id": "207",
+        "english": "old ",
+        "chinese": " 老的；旧的",
+        "phonetic": "/əuld/"
+    },
+    {
+        "id": "208",
+        "english": "open ",
+        "chinese": " 打开",
+        "phonetic": "/'əupən/"
+    },
+    {
+        "id": "209",
+        "english": "over ",
+        "chinese": "悬在上面",
+        "phonetic": "/'euva/"
+    },
+    {
+        "id": "210",
+        "english": "oval ",
+        "chinese": " 椭圆形",
+        "phonetic": "/ˈəʊvl/"
+    },
+    {
+        "id": "211",
+        "english": "father ",
+        "chinese": "父亲",
+        "phonetic": "/'fa:a/"
+    },
+    {
+        "id": "212",
+        "english": "farm ",
+        "chinese": " 农场",
+        "phonetic": "/fa:m/"
+    },
+    {
+        "id": "213",
+        "english": "farmer ",
+        "chinese": "农民",
+        "phonetic": "/fa:me/"
+    },
+    {
+        "id": "214",
+        "english": "factory ",
+        "chinese": " 工厂",
+        "phonetic": "/'faekteri/"
+    },
+    {
+        "id": "215",
+        "english": "fan",
+        "chinese": "风扇",
+        "phonetic": "/faen/"
+    },
+    {
+        "id": "216",
+        "english": "fan ",
+        "chinese": " 风扇",
+        "phonetic": "/fæn/"
+    },
+    {
+        "id": "217",
+        "english": "fat ",
+        "chinese": "胖的",
+        "phonetic": "/faet/"
+    },
+    {
+        "id": "218",
+        "english": "firefighter ",
+        "chinese": " 消防员",
+        "phonetic": "/ˈfaɪəfaɪtə(r)/"
+    },
+    {
+        "id": "219",
+        "english": "fine",
+        "chinese": "好的",
+        "phonetic": "/fain/"
+    },
+    {
+        "id": "220",
+        "english": "find ",
+        "chinese": " 找",
+        "phonetic": "/faind/"
+    },
+    {
+        "id": "221",
+        "english": "fight ",
+        "chinese": "打架",
+        "phonetic": "/fait/"
+    },
+    {
+        "id": "222",
+        "english": "five ",
+        "chinese": " 五",
+        "phonetic": "/faiv/"
+    },
+    {
+        "id": "223",
+        "english": "funny ",
+        "chinese": "滑稽的",
+        "phonetic": "/'fani/"
+    },
+    {
+        "id": "224",
+        "english": "fold ",
+        "chinese": "折叠",
+        "phonetic": "/fauld/"
+    },
+    {
+        "id": "225",
+        "english": "phone ",
+        "chinese": "电话",
+        "phonetic": "/faun/"
+    },
+    {
+        "id": "226",
+        "english": "photo ",
+        "chinese": "照片",
+        "phonetic": "/'fautau/"
+    },
+    {
+        "id": "227",
+        "english": "four ",
+        "chinese": " 四",
+        "phonetic": "/fɔ:/"
+    },
+    {
+        "id": "228",
+        "english": "forty ",
+        "chinese": " 四十",
+        "phonetic": "/'fɔ:ti/"
+    },
+    {
+        "id": "229",
+        "english": "fourteen ",
+        "chinese": " 十四",
+        "phonetic": "/'fɔ:ti:n/"
+    },
+    {
+        "id": "230",
+        "english": "fork ",
+        "chinese": " 叉子",
+        "phonetic": "/fɔːk/"
+    },
+    {
+        "id": "231",
+        "english": "fox ",
+        "chinese": " 狐狸",
+        "phonetic": "/fɔks/"
+    },
+    {
+        "id": "232",
+        "english": "February ",
+        "chinese": " 二月",
+        "phonetic": "/februari/"
+    },
+    {
+        "id": "233",
+        "english": "face",
+        "chinese": "脸",
+        "phonetic": "/feis/"
+    },
+    {
+        "id": "234",
+        "english": "face ",
+        "chinese": " 脸",
+        "phonetic": "/feis/"
+    },
+    {
+        "id": "235",
+        "english": "favourite ",
+        "chinese": "最喜欢的",
+        "phonetic": "/'feiveri t/"
+    },
+    {
+        "id": "236",
+        "english": "shelf ",
+        "chinese": " 书架",
+        "phonetic": "/felf/"
+    },
+    {
+        "id": "237",
+        "english": "feed ",
+        "chinese": "喂",
+        "phonetic": "/fi:d/"
+    },
+    {
+        "id": "238",
+        "english": "feel ",
+        "chinese": "感觉",
+        "phonetic": "/fi:l/"
+    },
+    {
+        "id": "239",
+        "english": "have a fever ",
+        "chinese": "发高烧",
+        "phonetic": "/'fi:ve/"
+    },
+    {
+        "id": "240",
+        "english": "fever ",
+        "chinese": " 发烧",
+        "phonetic": "/'fi:və/"
+    },
+    {
+        "id": "241",
+        "english": "fish ",
+        "chinese": "鱼",
+        "phonetic": "/fif/"
+    },
+    {
+        "id": "242",
+        "english": "fifty ",
+        "chinese": " 五十",
+        "phonetic": "/'fifti/"
+    },
+    {
+        "id": "243",
+        "english": "fifteen ",
+        "chinese": " 十五",
+        "phonetic": "/'fifti:n/"
+    },
+    {
+        "id": "244",
+        "english": "finger",
+        "chinese": "手指",
+        "phonetic": "/'finge/"
+    },
+    {
+        "id": "245",
+        "english": "flat",
+        "chinese": "公寓",
+        "phonetic": "/flaet/"
+    },
+    {
+        "id": "246",
+        "english": "fly ",
+        "chinese": "飞",
+        "phonetic": "/flai/"
+    },
+    {
+        "id": "247",
+        "english": "fly kites ",
+        "chinese": "放风筝",
+        "phonetic": "/flai kaits/"
+    },
+    {
+        "id": "248",
+        "english": "flower ",
+        "chinese": " 花",
+        "phonetic": "/'flaua/"
+    },
+    {
+        "id": "249",
+        "english": "water the flowers ",
+        "chinese": "浇花",
+        "phonetic": "/'flaue/"
+    },
+    {
+        "id": "250",
+        "english": "floor ",
+        "chinese": " 地板",
+        "phonetic": "/flɔ:/"
+    },
+    {
+        "id": "251",
+        "english": "floor",
+        "chinese": "地板",
+        "phonetic": "/flo:/"
+    },
+    {
+        "id": "252",
+        "english": "flute ",
+        "chinese": " 长笛",
+        "phonetic": "/fluːt/"
+    },
+    {
+        "id": "253",
+        "english": "fork",
+        "chinese": "叉",
+        "phonetic": "/fo:k/"
+    },
+    {
+        "id": "254",
+        "english": "fall ",
+        "chinese": "掉下",
+        "phonetic": "/fo:l/"
+    },
+    {
+        "id": "255",
+        "english": "fall",
+        "chinese": "秋天",
+        "phonetic": "/fo:l 'o:tem/"
+    },
+    {
+        "id": "256",
+        "english": "fox",
+        "chinese": "狐狸",
+        "phonetic": "/foks/"
+    },
+    {
+        "id": "257",
+        "english": "forest ",
+        "chinese": "森林",
+        "phonetic": "/'forist/"
+    },
+    {
+        "id": "258",
+        "english": "frog ",
+        "chinese": " 青蛙",
+        "phonetic": "/frɒɡ/"
+    },
+    {
+        "id": "259",
+        "english": "Friday",
+        "chinese": "星期五",
+        "phonetic": "/'fraidi/"
+    },
+    {
+        "id": "260",
+        "english": "Friday ",
+        "chinese": " 星期五",
+        "phonetic": "/'fraidi/"
+    },
+    {
+        "id": "261",
+        "english": "in front of ",
+        "chinese": "在前面",
+        "phonetic": "/frAnt/"
+    },
+    {
+        "id": "262",
+        "english": "fresh ",
+        "chinese": "新鲜",
+        "phonetic": "/fref/"
+    },
+    {
+        "id": "263",
+        "english": "from ",
+        "chinese": " 从……；来自……",
+        "phonetic": "/frəm/"
+    },
+    {
+        "id": "264",
+        "english": "friend ",
+        "chinese": "朋友",
+        "phonetic": "/frend/"
+    },
+    {
+        "id": "265",
+        "english": "French fries ",
+        "chinese": "薯条",
+        "phonetic": "/frentf fraiz/"
+    },
+    {
+        "id": "266",
+        "english": "fridge ",
+        "chinese": " 冰箱",
+        "phonetic": "/frid3/"
+    },
+    {
+        "id": "267",
+        "english": "fruit",
+        "chinese": "水果",
+        "phonetic": "/fru:t/"
+    },
+    {
+        "id": "268",
+        "english": "fruit ",
+        "chinese": " 水果",
+        "phonetic": "/fruːt/"
+    },
+    {
+        "id": "269",
+        "english": "front ",
+        "chinese": " 前面",
+        "phonetic": "/frʌnt/"
+    },
+    {
+        "id": "270",
+        "english": "foot ",
+        "chinese": " 脚",
+        "phonetic": "/fut/"
+    },
+    {
+        "id": "271",
+        "english": "foot（复数 feet）",
+        "chinese": " 脚",
+        "phonetic": "/fʊt/"
+    },
+    {
+        "id": "272",
+        "english": "football ",
+        "chinese": " 足球",
+        "phonetic": "/'futbo:l/"
+    },
+    {
+        "id": "273",
+        "english": "garden",
+        "chinese": " 花园",
+        "phonetic": "/'ga:dn/"
+    },
+    {
+        "id": "274",
+        "english": "garden ",
+        "chinese": " 花园",
+        "phonetic": "/'gɑ:dn/"
+    },
+    {
+        "id": "275",
+        "english": "golf ",
+        "chinese": " 高尔夫球",
+        "phonetic": "/ɡɒlf/"
+    },
+    {
+        "id": "276",
+        "english": "go ",
+        "chinese": "去",
+        "phonetic": "/gau/"
+    },
+    {
+        "id": "277",
+        "english": "goat ",
+        "chinese": "山羊",
+        "phonetic": "/gaut/"
+    },
+    {
+        "id": "278",
+        "english": "girl",
+        "chinese": "女孩",
+        "phonetic": "/ge:l/"
+    },
+    {
+        "id": "279",
+        "english": "girl ",
+        "chinese": " 女孩",
+        "phonetic": "/gə:l/"
+    },
+    {
+        "id": "280",
+        "english": "guess ",
+        "chinese": "猜",
+        "phonetic": "/ges/"
+    },
+    {
+        "id": "281",
+        "english": "gift",
+        "chinese": "礼物",
+        "phonetic": "/gift/"
+    },
+    {
+        "id": "282",
+        "english": "guitar ",
+        "chinese": " 吉他",
+        "phonetic": "/ɡɪˈtɑː(r)/"
+    },
+    {
+        "id": "283",
+        "english": "give ",
+        "chinese": " 给",
+        "phonetic": "/giv/"
+    },
+    {
+        "id": "284",
+        "english": "gloves ",
+        "chinese": "手套",
+        "phonetic": "/glavz/"
+    },
+    {
+        "id": "285",
+        "english": "glue ",
+        "chinese": " 胶水",
+        "phonetic": "/ɡluː/"
+    },
+    {
+        "id": "286",
+        "english": "grass",
+        "chinese": "草",
+        "phonetic": "/gra:s/"
+    },
+    {
+        "id": "287",
+        "english": "grass ",
+        "chinese": " 草",
+        "phonetic": "/grɑ:s/"
+    },
+    {
+        "id": "288",
+        "english": "graph paper ",
+        "chinese": " 坐标纸",
+        "phonetic": "/ɡræf ˈpeɪpə(r)/"
+    },
+    {
+        "id": "289",
+        "english": "grandfather ",
+        "chinese": "(外)祖父",
+        "phonetic": "/'graendfa:oe/"
+    },
+    {
+        "id": "290",
+        "english": "grandma ",
+        "chinese": "(外)祖母",
+        "phonetic": "/'graendma:/"
+    },
+    {
+        "id": "291",
+        "english": "grandpa ",
+        "chinese": "(外)祖父",
+        "phonetic": "/'graendpa:/"
+    },
+    {
+        "id": "292",
+        "english": "grandfather（口语 grandpa）",
+        "chinese": " 祖父；外祖父",
+        "phonetic": "/ˈɡrænfɑːðə(r)/"
+    },
+    {
+        "id": "293",
+        "english": "grandmother（口语 grandma）",
+        "chinese": " 祖母；外祖母",
+        "phonetic": "/ˈɡrænmʌðə(r)/"
+    },
+    {
+        "id": "294",
+        "english": "grandmother",
+        "chinese": "(外)祖母",
+        "phonetic": "/'greendmaǎa/"
+    },
+    {
+        "id": "295",
+        "english": "gray（美式）",
+        "chinese": " 灰色",
+        "phonetic": "/ɡreɪ/"
+    },
+    {
+        "id": "296",
+        "english": "grey（英式）",
+        "chinese": " 灰色",
+        "phonetic": "/ɡreɪ/"
+    },
+    {
+        "id": "297",
+        "english": "great",
+        "chinese": "棒的",
+        "phonetic": "/greit/"
+    },
+    {
+        "id": "298",
+        "english": "the Great Wall ",
+        "chinese": "长城",
+        "phonetic": "/greit wo:l/"
+    },
+    {
+        "id": "299",
+        "english": "green",
+        "chinese": "绿",
+        "phonetic": "/gri:n/"
+    },
+    {
+        "id": "300",
+        "english": "green ",
+        "chinese": " 绿",
+        "phonetic": "/gri:n/"
+    },
+    {
+        "id": "301",
+        "english": "goose",
+        "chinese": "鹅",
+        "phonetic": "/gu:s/"
+    },
+    {
+        "id": "302",
+        "english": "goose ",
+        "chinese": " 鹅",
+        "phonetic": "/gu:s/"
+    },
+    {
+        "id": "303",
+        "english": "good ",
+        "chinese": " 好的",
+        "phonetic": "/gud/"
+    },
+    {
+        "id": "304",
+        "english": "hurt ",
+        "chinese": "疼痛",
+        "phonetic": "/ha:t/"
+    },
+    {
+        "id": "305",
+        "english": "Halloween ",
+        "chinese": " 万圣节前夕",
+        "phonetic": "/ˌhæləʊˈiːn/"
+    },
+    {
+        "id": "306",
+        "english": "hamburger ",
+        "chinese": "汉堡",
+        "phonetic": "/'haemba:ga/"
+    },
+    {
+        "id": "307",
+        "english": "hand",
+        "chinese": "手",
+        "phonetic": "/haend/"
+    },
+    {
+        "id": "308",
+        "english": "hand ",
+        "chinese": " 手",
+        "phonetic": "/hænd /"
+    },
+    {
+        "id": "309",
+        "english": "happy ",
+        "chinese": "高兴的",
+        "phonetic": "/'haepi/"
+    },
+    {
+        "id": "310",
+        "english": "hang up ",
+        "chinese": "挂起来",
+        "phonetic": "/haer ap/"
+    },
+    {
+        "id": "311",
+        "english": "hat",
+        "chinese": "有边帽",
+        "phonetic": "/haet/"
+    },
+    {
+        "id": "312",
+        "english": "hat ",
+        "chinese": " 帽子（有沿的）",
+        "phonetic": "/hæt/"
+    },
+    {
+        "id": "313",
+        "english": "have ",
+        "chinese": "有",
+        "phonetic": "/haev/"
+    },
+    {
+        "id": "314",
+        "english": "high ",
+        "chinese": "高的",
+        "phonetic": "/hai/"
+    },
+    {
+        "id": "315",
+        "english": "go hiking",
+        "chinese": " 去远足",
+        "phonetic": "/haik/"
+    },
+    {
+        "id": "316",
+        "english": "highlighter ",
+        "chinese": " 荧光笔",
+        "phonetic": "/ˈhaɪlaɪtə(r)/"
+    },
+    {
+        "id": "317",
+        "english": "hundred ",
+        "chinese": "一百",
+        "phonetic": "/'handrad/"
+    },
+    {
+        "id": "318",
+        "english": "hungry ",
+        "chinese": "饿的",
+        "phonetic": "/'hanggri/"
+    },
+    {
+        "id": "319",
+        "english": "how ",
+        "chinese": " 怎样；如何",
+        "phonetic": "/hau/"
+    },
+    {
+        "id": "320",
+        "english": "how large ",
+        "chinese": "面积多大",
+        "phonetic": "/hau la:d3/"
+    },
+    {
+        "id": "321",
+        "english": "how many ",
+        "chinese": " 多少（用于可数名词复数）",
+        "phonetic": "/hau 'meni/"
+    },
+    {
+        "id": "322",
+        "english": "how much ",
+        "chinese": " 多少（用于不可数名词）；多少钱",
+        "phonetic": "/hau mʌtʃ/"
+    },
+    {
+        "id": "323",
+        "english": "hole ",
+        "chinese": "洞",
+        "phonetic": "/haul/"
+    },
+    {
+        "id": "324",
+        "english": "home ",
+        "chinese": " 家",
+        "phonetic": "/haum/"
+    },
+    {
+        "id": "325",
+        "english": "do housework",
+        "chinese": " 做家务",
+        "phonetic": "/'hauswe:k/"
+    },
+    {
+        "id": "326",
+        "english": "horse ",
+        "chinese": " 马",
+        "phonetic": "/hɔ:s/"
+    },
+    {
+        "id": "327",
+        "english": "hall ",
+        "chinese": " 礼堂",
+        "phonetic": "/hɔːl/"
+    },
+    {
+        "id": "328",
+        "english": "hair",
+        "chinese": "头发",
+        "phonetic": "/hce/"
+    },
+    {
+        "id": "329",
+        "english": "hospital ",
+        "chinese": " 医院",
+        "phonetic": "/'hɔspitl/"
+    },
+    {
+        "id": "330",
+        "english": "hot ",
+        "chinese": " 热的",
+        "phonetic": "/hɔt/"
+    },
+    {
+        "id": "331",
+        "english": "hot dog ",
+        "chinese": " 热狗",
+        "phonetic": "/hɔt dɔg/"
+    },
+    {
+        "id": "332",
+        "english": "her",
+        "chinese": "她的",
+        "phonetic": "/he:/"
+    },
+    {
+        "id": "333",
+        "english": "her ",
+        "chinese": " 她（宾格）；她的",
+        "phonetic": "/hə:/"
+    },
+    {
+        "id": "334",
+        "english": "head",
+        "chinese": "头",
+        "phonetic": "/hed/"
+    },
+    {
+        "id": "335",
+        "english": "head ",
+        "chinese": " 头",
+        "phonetic": "/hed/"
+    },
+    {
+        "id": "336",
+        "english": "have a headache ",
+        "chinese": "头疼",
+        "phonetic": "/'hedeik/"
+    },
+    {
+        "id": "337",
+        "english": "headache ",
+        "chinese": " 头痛",
+        "phonetic": "/'hedeik/"
+    },
+    {
+        "id": "338",
+        "english": "help",
+        "chinese": "帮助",
+        "phonetic": "/help/"
+    },
+    {
+        "id": "339",
+        "english": "help ",
+        "chinese": " 帮助",
+        "phonetic": "/help/"
+    },
+    {
+        "id": "340",
+        "english": "helpfu l",
+        "chinese": "有帮助的",
+        "phonetic": "/'helpfal/"
+    },
+    {
+        "id": "341",
+        "english": "healthy",
+        "chinese": "健康的",
+        "phonetic": "/'helθi/"
+    },
+    {
+        "id": "342",
+        "english": "hen",
+        "chinese": "母鸡",
+        "phonetic": "/hen/"
+    },
+    {
+        "id": "343",
+        "english": "hen ",
+        "chinese": " 母鸡",
+        "phonetic": "/hen/"
+    },
+    {
+        "id": "344",
+        "english": "hotel ",
+        "chinese": " 酒店",
+        "phonetic": "/həu'tel/"
+    },
+    {
+        "id": "345",
+        "english": "heavy ",
+        "chinese": "重的",
+        "phonetic": "/'hevi/"
+    },
+    {
+        "id": "346",
+        "english": "hair ",
+        "chinese": " 头发",
+        "phonetic": "/hɛə /"
+    },
+    {
+        "id": "347",
+        "english": "he",
+        "chinese": "他",
+        "phonetic": "/hi:/"
+    },
+    {
+        "id": "348",
+        "english": "he ",
+        "chinese": " 他（主格）",
+        "phonetic": "/hi:/"
+    },
+    {
+        "id": "349",
+        "english": "hill ",
+        "chinese": " 小山",
+        "phonetic": "/hɪl/"
+    },
+    {
+        "id": "350",
+        "english": "him ",
+        "chinese": " 他（宾格）",
+        "phonetic": "/him/"
+    },
+    {
+        "id": "351",
+        "english": "hip ",
+        "chinese": " 臀部",
+        "phonetic": "/hɪp/"
+    },
+    {
+        "id": "352",
+        "english": "his ",
+        "chinese": " 他的",
+        "phonetic": "/his/"
+    },
+    {
+        "id": "353",
+        "english": "his",
+        "chinese": "他的",
+        "phonetic": "/hiz/"
+    },
+    {
+        "id": "354",
+        "english": "horse",
+        "chinese": "马",
+        "phonetic": "/ho:s/"
+    },
+    {
+        "id": "355",
+        "english": "hospital",
+        "chinese": "医院",
+        "phonetic": "/'hospitl/"
+    },
+    {
+        "id": "356",
+        "english": "hot",
+        "chinese": "热的",
+        "phonetic": "/hot/"
+    },
+    {
+        "id": "357",
+        "english": "hot dog",
+        "chinese": "热狗",
+        "phonetic": "/hot dog/"
+    },
+    {
+        "id": "358",
+        "english": "who",
+        "chinese": "谁",
+        "phonetic": "/hu:/"
+    },
+    {
+        "id": "359",
+        "english": "who ",
+        "chinese": " 谁",
+        "phonetic": "/hu:/"
+    },
+    {
+        "id": "360",
+        "english": "whose",
+        "chinese": " 谁的",
+        "phonetic": "/hu:z/"
+    },
+    {
+        "id": "361",
+        "english": "husband ",
+        "chinese": " 丈夫",
+        "phonetic": "/ˈhʌzbənd/"
+    },
+    {
+        "id": "362",
+        "english": "why",
+        "chinese": "为什么",
+        "phonetic": "/hwai/"
+    },
+    {
+        "id": "363",
+        "english": "when",
+        "chinese": "什么时候",
+        "phonetic": "/hwen/"
+    },
+    {
+        "id": "364",
+        "english": "which ",
+        "chinese": " 哪一个",
+        "phonetic": "/hwitf/"
+    },
+    {
+        "id": "365",
+        "english": "where",
+        "chinese": "在哪里",
+        "phonetic": "/hwse/"
+    },
+    {
+        "id": "366",
+        "english": "east",
+        "chinese": "东",
+        "phonetic": "/i:st/"
+    },
+    {
+        "id": "367",
+        "english": "east ",
+        "chinese": " 东",
+        "phonetic": "/i:st/"
+    },
+    {
+        "id": "368",
+        "english": "eat",
+        "chinese": "吃",
+        "phonetic": "/i:t/"
+    },
+    {
+        "id": "369",
+        "english": "eat breakfast ",
+        "chinese": "吃早餐",
+        "phonetic": "/i:t 'brekfast/"
+    },
+    {
+        "id": "370",
+        "english": "easy",
+        "chinese": "简单的",
+        "phonetic": "/'i:zi/"
+    },
+    {
+        "id": "371",
+        "english": "Easter ",
+        "chinese": " 复活节",
+        "phonetic": "/ˈiːstə(r)/"
+    },
+    {
+        "id": "372",
+        "english": "Easter egg ",
+        "chinese": " 复活节彩蛋",
+        "phonetic": "/ˈiːstə(r) eɡ/"
+    },
+    {
+        "id": "373",
+        "english": "ear",
+        "chinese": "耳朵",
+        "phonetic": "/ie/"
+    },
+    {
+        "id": "374",
+        "english": "ear ",
+        "chinese": " 耳朵",
+        "phonetic": "/iə /"
+    },
+    {
+        "id": "375",
+        "english": "excited",
+        "chinese": "兴奋的",
+        "phonetic": "/ik'saitid/"
+    },
+    {
+        "id": "376",
+        "english": "excited ",
+        "chinese": " 兴奋的",
+        "phonetic": "/ɪkˈsaɪtɪd/"
+    },
+    {
+        "id": "377",
+        "english": "expensive ",
+        "chinese": "贵的",
+        "phonetic": "/iks'pensiv/"
+    },
+    {
+        "id": "378",
+        "english": "eleven ",
+        "chinese": " 十一",
+        "phonetic": "/i'levən/"
+    },
+    {
+        "id": "379",
+        "english": "embarrassed ",
+        "chinese": " 尴尬的",
+        "phonetic": "/ɪmˈbærəst/"
+    },
+    {
+        "id": "380",
+        "english": "in ",
+        "chinese": " 在…… 里面",
+        "phonetic": "/in/"
+    },
+    {
+        "id": "381",
+        "english": "inside ",
+        "chinese": " 内部",
+        "phonetic": "/ˌɪnˈsaɪd/"
+    },
+    {
+        "id": "382",
+        "english": "ink ",
+        "chinese": " 墨水",
+        "phonetic": "/ɪŋk/"
+    },
+    {
+        "id": "383",
+        "english": "eraser",
+        "chinese": "橡皮",
+        "phonetic": "/i'reisa/"
+    },
+    {
+        "id": "384",
+        "english": "eraser ",
+        "chinese": " 橡皮",
+        "phonetic": "/i'reisə /"
+    },
+    {
+        "id": "385",
+        "english": "erase ",
+        "chinese": " 擦掉（用橡皮擦）",
+        "phonetic": "/ɪˈreɪz/"
+    },
+    {
+        "id": "386",
+        "english": "eraser（美式）",
+        "chinese": " 橡皮擦",
+        "phonetic": "/ɪˈreɪzə(r)/"
+    },
+    {
+        "id": "387",
+        "english": "it",
+        "chinese": "它",
+        "phonetic": "/it/"
+    },
+    {
+        "id": "388",
+        "english": "it ",
+        "chinese": " 它（主格、宾格）",
+        "phonetic": "/it/"
+    },
+    {
+        "id": "389",
+        "english": "its ",
+        "chinese": " 它的",
+        "phonetic": "/its/"
+    },
+    {
+        "id": "390",
+        "english": "shark ",
+        "chinese": "鲨鱼",
+        "phonetic": "/'ja:k/"
+    },
+    {
+        "id": "391",
+        "english": "shine ",
+        "chinese": "照耀",
+        "phonetic": "/jain/"
+    },
+    {
+        "id": "392",
+        "english": "young ",
+        "chinese": "年轻的",
+        "phonetic": "/jang/"
+    },
+    {
+        "id": "393",
+        "english": "show",
+        "chinese": "展示,给",
+        "phonetic": "/jau/"
+    },
+    {
+        "id": "394",
+        "english": "your ",
+        "chinese": " 你的；你们的",
+        "phonetic": "/jɔ:/"
+    },
+    {
+        "id": "395",
+        "english": "yacht ",
+        "chinese": " 快艇",
+        "phonetic": "/jɔt/"
+    },
+    {
+        "id": "396",
+        "english": "shirt",
+        "chinese": "衬衫",
+        "phonetic": "/je:t/"
+    },
+    {
+        "id": "397",
+        "english": "yellow ",
+        "chinese": "黄",
+        "phonetic": "/jelau/"
+    },
+    {
+        "id": "398",
+        "english": "she ",
+        "chinese": "她",
+        "phonetic": "/ji:/"
+    },
+    {
+        "id": "399",
+        "english": "sheep",
+        "chinese": "绵羊",
+        "phonetic": "/ji:p/"
+    },
+    {
+        "id": "400",
+        "english": "ship ",
+        "chinese": "轮船",
+        "phonetic": "/Jip/"
+    },
+    {
+        "id": "401",
+        "english": "short",
+        "chinese": "短的",
+        "phonetic": "/Jo:t/"
+    },
+    {
+        "id": "402",
+        "english": "shorts ",
+        "chinese": "短裤",
+        "phonetic": "/jo:ts/"
+    },
+    {
+        "id": "403",
+        "english": "yacht",
+        "chinese": "快艇",
+        "phonetic": "/jot/"
+    },
+    {
+        "id": "404",
+        "english": "you",
+        "chinese": "你,你们",
+        "phonetic": "/ju:/"
+    },
+    {
+        "id": "405",
+        "english": "you ",
+        "chinese": " 你；你们（主格、宾格）",
+        "phonetic": "/ju:/"
+    },
+    {
+        "id": "406",
+        "english": "shoes ",
+        "chinese": " 鞋子",
+        "phonetic": "/ju:z/"
+    },
+    {
+        "id": "407",
+        "english": "use ",
+        "chinese": "用",
+        "phonetic": "/ju:z/"
+    },
+    {
+        "id": "408",
+        "english": "uniform ",
+        "chinese": " 制服",
+        "phonetic": "/ˈjuːnɪfɔːm/"
+    },
+    {
+        "id": "409",
+        "english": "your",
+        "chinese": "你的,你们的",
+        "phonetic": "/jua/"
+    },
+    {
+        "id": "410",
+        "english": "car",
+        "chinese": "小汽车",
+        "phonetic": "/ka:/"
+    },
+    {
+        "id": "411",
+        "english": "car ",
+        "chinese": " 小汽车",
+        "phonetic": "/kɑ:/"
+    },
+    {
+        "id": "412",
+        "english": "e-card",
+        "chinese": "电子卡片",
+        "phonetic": "/ka:d/"
+    },
+    {
+        "id": "413",
+        "english": "carpet ",
+        "chinese": " 地毯",
+        "phonetic": "/ˈkɑːpɪt/"
+    },
+    {
+        "id": "414",
+        "english": "cabbage ",
+        "chinese": "卷心菜",
+        "phonetic": "/'kaebid3/"
+    },
+    {
+        "id": "415",
+        "english": "kangaroo ",
+        "chinese": "袋鼠",
+        "phonetic": "/kaenga'ru:/"
+    },
+    {
+        "id": "416",
+        "english": "canteen",
+        "chinese": " 餐厅",
+        "phonetic": "/kaen'ti:n/"
+    },
+    {
+        "id": "417",
+        "english": "canteen ",
+        "chinese": " 食堂",
+        "phonetic": "/kænˈtiːn/"
+    },
+    {
+        "id": "418",
+        "english": "cap ",
+        "chinese": " 帽子（无沿的）",
+        "phonetic": "/kæp/"
+    },
+    {
+        "id": "419",
+        "english": "carrot",
+        "chinese": "胡萝卜",
+        "phonetic": "/'kaerat/"
+    },
+    {
+        "id": "420",
+        "english": "carrot ",
+        "chinese": " 胡萝卜",
+        "phonetic": "/ˈkærət/"
+    },
+    {
+        "id": "421",
+        "english": "cat",
+        "chinese": "猫",
+        "phonetic": "/kaet/"
+    },
+    {
+        "id": "422",
+        "english": "cat ",
+        "chinese": " 猫",
+        "phonetic": "/kæt/"
+    },
+    {
+        "id": "423",
+        "english": " kind ",
+        "chinese": "善良的",
+        "phonetic": "/kaind/"
+    },
+    {
+        "id": "424",
+        "english": "kite ",
+        "chinese": "风筝",
+        "phonetic": "/kait/"
+    },
+    {
+        "id": "425",
+        "english": "colourful ",
+        "chinese": "五颜六色的",
+        "phonetic": "/'kaleful/"
+    },
+    {
+        "id": "426",
+        "english": "collect stamps",
+        "chinese": " 集邮",
+        "phonetic": "/ka'lekt staemp/"
+    },
+    {
+        "id": "427",
+        "english": "company ",
+        "chinese": "公司",
+        "phonetic": "/'kampani/"
+    },
+    {
+        "id": "428",
+        "english": "computer room",
+        "chinese": " 电脑房",
+        "phonetic": "/kam'pju:ta/"
+    },
+    {
+        "id": "429",
+        "english": "country ",
+        "chinese": "乡村",
+        "phonetic": "/kantri/"
+    },
+    {
+        "id": "430",
+        "english": "cow",
+        "chinese": "奶牛",
+        "phonetic": "/kau/"
+    },
+    {
+        "id": "431",
+        "english": "cow ",
+        "chinese": " 奶牛",
+        "phonetic": "/kau/"
+    },
+    {
+        "id": "432",
+        "english": "coconut",
+        "chinese": "椰子",
+        "phonetic": "/kaukenAt/"
+    },
+    {
+        "id": "433",
+        "english": "cold ",
+        "chinese": " 冷的",
+        "phonetic": "/kauld/"
+    },
+    {
+        "id": "434",
+        "english": "have a cold ",
+        "chinese": "伤风",
+        "phonetic": "/kauld/"
+    },
+    {
+        "id": "435",
+        "english": "coat",
+        "chinese": "外套",
+        "phonetic": "/kaut/"
+    },
+    {
+        "id": "436",
+        "english": "cousin",
+        "chinese": "堂兄妹",
+        "phonetic": "/'kazn/"
+    },
+    {
+        "id": "437",
+        "english": "cough ",
+        "chinese": " 咳嗽",
+        "phonetic": "/kɔf/"
+    },
+    {
+        "id": "438",
+        "english": "coffee ",
+        "chinese": " 咖啡",
+        "phonetic": "/'kɔfi/"
+    },
+    {
+        "id": "439",
+        "english": "cap",
+        "chinese": "无边帽",
+        "phonetic": "/keep/"
+    },
+    {
+        "id": "440",
+        "english": "cake ",
+        "chinese": "蛋糕",
+        "phonetic": "/keik/"
+    },
+    {
+        "id": "441",
+        "english": "computer",
+        "chinese": "计算机",
+        "phonetic": "/kem'pju:ta/"
+    },
+    {
+        "id": "442",
+        "english": "use a computer",
+        "chinese": "用电脑",
+        "phonetic": "/kem'pju:te/"
+    },
+    {
+        "id": "443",
+        "english": "computer ",
+        "chinese": " 计算机",
+        "phonetic": "/kəm'pju:tə/"
+    },
+    {
+        "id": "444",
+        "english": "play computer games",
+        "chinese": "玩电脑游戏",
+        "phonetic": "/kem'pju:te geims/"
+    },
+    {
+        "id": "445",
+        "english": "kettle ",
+        "chinese": " 水壶",
+        "phonetic": "/ˈketl/"
+    },
+    {
+        "id": "446",
+        "english": "Coke ",
+        "chinese": " 可乐",
+        "phonetic": "/kəuk/"
+    },
+    {
+        "id": "447",
+        "english": "cola ",
+        "chinese": " 可乐",
+        "phonetic": "/'keula/"
+    },
+    {
+        "id": "448",
+        "english": "cone ",
+        "chinese": " 圆锥体",
+        "phonetic": "/kəʊn/"
+    },
+    {
+        "id": "449",
+        "english": "coat ",
+        "chinese": " 外套",
+        "phonetic": "/kəut/"
+    },
+    {
+        "id": "450",
+        "english": "curtain ",
+        "chinese": " 窗帘",
+        "phonetic": "/ˈkɜːtn/"
+    },
+    {
+        "id": "451",
+        "english": "key",
+        "chinese": "钥匙",
+        "phonetic": "/ki:/"
+    },
+    {
+        "id": "452",
+        "english": "keyboard ",
+        "chinese": " 键盘",
+        "phonetic": "/ˈkiːbɔːd/"
+    },
+    {
+        "id": "453",
+        "english": "kiwi ",
+        "chinese": " 猕猴桃",
+        "phonetic": "/ˈkiːwiː/"
+    },
+    {
+        "id": "454",
+        "english": "kid ",
+        "chinese": "小孩",
+        "phonetic": "/kid/"
+    },
+    {
+        "id": "455",
+        "english": "kick",
+        "chinese": "踢",
+        "phonetic": "/kik/"
+    },
+    {
+        "id": "456",
+        "english": "kitchen ",
+        "chinese": " 厨房",
+        "phonetic": "/kitjin/"
+    },
+    {
+        "id": "457",
+        "english": "cute ",
+        "chinese": "可爱的",
+        "phonetic": "/kju:t/"
+    },
+    {
+        "id": "458",
+        "english": "cucumber ",
+        "chinese": " 黄瓜",
+        "phonetic": "/ˈkjuːkʌmbə(r)/"
+    },
+    {
+        "id": "459",
+        "english": "classmate",
+        "chinese": "同学",
+        "phonetic": "/'kla:smeit/"
+    },
+    {
+        "id": "460",
+        "english": "classroom ",
+        "chinese": " 教室",
+        "phonetic": "/'kla:srum/"
+    },
+    {
+        "id": "461",
+        "english": "climb ",
+        "chinese": "爬",
+        "phonetic": "/klaim/"
+    },
+    {
+        "id": "462",
+        "english": "climb mountains",
+        "chinese": "爬山",
+        "phonetic": "/klaim 'mauntins/"
+    },
+    {
+        "id": "463",
+        "english": "cloud ",
+        "chinese": "云",
+        "phonetic": "/klaud/"
+    },
+    {
+        "id": "464",
+        "english": "cloudy ",
+        "chinese": "多云的",
+        "phonetic": "/'klaudi/"
+    },
+    {
+        "id": "465",
+        "english": "close ",
+        "chinese": " 关",
+        "phonetic": "/klauz/"
+    },
+    {
+        "id": "466",
+        "english": "clock ",
+        "chinese": " 时钟",
+        "phonetic": "/klɔk/"
+    },
+    {
+        "id": "467",
+        "english": "put away the clothes",
+        "chinese": "放好衣服",
+        "phonetic": "/kleud/"
+    },
+    {
+        "id": "468",
+        "english": "clothes ",
+        "chinese": " 衣服",
+        "phonetic": "/kləʊðz/"
+    },
+    {
+        "id": "469",
+        "english": "clean ",
+        "chinese": "干净的",
+        "phonetic": "/kli:n/"
+    },
+    {
+        "id": "470",
+        "english": "clean",
+        "chinese": "打扫",
+        "phonetic": "/kli:n/"
+    },
+    {
+        "id": "471",
+        "english": "clean the bedroom",
+        "chinese": "打扫房间",
+        "phonetic": "/kli:n 'bedrum/"
+    },
+    {
+        "id": "472",
+        "english": "cleaner",
+        "chinese": "清洁工",
+        "phonetic": "/kli:na/"
+    },
+    {
+        "id": "473",
+        "english": "coffee",
+        "chinese": "咖啡",
+        "phonetic": "/'kofi/"
+    },
+    {
+        "id": "474",
+        "english": "crayon",
+        "chinese": "蜡笔",
+        "phonetic": "/'kreian/"
+    },
+    {
+        "id": "475",
+        "english": "crayons（美式）",
+        "chinese": " 蜡笔",
+        "phonetic": "/ˈkreɪənz/"
+    },
+    {
+        "id": "476",
+        "english": "Christmas ",
+        "chinese": " 圣诞节",
+        "phonetic": "/ˈkrɪsməs/"
+    },
+    {
+        "id": "477",
+        "english": "Christmas tree ",
+        "chinese": " 圣诞树",
+        "phonetic": "/ˈkrɪsməs triː/"
+    },
+    {
+        "id": "478",
+        "english": "cool",
+        "chinese": "凉爽的",
+        "phonetic": "/ku:l/"
+    },
+    {
+        "id": "479",
+        "english": "cool ",
+        "chinese": " 凉爽的",
+        "phonetic": "/ku:l/"
+    },
+    {
+        "id": "480",
+        "english": "cook ",
+        "chinese": " 厨师",
+        "phonetic": "/kʊk/"
+    },
+    {
+        "id": "481",
+        "english": "cook dinner ",
+        "chinese": "烧晚饭",
+        "phonetic": "/kuk 'dina/"
+    },
+    {
+        "id": "482",
+        "english": "cook the meals ",
+        "chinese": "烧菜",
+        "phonetic": "/kuk mi:l/"
+    },
+    {
+        "id": "483",
+        "english": "cookie（美式）",
+        "chinese": " 饼干",
+        "phonetic": "/ˈkʊki/"
+    },
+    {
+        "id": "484",
+        "english": "cupboard ",
+        "chinese": " 碗柜",
+        "phonetic": "/ˈkʌbəd/"
+    },
+    {
+        "id": "485",
+        "english": "coloured pencils（英式）",
+        "chinese": " 彩色铅笔",
+        "phonetic": "/ˈkʌləd ˈpenslz/"
+    },
+    {
+        "id": "486",
+        "english": "come ",
+        "chinese": " 来",
+        "phonetic": "/kʌm/"
+    },
+    {
+        "id": "487",
+        "english": "compass ",
+        "chinese": " 圆规",
+        "phonetic": "/ˈkʌmpəs/"
+    },
+    {
+        "id": "488",
+        "english": "cup ",
+        "chinese": " 杯子",
+        "phonetic": "/kʌp/"
+    },
+    {
+        "id": "489",
+        "english": "cut ",
+        "chinese": " 剪（用剪刀）",
+        "phonetic": "/kʌt/"
+    },
+    {
+        "id": "490",
+        "english": "cousin ",
+        "chinese": " 堂 , 表兄弟姐妹",
+        "phonetic": "/ˈkʌzn/"
+    },
+    {
+        "id": "491",
+        "english": "quiet ",
+        "chinese": "安静的",
+        "phonetic": "/kwaiet/"
+    },
+    {
+        "id": "492",
+        "english": "queen ",
+        "chinese": "女皇",
+        "phonetic": "/'kwi:n/"
+    },
+    {
+        "id": "493",
+        "english": "quilt ",
+        "chinese": " 被子",
+        "phonetic": "/kwɪlt/"
+    },
+    {
+        "id": "494",
+        "english": "lamb ",
+        "chinese": "小羊",
+        "phonetic": "/laem/"
+    },
+    {
+        "id": "495",
+        "english": "lamp ",
+        "chinese": " 台灯",
+        "phonetic": "/laemp/"
+    },
+    {
+        "id": "496",
+        "english": "librarian ",
+        "chinese": " 图书管理员",
+        "phonetic": "/laɪˈbreəriən/"
+    },
+    {
+        "id": "497",
+        "english": "library ",
+        "chinese": " 图书馆",
+        "phonetic": "/laibreri/"
+    },
+    {
+        "id": "498",
+        "english": "lion ",
+        "chinese": "狮",
+        "phonetic": "/'laien/"
+    },
+    {
+        "id": "499",
+        "english": "like ",
+        "chinese": "喜欢",
+        "phonetic": "/laik/"
+    },
+    {
+        "id": "500",
+        "english": "lined paper ",
+        "chinese": " 横格纸",
+        "phonetic": "/laɪnd ˈpeɪpə(r)/"
+    },
+    {
+        "id": "501",
+        "english": "light ",
+        "chinese": "灯",
+        "phonetic": "/lait/"
+    },
+    {
+        "id": "502",
+        "english": "lightning ",
+        "chinese": " 闪电",
+        "phonetic": "/ˈlaɪtnɪŋ/"
+    },
+    {
+        "id": "503",
+        "english": "locker ",
+        "chinese": " 储物柜",
+        "phonetic": "/ˈlɒkə(r)/"
+    },
+    {
+        "id": "504",
+        "english": "lunch ",
+        "chinese": "中餐",
+        "phonetic": "/lantf/"
+    },
+    {
+        "id": "505",
+        "english": "lovely",
+        "chinese": "可爱的",
+        "phonetic": "/'lavli/"
+    },
+    {
+        "id": "506",
+        "english": "long ",
+        "chinese": " 长的",
+        "phonetic": "/lɔŋ/"
+    },
+    {
+        "id": "507",
+        "english": "learn",
+        "chinese": "学习",
+        "phonetic": "/le:n/"
+    },
+    {
+        "id": "508",
+        "english": "laboratory（lab）",
+        "chinese": " 实验室",
+        "phonetic": "/ləˈbɒrətri/"
+    },
+    {
+        "id": "509",
+        "english": "left",
+        "chinese": "左",
+        "phonetic": "/left/"
+    },
+    {
+        "id": "510",
+        "english": "left ",
+        "chinese": " 左",
+        "phonetic": "/left/"
+    },
+    {
+        "id": "511",
+        "english": "leg",
+        "chinese": "腿",
+        "phonetic": "/leg/"
+    },
+    {
+        "id": "512",
+        "english": "leg ",
+        "chinese": " 腿",
+        "phonetic": "/leg/"
+    },
+    {
+        "id": "513",
+        "english": "lady ",
+        "chinese": "女士",
+        "phonetic": "/leidi/"
+    },
+    {
+        "id": "514",
+        "english": "lake ",
+        "chinese": "湖泊",
+        "phonetic": "/leik/"
+    },
+    {
+        "id": "515",
+        "english": "lemon",
+        "chinese": "柠檬",
+        "phonetic": "/'lemen/"
+    },
+    {
+        "id": "516",
+        "english": "lemon ",
+        "chinese": " 柠檬",
+        "phonetic": "/ˈlemən/"
+    },
+    {
+        "id": "517",
+        "english": "lettuce ",
+        "chinese": " 生菜",
+        "phonetic": "/ˈletɪs/"
+    },
+    {
+        "id": "518",
+        "english": "lonely ",
+        "chinese": " 孤独的",
+        "phonetic": "/ˈləʊnli/"
+    },
+    {
+        "id": "519",
+        "english": "leaf",
+        "chinese": "树叶",
+        "phonetic": "/li:f/"
+    },
+    {
+        "id": "520",
+        "english": "leaf ",
+        "chinese": " 树叶（复数 leaves）",
+        "phonetic": "/li:f/"
+    },
+    {
+        "id": "521",
+        "english": "leave ",
+        "chinese": "离开",
+        "phonetic": "/li:v/"
+    },
+    {
+        "id": "522",
+        "english": "listen ",
+        "chinese": " 听",
+        "phonetic": "/'lisn/"
+    },
+    {
+        "id": "523",
+        "english": "listen to music",
+        "chinese": "听音乐",
+        "phonetic": "/'lisn 'mju:zik/"
+    },
+    {
+        "id": "524",
+        "english": "little ",
+        "chinese": "小的",
+        "phonetic": "/'litl/"
+    },
+    {
+        "id": "525",
+        "english": "live ",
+        "chinese": "居住",
+        "phonetic": "/liv/"
+    },
+    {
+        "id": "526",
+        "english": "lock",
+        "chinese": "锁",
+        "phonetic": "/lok/"
+    },
+    {
+        "id": "527",
+        "english": "long",
+        "chinese": "长的",
+        "phonetic": "/lon/"
+    },
+    {
+        "id": "528",
+        "english": "look ",
+        "chinese": "看",
+        "phonetic": "/luk/"
+    },
+    {
+        "id": "529",
+        "english": "love ",
+        "chinese": " 爱；喜欢",
+        "phonetic": "/lʌv/"
+    },
+    {
+        "id": "530",
+        "english": "March",
+        "chinese": "三月",
+        "phonetic": "/ma:tf/"
+    },
+    {
+        "id": "531",
+        "english": "March ",
+        "chinese": " 三月",
+        "phonetic": "/mɑ:tʃ/"
+    },
+    {
+        "id": "532",
+        "english": "mark ",
+        "chinese": " 标记（用马克笔、荧光笔等）",
+        "phonetic": "/mɑːk/"
+    },
+    {
+        "id": "533",
+        "english": "marker ",
+        "chinese": " 马克笔",
+        "phonetic": "/ˈmɑːkə(r)/"
+    },
+    {
+        "id": "534",
+        "english": "magazine",
+        "chinese": "杂志",
+        "phonetic": "/maege'zi:n/"
+    },
+    {
+        "id": "535",
+        "english": "man ",
+        "chinese": "男人",
+        "phonetic": "/maen/"
+    },
+    {
+        "id": "536",
+        "english": "mango",
+        "chinese": "芒果",
+        "phonetic": "/'maengau/"
+    },
+    {
+        "id": "537",
+        "english": "mango ",
+        "chinese": " 芒果",
+        "phonetic": "/ˈmæŋɡəʊ/"
+    },
+    {
+        "id": "538",
+        "english": "mat（地垫、餐垫等）",
+        "chinese": " 垫子",
+        "phonetic": "/mæt/"
+    },
+    {
+        "id": "539",
+        "english": "my",
+        "chinese": "我的",
+        "phonetic": "/mai/"
+    },
+    {
+        "id": "540",
+        "english": "my ",
+        "chinese": " 我的",
+        "phonetic": "/mai/"
+    },
+    {
+        "id": "541",
+        "english": "microwave oven ",
+        "chinese": " 微波炉",
+        "phonetic": "/ˈmaɪkrəweɪv ˈʌvn/"
+    },
+    {
+        "id": "542",
+        "english": "Monday",
+        "chinese": "星期一",
+        "phonetic": "/'mAndei/"
+    },
+    {
+        "id": "543",
+        "english": "money ",
+        "chinese": " 钱",
+        "phonetic": "/'mAni/"
+    },
+    {
+        "id": "544",
+        "english": "monkey ",
+        "chinese": "猴子",
+        "phonetic": "/'manki/"
+    },
+    {
+        "id": "545",
+        "english": "mother",
+        "chinese": "母亲",
+        "phonetic": "/'mAoa/"
+    },
+    {
+        "id": "546",
+        "english": "mutton",
+        "chinese": "羊肉",
+        "phonetic": "/'mAtn/"
+    },
+    {
+        "id": "547",
+        "english": "mountain ",
+        "chinese": "大山",
+        "phonetic": "/'mauntin /"
+    },
+    {
+        "id": "548",
+        "english": "mouse ",
+        "chinese": "鼠",
+        "phonetic": "/maus/"
+    },
+    {
+        "id": "549",
+        "english": "mouse（电脑配件）",
+        "chinese": " 鼠标",
+        "phonetic": "/maʊs/"
+    },
+    {
+        "id": "550",
+        "english": "motor cycle ",
+        "chinese": "摩托车",
+        "phonetic": "/'maute 'saikl /"
+    },
+    {
+        "id": "551",
+        "english": "mom ",
+        "chinese": " 妈妈",
+        "phonetic": "/mɔm/"
+    },
+    {
+        "id": "552",
+        "english": "medicine ",
+        "chinese": " 药",
+        "phonetic": "/'medisin/"
+    },
+    {
+        "id": "553",
+        "english": "magenta ",
+        "chinese": " 品红色",
+        "phonetic": "/məˈdʒentə/"
+    },
+    {
+        "id": "554",
+        "english": "May",
+        "chinese": "五月",
+        "phonetic": "/mei/"
+    },
+    {
+        "id": "555",
+        "english": "May ",
+        "chinese": " 五月",
+        "phonetic": "/mei/"
+    },
+    {
+        "id": "556",
+        "english": "make ",
+        "chinese": " 制作",
+        "phonetic": "/meik/"
+    },
+    {
+        "id": "557",
+        "english": "make a snowman",
+        "chinese": "堆雪人",
+        "phonetic": "/meik a 'snau,maen/"
+    },
+    {
+        "id": "558",
+        "english": "e-mail",
+        "chinese": "电子邮件",
+        "phonetic": "/meil/"
+    },
+    {
+        "id": "559",
+        "english": "mail carrier（美式）",
+        "chinese": " 邮递员",
+        "phonetic": "/ˈmeɪl ˈkæriə(r)/"
+    },
+    {
+        "id": "560",
+        "english": "menu ",
+        "chinese": "菜单",
+        "phonetic": "/'menju:/"
+    },
+    {
+        "id": "561",
+        "english": "motorbike ",
+        "chinese": " 摩托车",
+        "phonetic": "/ˈməʊtəbaɪk/"
+    },
+    {
+        "id": "562",
+        "english": "measure ",
+        "chinese": " 测量（用尺子）",
+        "phonetic": "/ˈmeʒə(r)/"
+    },
+    {
+        "id": "563",
+        "english": "me ",
+        "chinese": " 我（宾格）",
+        "phonetic": "/mi:/"
+    },
+    {
+        "id": "564",
+        "english": "meat",
+        "chinese": "肉",
+        "phonetic": "/mi: t/"
+    },
+    {
+        "id": "565",
+        "english": "meet",
+        "chinese": "遇见",
+        "phonetic": "/mi:t/"
+    },
+    {
+        "id": "566",
+        "english": "meat ",
+        "chinese": " 肉",
+        "phonetic": "/miːt/"
+    },
+    {
+        "id": "567",
+        "english": "milk",
+        "chinese": "牛奶",
+        "phonetic": "/milk/"
+    },
+    {
+        "id": "568",
+        "english": "milk ",
+        "chinese": " 牛奶",
+        "phonetic": "/milk/"
+    },
+    {
+        "id": "569",
+        "english": "mirror ",
+        "chinese": "镜子",
+        "phonetic": "/mira/"
+    },
+    {
+        "id": "570",
+        "english": "music room ",
+        "chinese": "音乐教室",
+        "phonetic": "/'mju:zik/"
+    },
+    {
+        "id": "571",
+        "english": "do morning exercises",
+        "chinese": "做早操",
+        "phonetic": "/'mo:ning 'eksasaiz/"
+    },
+    {
+        "id": "572",
+        "english": "mom",
+        "chinese": "妈妈",
+        "phonetic": "/mom/"
+    },
+    {
+        "id": "573",
+        "english": "moon ",
+        "chinese": " 月亮",
+        "phonetic": "/mu:n/"
+    },
+    {
+        "id": "574",
+        "english": "mother ",
+        "chinese": " 母亲",
+        "phonetic": "/'mʌðə/"
+    },
+    {
+        "id": "575",
+        "english": "mug ",
+        "chinese": " 马克杯",
+        "phonetic": "/mʌɡ/"
+    },
+    {
+        "id": "576",
+        "english": "Monday ",
+        "chinese": " 星期一",
+        "phonetic": "/'mʌndi/"
+    },
+    {
+        "id": "577",
+        "english": "nurse ",
+        "chinese": "护士",
+        "phonetic": "/na:s/"
+    },
+    {
+        "id": "578",
+        "english": "knife ",
+        "chinese": " 刀",
+        "phonetic": "/naif/"
+    },
+    {
+        "id": "579",
+        "english": "nine ",
+        "chinese": " 九",
+        "phonetic": "/nain/"
+    },
+    {
+        "id": "580",
+        "english": "ninety ",
+        "chinese": " 九十",
+        "phonetic": "/'nainti/"
+    },
+    {
+        "id": "581",
+        "english": "nice ",
+        "chinese": "好的",
+        "phonetic": "/nais/"
+    },
+    {
+        "id": "582",
+        "english": "November ",
+        "chinese": "十一月",
+        "phonetic": "/nau'vembe/"
+    },
+    {
+        "id": "583",
+        "english": "nose",
+        "chinese": "鼻子",
+        "phonetic": "/nauz/"
+    },
+    {
+        "id": "584",
+        "english": "neighbour",
+        "chinese": "邻居",
+        "phonetic": "/'neiba/"
+    },
+    {
+        "id": "585",
+        "english": "neck ",
+        "chinese": " 脖子",
+        "phonetic": "/nek/"
+    },
+    {
+        "id": "586",
+        "english": "nest ",
+        "chinese": "鸟窝",
+        "phonetic": "/nest/"
+    },
+    {
+        "id": "587",
+        "english": "notepad ",
+        "chinese": " 记事本",
+        "phonetic": "/ˈnəʊtpæd/"
+    },
+    {
+        "id": "588",
+        "english": "nose ",
+        "chinese": " 鼻子",
+        "phonetic": "/nəuz /"
+    },
+    {
+        "id": "589",
+        "english": "nervous ",
+        "chinese": " 紧张的",
+        "phonetic": "/ˈnɜːvəs/"
+    },
+    {
+        "id": "590",
+        "english": "need ",
+        "chinese": " 需要",
+        "phonetic": "/ni:d/"
+    },
+    {
+        "id": "591",
+        "english": "knee ",
+        "chinese": " 膝盖",
+        "phonetic": "/niː/"
+    },
+    {
+        "id": "592",
+        "english": "near",
+        "chinese": "在附件",
+        "phonetic": "/nia/"
+    },
+    {
+        "id": "593",
+        "english": "near ",
+        "chinese": " 在…… 附近",
+        "phonetic": "/niə/"
+    },
+    {
+        "id": "594",
+        "english": "new",
+        "chinese": "新的",
+        "phonetic": "/nju:/"
+    },
+    {
+        "id": "595",
+        "english": "newspaper ",
+        "chinese": "报纸",
+        "phonetic": "/'nju:zpeipe/"
+    },
+    {
+        "id": "596",
+        "english": "north ",
+        "chinese": "北",
+        "phonetic": "/no:0/"
+    },
+    {
+        "id": "597",
+        "english": "noodles ",
+        "chinese": "面条",
+        "phonetic": "/'nu:dl/"
+    },
+    {
+        "id": "598",
+        "english": "noodle ",
+        "chinese": " 面条",
+        "phonetic": "/ˈnuːdl/"
+    },
+    {
+        "id": "599",
+        "english": "teacher's office ",
+        "chinese": "教师办公室",
+        "phonetic": "/'o:fis/"
+    },
+    {
+        "id": "600",
+        "english": "August",
+        "chinese": "八月",
+        "phonetic": "/o:'gAst/"
+    },
+    {
+        "id": "601",
+        "english": "orange ",
+        "chinese": "橙",
+        "phonetic": "/'o:rind3/"
+    },
+    {
+        "id": "602",
+        "english": "October",
+        "chinese": " 十月",
+        "phonetic": "/ok'tauba/"
+    },
+    {
+        "id": "603",
+        "english": "park",
+        "chinese": "公园",
+        "phonetic": "/pa:k/"
+    },
+    {
+        "id": "604",
+        "english": "park ",
+        "chinese": " 公园",
+        "phonetic": "/pɑ:k/"
+    },
+    {
+        "id": "605",
+        "english": "pass",
+        "chinese": "传递",
+        "phonetic": "/pa:s/"
+    },
+    {
+        "id": "606",
+        "english": "path ",
+        "chinese": " 小路",
+        "phonetic": "/pa:θ/"
+    },
+    {
+        "id": "607",
+        "english": "panda ",
+        "chinese": "熊猫",
+        "phonetic": "/'paenda/"
+    },
+    {
+        "id": "608",
+        "english": "pants ",
+        "chinese": "裤子",
+        "phonetic": "/paents/"
+    },
+    {
+        "id": "609",
+        "english": "pants（美式）",
+        "chinese": " 裤子",
+        "phonetic": "/pænts/"
+    },
+    {
+        "id": "610",
+        "english": "pineapple ",
+        "chinese": " 菠萝",
+        "phonetic": "/ˈpaɪnæpl/"
+    },
+    {
+        "id": "611",
+        "english": "pumpkin",
+        "chinese": "南瓜",
+        "phonetic": "/'pampkin/"
+    },
+    {
+        "id": "612",
+        "english": "post card ",
+        "chinese": "明信片",
+        "phonetic": "/paust ka:d/"
+    },
+    {
+        "id": "613",
+        "english": "pork ",
+        "chinese": " 猪肉",
+        "phonetic": "/pɔːk/"
+    },
+    {
+        "id": "614",
+        "english": "purple ",
+        "chinese": "紫",
+        "phonetic": "/'pe:pI/"
+    },
+    {
+        "id": "615",
+        "english": "pear ",
+        "chinese": " 梨",
+        "phonetic": "/peə(r)/"
+    },
+    {
+        "id": "616",
+        "english": "parent ",
+        "chinese": " 父亲或母亲",
+        "phonetic": "/ˈpeərənt/"
+    },
+    {
+        "id": "617",
+        "english": "paint ",
+        "chinese": "画画",
+        "phonetic": "/peint/"
+    },
+    {
+        "id": "618",
+        "english": "paperclip ",
+        "chinese": " 回形针",
+        "phonetic": "/ˈpeɪpəklɪp/"
+    },
+    {
+        "id": "619",
+        "english": "police station ",
+        "chinese": " 警察局",
+        "phonetic": "/pə'li:s'steiʃən/"
+    },
+    {
+        "id": "620",
+        "english": "policewoman ",
+        "chinese": " 女警察",
+        "phonetic": "/pəˈliːswʊmən/"
+    },
+    {
+        "id": "621",
+        "english": "pen",
+        "chinese": "钢笔",
+        "phonetic": "/pen/"
+    },
+    {
+        "id": "622",
+        "english": "pen ",
+        "chinese": " 钢笔",
+        "phonetic": "/pen/"
+    },
+    {
+        "id": "623",
+        "english": "pen pal",
+        "chinese": "笔友",
+        "phonetic": "/pen pael/"
+    },
+    {
+        "id": "624",
+        "english": "pencil ",
+        "chinese": "铅笔",
+        "phonetic": "/'pensl/"
+    },
+    {
+        "id": "625",
+        "english": "pencil - box（英式）",
+        "chinese": " 铅笔盒",
+        "phonetic": "/ˈpensl bɒks/"
+    },
+    {
+        "id": "626",
+        "english": "pencil - case（美式）",
+        "chinese": " 铅笔盒",
+        "phonetic": "/ˈpensl keɪs/"
+    },
+    {
+        "id": "627",
+        "english": "pencil-case ",
+        "chinese": "铅笔盒",
+        "phonetic": "/'penslkeis /"
+    },
+    {
+        "id": "628",
+        "english": "pepper ",
+        "chinese": " 辣椒",
+        "phonetic": "/ˈpepə(r)/"
+    },
+    {
+        "id": "629",
+        "english": "pet shop",
+        "chinese": "宠物店",
+        "phonetic": "/pet Jop/"
+    },
+    {
+        "id": "630",
+        "english": "potato",
+        "chinese": "土豆",
+        "phonetic": "/pe'teiteu/"
+    },
+    {
+        "id": "631",
+        "english": "potato ",
+        "chinese": " 土豆",
+        "phonetic": "/pəˈteɪtəʊ/"
+    },
+    {
+        "id": "632",
+        "english": "post office ",
+        "chinese": "邮政局",
+        "phonetic": "/peust 'o:fis/"
+    },
+    {
+        "id": "633",
+        "english": "postman ",
+        "chinese": " 邮递员",
+        "phonetic": "/ˈpəʊstmən/"
+    },
+    {
+        "id": "634",
+        "english": "pea ",
+        "chinese": "豌豆",
+        "phonetic": "/pi:/"
+    },
+    {
+        "id": "635",
+        "english": "people ",
+        "chinese": "人物",
+        "phonetic": "/'pi:pl/"
+    },
+    {
+        "id": "636",
+        "english": "peach",
+        "chinese": "桃",
+        "phonetic": "/pi:tf/"
+    },
+    {
+        "id": "637",
+        "english": "pizza ",
+        "chinese": " 披萨",
+        "phonetic": "/ˈpiːtsə/"
+    },
+    {
+        "id": "638",
+        "english": "play the piano ",
+        "chinese": "弹钢琴",
+        "phonetic": "/pi'aenau/"
+    },
+    {
+        "id": "639",
+        "english": "piano ",
+        "chinese": " 钢琴",
+        "phonetic": "/piˈænəʊ/"
+    },
+    {
+        "id": "640",
+        "english": "pig ",
+        "chinese": "猪",
+        "phonetic": "/pig/"
+    },
+    {
+        "id": "641",
+        "english": "pick up leaves ",
+        "chinese": "摘树叶",
+        "phonetic": "/pik ap li:vz/"
+    },
+    {
+        "id": "642",
+        "english": "have a picnic ",
+        "chinese": " 野餐",
+        "phonetic": "/'piknik/"
+    },
+    {
+        "id": "643",
+        "english": "picture ",
+        "chinese": "图画",
+        "phonetic": "/piktfa/"
+    },
+    {
+        "id": "644",
+        "english": "pillow ",
+        "chinese": " 枕头",
+        "phonetic": "/ˈpɪləʊ/"
+    },
+    {
+        "id": "645",
+        "english": "pink",
+        "chinese": "粉红",
+        "phonetic": "/pink/"
+    },
+    {
+        "id": "646",
+        "english": "pink ",
+        "chinese": " 粉红",
+        "phonetic": "/piŋk/"
+    },
+    {
+        "id": "647",
+        "english": "plant",
+        "chinese": "植物",
+        "phonetic": "/pla:nt/"
+    },
+    {
+        "id": "648",
+        "english": "plant trees ",
+        "chinese": "植树",
+        "phonetic": "/pla:nt tri:z/"
+    },
+    {
+        "id": "649",
+        "english": "play",
+        "chinese": "玩",
+        "phonetic": "/plei/"
+    },
+    {
+        "id": "650",
+        "english": "play ",
+        "chinese": " 玩；打（球）；弹奏（乐器）",
+        "phonetic": "/plei/"
+    },
+    {
+        "id": "651",
+        "english": "play sports",
+        "chinese": "体育运动",
+        "phonetic": "/plei spo:ts/"
+    },
+    {
+        "id": "652",
+        "english": "playground ",
+        "chinese": "操场",
+        "phonetic": "/'pleigraund/"
+    },
+    {
+        "id": "653",
+        "english": "plane ",
+        "chinese": "飞机",
+        "phonetic": "/plein/"
+    },
+    {
+        "id": "654",
+        "english": "plate ",
+        "chinese": " 盘子",
+        "phonetic": "/pleit/"
+    },
+    {
+        "id": "655",
+        "english": "pork",
+        "chinese": "猪肉",
+        "phonetic": "/po:k/"
+    },
+    {
+        "id": "656",
+        "english": "policeman ",
+        "chinese": "(男)警察",
+        "phonetic": "/po'li:sman /"
+    },
+    {
+        "id": "657",
+        "english": "pot",
+        "chinese": "锅",
+        "phonetic": "/pot/"
+    },
+    {
+        "id": "658",
+        "english": "proud ",
+        "chinese": "骄傲的",
+        "phonetic": "/praud/"
+    },
+    {
+        "id": "659",
+        "english": "protractor ",
+        "chinese": " 量角器",
+        "phonetic": "/prəˈtræktə(r)/"
+    },
+    {
+        "id": "660",
+        "english": "present",
+        "chinese": "礼物",
+        "phonetic": "/'preznt/"
+    },
+    {
+        "id": "661",
+        "english": "present ",
+        "chinese": " 礼物",
+        "phonetic": "/ˈpreznt/"
+    },
+    {
+        "id": "662",
+        "english": "principal ",
+        "chinese": "校长",
+        "phonetic": "/'prinsepel /"
+    },
+    {
+        "id": "663",
+        "english": "printer ",
+        "chinese": " 打印机",
+        "phonetic": "/ˈprɪntə(r)/"
+    },
+    {
+        "id": "664",
+        "english": "pretty ",
+        "chinese": "漂亮的",
+        "phonetic": "/'priti/"
+    },
+    {
+        "id": "665",
+        "english": "parents ",
+        "chinese": "父母",
+        "phonetic": "/'pserents/"
+    },
+    {
+        "id": "666",
+        "english": "pear",
+        "chinese": "梨",
+        "phonetic": "/pso/"
+    },
+    {
+        "id": "667",
+        "english": "put",
+        "chinese": "放",
+        "phonetic": "/put/"
+    },
+    {
+        "id": "668",
+        "english": "put ",
+        "chinese": " 放",
+        "phonetic": "/put/"
+    },
+    {
+        "id": "669",
+        "english": "rabbit ",
+        "chinese": "兔子",
+        "phonetic": "/'raebit/"
+    },
+    {
+        "id": "670",
+        "english": "ride ",
+        "chinese": "骑",
+        "phonetic": "/raid/"
+    },
+    {
+        "id": "671",
+        "english": "ride a bike ",
+        "chinese": "骑自行车",
+        "phonetic": "/raid baik/"
+    },
+    {
+        "id": "672",
+        "english": "rice",
+        "chinese": "米饭",
+        "phonetic": "/rais/"
+    },
+    {
+        "id": "673",
+        "english": "rice ",
+        "chinese": " 米饭",
+        "phonetic": "/rais/"
+    },
+    {
+        "id": "674",
+        "english": "right ",
+        "chinese": "右",
+        "phonetic": "/rait/"
+    },
+    {
+        "id": "675",
+        "english": "write ",
+        "chinese": "写",
+        "phonetic": "/rait/"
+    },
+    {
+        "id": "676",
+        "english": "write a letter ",
+        "chinese": "写信",
+        "phonetic": "/rait 'leta/"
+    },
+    {
+        "id": "677",
+        "english": "write a report ",
+        "chinese": "写报告",
+        "phonetic": "/rait ri'po:t/"
+    },
+    {
+        "id": "678",
+        "english": "writer",
+        "chinese": "作家",
+        "phonetic": "/'raite/"
+    },
+    {
+        "id": "679",
+        "english": "writer ",
+        "chinese": " 作家",
+        "phonetic": "/ˈraɪtə(r)/"
+    },
+    {
+        "id": "680",
+        "english": "run ",
+        "chinese": "跑",
+        "phonetic": "/ran/"
+    },
+    {
+        "id": "681",
+        "english": "robot ",
+        "chinese": "机器人",
+        "phonetic": "/'raubot/"
+    },
+    {
+        "id": "682",
+        "english": "road ",
+        "chinese": "马路",
+        "phonetic": "/raud/"
+    },
+    {
+        "id": "683",
+        "english": "house ",
+        "chinese": " 房子",
+        "phonetic": "/raud/"
+    },
+    {
+        "id": "684",
+        "english": "rose",
+        "chinese": " 玫瑰",
+        "phonetic": "/rauz/"
+    },
+    {
+        "id": "685",
+        "english": "red",
+        "chinese": "红",
+        "phonetic": "/red/"
+    },
+    {
+        "id": "686",
+        "english": "red ",
+        "chinese": " 红",
+        "phonetic": "/red/"
+    },
+    {
+        "id": "687",
+        "english": "radio ",
+        "chinese": " 收音机",
+        "phonetic": "/ˈreɪdiəʊ/"
+    },
+    {
+        "id": "688",
+        "english": "rain ",
+        "chinese": "雨",
+        "phonetic": "/rein/"
+    },
+    {
+        "id": "689",
+        "english": "rainbow ",
+        "chinese": "彩虹",
+        "phonetic": "/'reinbau/"
+    },
+    {
+        "id": "690",
+        "english": "rainy ",
+        "chinese": " 下雨",
+        "phonetic": "/'reini/"
+    },
+    {
+        "id": "691",
+        "english": "raincoat ",
+        "chinese": " 雨衣",
+        "phonetic": "/'reinkeut/"
+    },
+    {
+        "id": "692",
+        "english": "rectangle ",
+        "chinese": " 长方形",
+        "phonetic": "/ˈrektæŋɡl/"
+    },
+    {
+        "id": "693",
+        "english": "row",
+        "chinese": "划",
+        "phonetic": "/reu/"
+    },
+    {
+        "id": "694",
+        "english": "read ",
+        "chinese": "读,看",
+        "phonetic": "/ri:d/"
+    },
+    {
+        "id": "695",
+        "english": "refrigerator（或 fridge）",
+        "chinese": " 冰箱",
+        "phonetic": "/rɪˈfrɪdʒəreɪtə(r)/"
+    },
+    {
+        "id": "696",
+        "english": "reporter ",
+        "chinese": " 记者",
+        "phonetic": "/rɪˈpɔːtə(r)/"
+    },
+    {
+        "id": "697",
+        "english": "TV reporter ",
+        "chinese": "电视台记者",
+        "phonetic": "/ri'po:ta/"
+    },
+    {
+        "id": "698",
+        "english": "river ",
+        "chinese": "河流",
+        "phonetic": "/'rive/"
+    },
+    {
+        "id": "699",
+        "english": "ruler ",
+        "chinese": "尺子",
+        "phonetic": "/'ru:la/"
+    },
+    {
+        "id": "700",
+        "english": "room",
+        "chinese": "房间",
+        "phonetic": "/ru:m/"
+    },
+    {
+        "id": "701",
+        "english": "rubber（英式）",
+        "chinese": " 橡皮擦",
+        "phonetic": "/ˈrʌbə(r)/"
+    },
+    {
+        "id": "702",
+        "english": "air-conditioner",
+        "chinese": " 空调",
+        "phonetic": "/sa kan'difena/"
+    },
+    {
+        "id": "703",
+        "english": "subway",
+        "chinese": "地铁",
+        "phonetic": "/'sabwei/"
+    },
+    {
+        "id": "704",
+        "english": "sad ",
+        "chinese": "难过的",
+        "phonetic": "/saed/"
+    },
+    {
+        "id": "705",
+        "english": "salad ",
+        "chinese": "沙拉",
+        "phonetic": "/'saeled/"
+    },
+    {
+        "id": "706",
+        "english": "sand ",
+        "chinese": " 沙子",
+        "phonetic": "/sænd/"
+    },
+    {
+        "id": "707",
+        "english": "sandals",
+        "chinese": "凉鞋",
+        "phonetic": "/'saendl/"
+    },
+    {
+        "id": "708",
+        "english": "sandwich ",
+        "chinese": "三明治",
+        "phonetic": "/'saendwitf/"
+    },
+    {
+        "id": "709",
+        "english": "Santa Claus ",
+        "chinese": " 圣诞老人",
+        "phonetic": "/ˈsæntə klɔːz/"
+    },
+    {
+        "id": "710",
+        "english": "Saturday ",
+        "chinese": " 星期六",
+        "phonetic": "/'saetadi/"
+    },
+    {
+        "id": "711",
+        "english": "cyan ",
+        "chinese": " 青色",
+        "phonetic": "/ˈsaɪən/"
+    },
+    {
+        "id": "712",
+        "english": "science museum",
+        "chinese": "科学博物馆",
+        "phonetic": "/'saiens mju:'ziem/"
+    },
+    {
+        "id": "713",
+        "english": "summer ",
+        "chinese": " 夏天",
+        "phonetic": "/'sAma/"
+    },
+    {
+        "id": "714",
+        "english": "son",
+        "chinese": "儿子",
+        "phonetic": "/san/"
+    },
+    {
+        "id": "715",
+        "english": "sun",
+        "chinese": "太阳",
+        "phonetic": "/san/"
+    },
+    {
+        "id": "716",
+        "english": "Sunday",
+        "chinese": "星期日",
+        "phonetic": "/'sAndi/"
+    },
+    {
+        "id": "717",
+        "english": "sunglasses ",
+        "chinese": "太阳镜",
+        "phonetic": "/'sangla:siz/"
+    },
+    {
+        "id": "718",
+        "english": "sunny ",
+        "chinese": "晴朗的",
+        "phonetic": "/'sani/"
+    },
+    {
+        "id": "719",
+        "english": "shop assistant ",
+        "chinese": " 店员",
+        "phonetic": "/ʃɒp əˈsɪstənt/"
+    },
+    {
+        "id": "720",
+        "english": "sour ",
+        "chinese": "酸的",
+        "phonetic": "/'saua/"
+    },
+    {
+        "id": "721",
+        "english": "sofa",
+        "chinese": "沙发",
+        "phonetic": "/'saufa/"
+    },
+    {
+        "id": "722",
+        "english": "south ",
+        "chinese": "南",
+        "phonetic": "/sauθ/"
+    },
+    {
+        "id": "723",
+        "english": "short ",
+        "chinese": " 短的；矮的",
+        "phonetic": "/ʃɔ:t/"
+    },
+    {
+        "id": "724",
+        "english": "socks ",
+        "chinese": " 袜子",
+        "phonetic": "/sɔks/"
+    },
+    {
+        "id": "725",
+        "english": "air",
+        "chinese": "空气",
+        "phonetic": "/se/"
+    },
+    {
+        "id": "726",
+        "english": "shirt ",
+        "chinese": " 衬衫（男式）",
+        "phonetic": "/ʃə:t/"
+    },
+    {
+        "id": "727",
+        "english": "say ",
+        "chinese": " 说",
+        "phonetic": "/sei/"
+    },
+    {
+        "id": "728",
+        "english": "salesperson ",
+        "chinese": "销售员",
+        "phonetic": "/'seilz/"
+    },
+    {
+        "id": "729",
+        "english": "shelf（复数 shelves）",
+        "chinese": " 架子",
+        "phonetic": "/ʃelf/"
+    },
+    {
+        "id": "730",
+        "english": "send",
+        "chinese": "送,寄",
+        "phonetic": "/send/"
+    },
+    {
+        "id": "731",
+        "english": "centre（英式）",
+        "chinese": " 中心（美式 center）",
+        "phonetic": "/ˈsentə(r)/"
+    },
+    {
+        "id": "732",
+        "english": "surprised ",
+        "chinese": " 惊讶的",
+        "phonetic": "/səˈpraɪzd/"
+    },
+    {
+        "id": "733",
+        "english": "September ",
+        "chinese": "九月",
+        "phonetic": "/sep'temba/"
+    },
+    {
+        "id": "734",
+        "english": "sofa ",
+        "chinese": " 沙发",
+        "phonetic": "/'səufə/"
+    },
+    {
+        "id": "735",
+        "english": "shoulder ",
+        "chinese": " 肩膀",
+        "phonetic": "/ˈʃəʊldə(r)/"
+    },
+    {
+        "id": "736",
+        "english": "seventy ",
+        "chinese": " 七十",
+        "phonetic": "/'sevənti/"
+    },
+    {
+        "id": "737",
+        "english": "circle ",
+        "chinese": " 圆形",
+        "phonetic": "/ˈsɜːkl/"
+    },
+    {
+        "id": "738",
+        "english": "sphere ",
+        "chinese": " 球体",
+        "phonetic": "/sfɪə(r)/"
+    },
+    {
+        "id": "739",
+        "english": "sea ",
+        "chinese": " 大海",
+        "phonetic": "/si:/"
+    },
+    {
+        "id": "740",
+        "english": "see ",
+        "chinese": " 看见",
+        "phonetic": "/si:/"
+    },
+    {
+        "id": "741",
+        "english": "seed ",
+        "chinese": "种子",
+        "phonetic": "/si:d/"
+    },
+    {
+        "id": "742",
+        "english": "seal",
+        "chinese": "海豹",
+        "phonetic": "/si:l/"
+    },
+    {
+        "id": "743",
+        "english": "seal ",
+        "chinese": " 海豹",
+        "phonetic": "/si:l /"
+    },
+    {
+        "id": "744",
+        "english": "sheep ",
+        "chinese": " 绵羊",
+        "phonetic": "/ʃi:p/"
+    },
+    {
+        "id": "745",
+        "english": "six ",
+        "chinese": " 六",
+        "phonetic": "/siks/"
+    },
+    {
+        "id": "746",
+        "english": "sixty ",
+        "chinese": " 六十",
+        "phonetic": "/'siksti/"
+    },
+    {
+        "id": "747",
+        "english": "sixteen ",
+        "chinese": " 十六",
+        "phonetic": "/'siksti:n/"
+    },
+    {
+        "id": "748",
+        "english": "cylinder ",
+        "chinese": " 圆柱体",
+        "phonetic": "/ˈsɪlɪndə(r)/"
+    },
+    {
+        "id": "749",
+        "english": "sing",
+        "chinese": "唱歌",
+        "phonetic": "/sin/"
+    },
+    {
+        "id": "750",
+        "english": "singer ",
+        "chinese": "歌唱家",
+        "phonetic": "/sine/"
+    },
+    {
+        "id": "751",
+        "english": "cinema ",
+        "chinese": " 电影院",
+        "phonetic": "/'sinima/"
+    },
+    {
+        "id": "752",
+        "english": "go to the cinema ",
+        "chinese": "去电影院",
+        "phonetic": "/'sinima/"
+    },
+    {
+        "id": "753",
+        "english": "sister",
+        "chinese": "姐妹",
+        "phonetic": "/'sista/"
+    },
+    {
+        "id": "754",
+        "english": "sister ",
+        "chinese": " 姐妹",
+        "phonetic": "/'sistə/"
+    },
+    {
+        "id": "755",
+        "english": "city ",
+        "chinese": " 城市",
+        "phonetic": "/'siti/"
+    },
+    {
+        "id": "756",
+        "english": "scissors ",
+        "chinese": " 剪刀",
+        "phonetic": "/ˈsɪzəz/"
+    },
+    {
+        "id": "757",
+        "english": "supermarket",
+        "chinese": " 超市",
+        "phonetic": "/'sju:pama:kit/"
+    },
+    {
+        "id": "758",
+        "english": "supermarket ",
+        "chinese": " 超市",
+        "phonetic": "/'sju:pə,mɑ:kit/"
+    },
+    {
+        "id": "759",
+        "english": "scarf",
+        "chinese": "围巾",
+        "phonetic": "/ska:f/"
+    },
+    {
+        "id": "760",
+        "english": "scarf（复数 scarves 或 scarfs）",
+        "chinese": " 围巾",
+        "phonetic": "/skɑːf/"
+    },
+    {
+        "id": "761",
+        "english": "sky",
+        "chinese": "天空",
+        "phonetic": "/skai/"
+    },
+    {
+        "id": "762",
+        "english": "sky ",
+        "chinese": " 天空",
+        "phonetic": "/skai/"
+    },
+    {
+        "id": "763",
+        "english": "skirt",
+        "chinese": "短裙子",
+        "phonetic": "/ske:t/"
+    },
+    {
+        "id": "764",
+        "english": "skirt ",
+        "chinese": " 裙子",
+        "phonetic": "/skə:t/"
+    },
+    {
+        "id": "765",
+        "english": "skate ",
+        "chinese": "溜冰",
+        "phonetic": "/skeit/"
+    },
+    {
+        "id": "766",
+        "english": "ski ",
+        "chinese": " 滑雪",
+        "phonetic": "/skiː/"
+    },
+    {
+        "id": "767",
+        "english": "school",
+        "chinese": "学校",
+        "phonetic": "/sku:I/"
+    },
+    {
+        "id": "768",
+        "english": "school ",
+        "chinese": " 学校",
+        "phonetic": "/sku:l/"
+    },
+    {
+        "id": "769",
+        "english": "schoolbag ",
+        "chinese": "书包",
+        "phonetic": "/sku:lbaeg/"
+    },
+    {
+        "id": "770",
+        "english": "square ",
+        "chinese": " 正方形",
+        "phonetic": "/skweə(r)/"
+    },
+    {
+        "id": "771",
+        "english": "sleep",
+        "chinese": "睡觉",
+        "phonetic": "/sli:p/"
+    },
+    {
+        "id": "772",
+        "english": "smart",
+        "chinese": "聪明的",
+        "phonetic": "/sma:t/"
+    },
+    {
+        "id": "773",
+        "english": "small ",
+        "chinese": " 小的",
+        "phonetic": "/smɔ:l/"
+    },
+    {
+        "id": "774",
+        "english": "smell",
+        "chinese": "闻",
+        "phonetic": "/smel/"
+    },
+    {
+        "id": "775",
+        "english": "snake ",
+        "chinese": "蛇",
+        "phonetic": "/sneik/"
+    },
+    {
+        "id": "776",
+        "english": "snow ",
+        "chinese": " 雪",
+        "phonetic": "/snəʊ/"
+    },
+    {
+        "id": "777",
+        "english": "snowy",
+        "chinese": "下雪的",
+        "phonetic": "/sneui/"
+    },
+    {
+        "id": "778",
+        "english": "snowy ",
+        "chinese": " 下雪的",
+        "phonetic": "/'snəui/"
+    },
+    {
+        "id": "779",
+        "english": "salty ",
+        "chinese": "咸的",
+        "phonetic": "/'so:lti/"
+    },
+    {
+        "id": "780",
+        "english": "sausage ",
+        "chinese": "香肠",
+        "phonetic": "/'so:sid3/"
+    },
+    {
+        "id": "781",
+        "english": "have a sore throat",
+        "chinese": "喉咙疼",
+        "phonetic": "/so:θreut/"
+    },
+    {
+        "id": "782",
+        "english": "socks",
+        "chinese": "袜子",
+        "phonetic": "/soks/"
+    },
+    {
+        "id": "783",
+        "english": "speak ",
+        "chinese": " 说；讲",
+        "phonetic": "/spi:k/"
+    },
+    {
+        "id": "784",
+        "english": "spring ",
+        "chinese": "春天",
+        "phonetic": "/sprin/"
+    },
+    {
+        "id": "785",
+        "english": "spoon ",
+        "chinese": " 勺子",
+        "phonetic": "/spu:n/"
+    },
+    {
+        "id": "786",
+        "english": "star ",
+        "chinese": " 星星",
+        "phonetic": "/stɑ:/"
+    },
+    {
+        "id": "787",
+        "english": "star - shaped ",
+        "chinese": " 星形",
+        "phonetic": "/ˈstɑː ʃeɪpt/"
+    },
+    {
+        "id": "788",
+        "english": "staffroom ",
+        "chinese": " 教师办公室",
+        "phonetic": "/ˈstɑːfruːm/"
+    },
+    {
+        "id": "789",
+        "english": "study ",
+        "chinese": "学习",
+        "phonetic": "/'stadi/"
+    },
+    {
+        "id": "790",
+        "english": "have a stomachache",
+        "chinese": "胃痛",
+        "phonetic": "/'stamakeik/"
+    },
+    {
+        "id": "791",
+        "english": "staple ",
+        "chinese": " 订书钉",
+        "phonetic": "/ˈsteɪpl/"
+    },
+    {
+        "id": "792",
+        "english": "stapler ",
+        "chinese": " 订书机",
+        "phonetic": "/ˈsteɪplə(r)/"
+    },
+    {
+        "id": "793",
+        "english": "stone ",
+        "chinese": " 石头",
+        "phonetic": "/stəʊn/"
+    },
+    {
+        "id": "794",
+        "english": " student  ",
+        "chinese": "学生",
+        "phonetic": "/'stju: dant/"
+    },
+    {
+        "id": "795",
+        "english": "stop ",
+        "chinese": "停止",
+        "phonetic": "/stop/"
+    },
+    {
+        "id": "796",
+        "english": " stream ",
+        "chinese": "小溪",
+        "phonetic": "/stri: m/"
+    },
+    {
+        "id": "797",
+        "english": "strict",
+        "chinese": "严格的",
+        "phonetic": "/strikt/"
+    },
+    {
+        "id": "798",
+        "english": "strong ",
+        "chinese": "强壮的",
+        "phonetic": "/stron/"
+    },
+    {
+        "id": "799",
+        "english": "stomach ",
+        "chinese": " 胃",
+        "phonetic": "/ˈstʌmək/"
+    },
+    {
+        "id": "800",
+        "english": "stomachache ",
+        "chinese": " 胃痛",
+        "phonetic": "/'stʌməkeik/"
+    },
+    {
+        "id": "801",
+        "english": "soup ",
+        "chinese": "汤",
+        "phonetic": "/su:p/"
+    },
+    {
+        "id": "802",
+        "english": "subway ",
+        "chinese": " 地铁",
+        "phonetic": "/'sʌbwei/"
+    },
+    {
+        "id": "803",
+        "english": "subway（美式）",
+        "chinese": " 地铁",
+        "phonetic": "/ˈsʌbweɪ/"
+    },
+    {
+        "id": "804",
+        "english": "sun ",
+        "chinese": " 太阳",
+        "phonetic": "/sʌn/"
+    },
+    {
+        "id": "805",
+        "english": "son ",
+        "chinese": " 儿子",
+        "phonetic": "/sʌn/"
+    },
+    {
+        "id": "806",
+        "english": "Sunday ",
+        "chinese": " 星期日",
+        "phonetic": "/'sʌndi/"
+    },
+    {
+        "id": "807",
+        "english": "sweater",
+        "chinese": "毛衣",
+        "phonetic": "/'sweta/"
+    },
+    {
+        "id": "808",
+        "english": "sweater ",
+        "chinese": " 毛衣",
+        "phonetic": "/'swetə/"
+    },
+    {
+        "id": "809",
+        "english": "sweep the floor ",
+        "chinese": "拖地",
+        "phonetic": "/swi:p flo:/"
+    },
+    {
+        "id": "810",
+        "english": "sweet ",
+        "chinese": "甜的",
+        "phonetic": "/swi:t/"
+    },
+    {
+        "id": "811",
+        "english": "sweet potato",
+        "chinese": "红薯",
+        "phonetic": "/swi:t pa'teitau/"
+    },
+    {
+        "id": "812",
+        "english": "swim ",
+        "chinese": "游泳",
+        "phonetic": "/swim/"
+    },
+    {
+        "id": "813",
+        "english": "swing",
+        "chinese": "荡秋千",
+        "phonetic": "/swing/"
+    },
+    {
+        "id": "814",
+        "english": "turkey ",
+        "chinese": "火鸡",
+        "phonetic": "/'ta:ki/"
+    },
+    {
+        "id": "815",
+        "english": "taxi ",
+        "chinese": "出租车",
+        "phonetic": "/taeksi/"
+    },
+    {
+        "id": "816",
+        "english": "tie",
+        "chinese": "领带",
+        "phonetic": "/tai/"
+    },
+    {
+        "id": "817",
+        "english": "tired ",
+        "chinese": "累的",
+        "phonetic": "/taied/"
+    },
+    {
+        "id": "818",
+        "english": "tiger ",
+        "chinese": "老虎",
+        "phonetic": "/'taige/"
+    },
+    {
+        "id": "819",
+        "english": "top ",
+        "chinese": " 顶部",
+        "phonetic": "/tɒp/"
+    },
+    {
+        "id": "820",
+        "english": "towel ",
+        "chinese": " 毛巾",
+        "phonetic": "/ˈtaʊəl/"
+    },
+    {
+        "id": "821",
+        "english": "toilet ",
+        "chinese": " 厕所",
+        "phonetic": "/ˈtɔɪlət/"
+    },
+    {
+        "id": "822",
+        "english": "turn ",
+        "chinese": " 转；转弯",
+        "phonetic": "/tə:n/"
+    },
+    {
+        "id": "823",
+        "english": "table ",
+        "chinese": " 桌子",
+        "phonetic": "/teibl/"
+    },
+    {
+        "id": "824",
+        "english": "set the table ",
+        "chinese": "摆餐桌",
+        "phonetic": "/teibl/"
+    },
+    {
+        "id": "825",
+        "english": "take ",
+        "chinese": "拍(照),带",
+        "phonetic": "/teik/"
+    },
+    {
+        "id": "826",
+        "english": "take pictures ",
+        "chinese": "拍照片",
+        "phonetic": "/teik 'piktfa/"
+    },
+    {
+        "id": "827",
+        "english": "taste ",
+        "chinese": "尝",
+        "phonetic": "/teist/"
+    },
+    {
+        "id": "828",
+        "english": "textbook ",
+        "chinese": " 课本",
+        "phonetic": "/ˈtekstbʊk/"
+    },
+    {
+        "id": "829",
+        "english": "tell",
+        "chinese": "告诉",
+        "phonetic": "/tel/"
+    },
+    {
+        "id": "830",
+        "english": "television（或 TV）",
+        "chinese": " 电视",
+        "phonetic": "/ˈtelɪvɪʒn/"
+    },
+    {
+        "id": "831",
+        "english": "tomato ",
+        "chinese": " 西红柿",
+        "phonetic": "/təˈmɑːtəʊ/"
+    },
+    {
+        "id": "832",
+        "english": "ten ",
+        "chinese": " 十",
+        "phonetic": "/ten/"
+    },
+    {
+        "id": "833",
+        "english": "tennis ",
+        "chinese": " 网球",
+        "phonetic": "/ˈtenɪs/"
+    },
+    {
+        "id": "834",
+        "english": "toaster ",
+        "chinese": " 烤面包机",
+        "phonetic": "/ˈtəʊstə(r)/"
+    },
+    {
+        "id": "835",
+        "english": "turtle ",
+        "chinese": " 海龟",
+        "phonetic": "/ˈtɜːtl/"
+    },
+    {
+        "id": "836",
+        "english": "chair",
+        "chinese": "椅子",
+        "phonetic": "/tfca/"
+    },
+    {
+        "id": "837",
+        "english": "cherry ",
+        "chinese": "樱桃",
+        "phonetic": "/'tferi /"
+    },
+    {
+        "id": "838",
+        "english": "play chess ",
+        "chinese": "下棋",
+        "phonetic": "/tfes/"
+    },
+    {
+        "id": "839",
+        "english": "tea",
+        "chinese": "茶",
+        "phonetic": "/ti:/"
+    },
+    {
+        "id": "840",
+        "english": "tea ",
+        "chinese": " 茶",
+        "phonetic": "/ti:/"
+    },
+    {
+        "id": "841",
+        "english": "T-shirt ",
+        "chinese": " T 恤衫",
+        "phonetic": "/'ti: ʃə:t/"
+    },
+    {
+        "id": "842",
+        "english": " teacher",
+        "chinese": "教师",
+        "phonetic": "/'ti: tfa/"
+    },
+    {
+        "id": "843",
+        "english": "teach",
+        "chinese": "教",
+        "phonetic": "/ti:tf/"
+    },
+    {
+        "id": "844",
+        "english": "T - shirt ",
+        "chinese": " T 恤衫",
+        "phonetic": "/ˈtiː ʃɜːt/"
+    },
+    {
+        "id": "845",
+        "english": "teacher ",
+        "chinese": " 教师",
+        "phonetic": "/ˈtiːtʃə(r)/"
+    },
+    {
+        "id": "846",
+        "english": "cheap",
+        "chinese": "便宜的",
+        "phonetic": "/tji:p/"
+    },
+    {
+        "id": "847",
+        "english": "chicken ",
+        "chinese": "鸡肉",
+        "phonetic": "/'tjikin/"
+    },
+    {
+        "id": "848",
+        "english": "chopsticks ",
+        "chinese": "筷子",
+        "phonetic": "/'tjopstiks/"
+    },
+    {
+        "id": "849",
+        "english": "Tuesday",
+        "chinese": "星期二",
+        "phonetic": "/'tju:zdi/"
+    },
+    {
+        "id": "850",
+        "english": "Tuesday ",
+        "chinese": " 星期二",
+        "phonetic": "/'tju:zdi/"
+    },
+    {
+        "id": "851",
+        "english": "tall ",
+        "chinese": "高的",
+        "phonetic": "/to:l/"
+    },
+    {
+        "id": "852",
+        "english": " toy ",
+        "chinese": "玩具",
+        "phonetic": "/toi/"
+    },
+    {
+        "id": "853",
+        "english": "traffic light ",
+        "chinese": "交通灯",
+        "phonetic": "/'traefik lait/"
+    },
+    {
+        "id": "854",
+        "english": "triangle ",
+        "chinese": " 三角形",
+        "phonetic": "/ˈtraɪæŋɡl/"
+    },
+    {
+        "id": "855",
+        "english": "trousers（英式）",
+        "chinese": " 裤子",
+        "phonetic": "/ˈtraʊzəz/"
+    },
+    {
+        "id": "856",
+        "english": "trousers ",
+        "chinese": " 裤子",
+        "phonetic": "/'trauzez /"
+    },
+    {
+        "id": "857",
+        "english": "train",
+        "chinese": "火车",
+        "phonetic": "/trein/"
+    },
+    {
+        "id": "858",
+        "english": "train ",
+        "chinese": " 火车",
+        "phonetic": "/trein/"
+    },
+    {
+        "id": "859",
+        "english": "tree",
+        "chinese": "树",
+        "phonetic": "/tri:/"
+    },
+    {
+        "id": "860",
+        "english": "tree ",
+        "chinese": " 树",
+        "phonetic": "/tri:/"
+    },
+    {
+        "id": "861",
+        "english": "trick or treat ",
+        "chinese": " 不给糖就捣蛋",
+        "phonetic": "/trɪk ɔː(r) triːt/"
+    },
+    {
+        "id": "862",
+        "english": "take a trip",
+        "chinese": "去郊游",
+        "phonetic": "/trip/"
+    },
+    {
+        "id": "863",
+        "english": "truck ",
+        "chinese": " 卡车",
+        "phonetic": "/trʌk/"
+    },
+    {
+        "id": "864",
+        "english": "trumpet ",
+        "chinese": " 小号",
+        "phonetic": "/ˈtrʌmpɪt/"
+    },
+    {
+        "id": "865",
+        "english": "chest ",
+        "chinese": " 胸部",
+        "phonetic": "/tʃest/"
+    },
+    {
+        "id": "866",
+        "english": "chair ",
+        "chinese": " 椅子",
+        "phonetic": "/tʃɛə/"
+    },
+    {
+        "id": "867",
+        "english": "cheese ",
+        "chinese": " 奶酪",
+        "phonetic": "/tʃiːz/"
+    },
+    {
+        "id": "868",
+        "english": "chicken（作为食物）",
+        "chinese": " 鸡肉",
+        "phonetic": "/ˈtʃɪkɪn/"
+    },
+    {
+        "id": "869",
+        "english": "to ",
+        "chinese": " 到……；向……",
+        "phonetic": "/tu:/"
+    },
+    {
+        "id": "870",
+        "english": "tourist ",
+        "chinese": "旅行者",
+        "phonetic": "/'tu:rist/"
+    },
+    {
+        "id": "871",
+        "english": "toothbrush ",
+        "chinese": "牙刷",
+        "phonetic": "/tu:θbraf/"
+    },
+    {
+        "id": "872",
+        "english": "have a toothache ",
+        "chinese": "牙疼",
+        "phonetic": "/'tu:θei/"
+    },
+    {
+        "id": "873",
+        "english": "toothache ",
+        "chinese": " 牙痛",
+        "phonetic": "/'tu:θeik/"
+    },
+    {
+        "id": "874",
+        "english": "tooth（复数 teeth）",
+        "chinese": " 牙齿",
+        "phonetic": "/tuːθ/"
+    },
+    {
+        "id": "875",
+        "english": "tongue ",
+        "chinese": " 舌头",
+        "phonetic": "/tʌŋ/"
+    },
+    {
+        "id": "876",
+        "english": "twelve ",
+        "chinese": " 十二",
+        "phonetic": "/twelv/"
+    },
+    {
+        "id": "877",
+        "english": "twenty ",
+        "chinese": " 二十",
+        "phonetic": "/'twenti/"
+    },
+    {
+        "id": "878",
+        "english": "valley ",
+        "chinese": " 山谷",
+        "phonetic": "/ˈvæli/"
+    },
+    {
+        "id": "879",
+        "english": "van",
+        "chinese": "小货车",
+        "phonetic": "/vaen/"
+    },
+    {
+        "id": "880",
+        "english": "van ",
+        "chinese": " 厢式货车",
+        "phonetic": "/væn/"
+    },
+    {
+        "id": "881",
+        "english": "violin ",
+        "chinese": "小提琴",
+        "phonetic": "/vaie'lin/"
+    },
+    {
+        "id": "882",
+        "english": "volleyball ",
+        "chinese": " 排球",
+        "phonetic": "/ˈvɒlibɔːl/"
+    },
+    {
+        "id": "883",
+        "english": "village ",
+        "chinese": " 村庄",
+        "phonetic": "/vilid3/"
+    },
+    {
+        "id": "884",
+        "english": "visit grandparents",
+        "chinese": "拜访祖父母",
+        "phonetic": "/'vizit 'graend,pearant/"
+    },
+    {
+        "id": "885",
+        "english": "visitor ",
+        "chinese": "参观者",
+        "phonetic": "/vizite/"
+    },
+    {
+        "id": "886",
+        "english": "underground（英式）",
+        "chinese": " 地铁",
+        "phonetic": "/ˈʌndəɡraʊnd/"
+    },
+    {
+        "id": "887",
+        "english": "onion ",
+        "chinese": " 洋葱",
+        "phonetic": "/ˈʌnjən/"
+    },
+    {
+        "id": "888",
+        "english": "up ",
+        "chinese": " 向上",
+        "phonetic": "/ʌp/"
+    },
+    {
+        "id": "889",
+        "english": "us ",
+        "chinese": " 我们（宾格）",
+        "phonetic": "/ʌs/"
+    },
+    {
+        "id": "890",
+        "english": "work",
+        "chinese": " 工作",
+        "phonetic": "/wa:k/"
+    },
+    {
+        "id": "891",
+        "english": "why ",
+        "chinese": " 为什么",
+        "phonetic": "/wai/"
+    },
+    {
+        "id": "892",
+        "english": "wife ",
+        "chinese": " 妻子",
+        "phonetic": "/waɪf/"
+    },
+    {
+        "id": "893",
+        "english": "wind ",
+        "chinese": "风",
+        "phonetic": "/waind/"
+    },
+    {
+        "id": "894",
+        "english": "white",
+        "chinese": "白",
+        "phonetic": "/wait/"
+    },
+    {
+        "id": "895",
+        "english": "white ",
+        "chinese": " 白",
+        "phonetic": "/wait/"
+    },
+    {
+        "id": "896",
+        "english": "washroom（美式）",
+        "chinese": " 洗手间",
+        "phonetic": "/ˈwɒʃruːm/"
+    },
+    {
+        "id": "897",
+        "english": "warm ",
+        "chinese": " 温暖的",
+        "phonetic": "/wɔ:m/"
+    },
+    {
+        "id": "898",
+        "english": "wardrobe ",
+        "chinese": " 衣柜",
+        "phonetic": "/ˈwɔːdrəʊb/"
+    },
+    {
+        "id": "899",
+        "english": "want ",
+        "chinese": " 想要",
+        "phonetic": "/wɔnt/"
+    },
+    {
+        "id": "900",
+        "english": "what ",
+        "chinese": " 什么",
+        "phonetic": "/wɔt/"
+    },
+    {
+        "id": "901",
+        "english": "watch ",
+        "chinese": " 观看",
+        "phonetic": "/wɔtʃ/"
+    },
+    {
+        "id": "902",
+        "english": "weather report",
+        "chinese": " 天气预报",
+        "phonetic": "/'weda ri'po:t/"
+    },
+    {
+        "id": "903",
+        "english": "wake up",
+        "chinese": "醒过来",
+        "phonetic": "/weik ap/"
+    },
+    {
+        "id": "904",
+        "english": "waist ",
+        "chinese": " 腰",
+        "phonetic": "/weɪst/"
+    },
+    {
+        "id": "905",
+        "english": "wait",
+        "chinese": "等",
+        "phonetic": "/weit/"
+    },
+    {
+        "id": "906",
+        "english": "welcome",
+        "chinese": " 欢迎",
+        "phonetic": "/'welkem/"
+    },
+    {
+        "id": "907",
+        "english": "when ",
+        "chinese": " 什么时候",
+        "phonetic": "/wen/"
+    },
+    {
+        "id": "908",
+        "english": "Wednesday ",
+        "chinese": "星期三",
+        "phonetic": "/wenzdi/"
+    },
+    {
+        "id": "909",
+        "english": "west ",
+        "chinese": "西",
+        "phonetic": "/west/"
+    },
+    {
+        "id": "910",
+        "english": "where ",
+        "chinese": " 在哪里",
+        "phonetic": "/wɛə/"
+    },
+    {
+        "id": "911",
+        "english": "we",
+        "chinese": "我们",
+        "phonetic": "/wi:/"
+    },
+    {
+        "id": "912",
+        "english": "we ",
+        "chinese": " 我们（主格）",
+        "phonetic": "/wi:/"
+    },
+    {
+        "id": "913",
+        "english": "weak ",
+        "chinese": " 虚弱的",
+        "phonetic": "/wi:k/"
+    },
+    {
+        "id": "914",
+        "english": "weekend ",
+        "chinese": "周末",
+        "phonetic": "/'wi:k'end/"
+    },
+    {
+        "id": "915",
+        "english": "windy",
+        "chinese": "刮风的",
+        "phonetic": "/'windi/"
+    },
+    {
+        "id": "916",
+        "english": "windy ",
+        "chinese": " 有风的",
+        "phonetic": "/'windi/"
+    },
+    {
+        "id": "917",
+        "english": "window ",
+        "chinese": "窗户",
+        "phonetic": "/'windou/"
+    },
+    {
+        "id": "918",
+        "english": "winter",
+        "chinese": "冬天",
+        "phonetic": "/'winte/"
+    },
+    {
+        "id": "919",
+        "english": "winter ",
+        "chinese": " 冬天",
+        "phonetic": "/'wintə/"
+    },
+    {
+        "id": "920",
+        "english": "wall ",
+        "chinese": "墙壁",
+        "phonetic": "/wo:I/"
+    },
+    {
+        "id": "921",
+        "english": "walk",
+        "chinese": "走",
+        "phonetic": "/wo:k/"
+    },
+    {
+        "id": "922",
+        "english": "warm",
+        "chinese": "温暖的",
+        "phonetic": "/wo:m/"
+    },
+    {
+        "id": "923",
+        "english": "water ",
+        "chinese": " 水",
+        "phonetic": "/'wo:ta/"
+    },
+    {
+        "id": "924",
+        "english": "watermelon ",
+        "chinese": "西瓜",
+        "phonetic": "/'wo:ta/"
+    },
+    {
+        "id": "925",
+        "english": "wash",
+        "chinese": "洗",
+        "phonetic": "/wof/"
+    },
+    {
+        "id": "926",
+        "english": "wash the clothes",
+        "chinese": "洗衣服",
+        "phonetic": "/wof klaudz/"
+    },
+    {
+        "id": "927",
+        "english": "washroom ",
+        "chinese": "盥洗室",
+        "phonetic": "/'wofrum/"
+    },
+    {
+        "id": "928",
+        "english": "watch TV",
+        "chinese": "看电视",
+        "phonetic": "/wotf/"
+    },
+    {
+        "id": "929",
+        "english": "wear",
+        "chinese": "穿",
+        "phonetic": "/wsa/"
+    },
+    {
+        "id": "930",
+        "english": "wolf ",
+        "chinese": " 狼",
+        "phonetic": "/wʊlf/"
+    },
+    {
+        "id": "931",
+        "english": "woman",
+        "chinese": "女人",
+        "phonetic": "/'wuman/"
+    },
+    {
+        "id": "932",
+        "english": "one ",
+        "chinese": " 一",
+        "phonetic": "/wʌn/"
+    },
+    {
+        "id": "933",
+        "english": "zebra ",
+        "chinese": "斑马",
+        "phonetic": "/'zi:bre/"
+    },
+    {
+        "id": "934",
+        "english": "zero ",
+        "chinese": " 零",
+        "phonetic": "/ˈzɪərəʊ/"
+    },
+    {
+        "id": "935",
+        "english": "zipper ",
+        "chinese": "拉链",
+        "phonetic": "/'zipa/"
+    },
+    {
+        "id": "936",
+        "english": "zoo",
+        "chinese": "动物园",
+        "phonetic": "/zu:/"
+    },
+    {
+        "id": "937",
+        "english": "zoo ",
+        "chinese": " 动物园",
+        "phonetic": "/zu:/"
+    },
+    {
+        "id": "938",
+        "english": "thank ",
+        "chinese": "谢谢",
+        "phonetic": "/θaengk/"
+    },
+    {
+        "id": "939",
+        "english": "Thanksgiving ",
+        "chinese": " 感恩节",
+        "phonetic": "/ˌθæŋksˈɡɪvɪŋ/"
+    },
+    {
+        "id": "940",
+        "english": "thirty ",
+        "chinese": " 三十",
+        "phonetic": "/'θə:ti/"
+    },
+    {
+        "id": "941",
+        "english": "thirteen ",
+        "chinese": " 十三",
+        "phonetic": "/'θə:ti:n/"
+    },
+    {
+        "id": "942",
+        "english": "Thursday ",
+        "chinese": " 星期四",
+        "phonetic": "/'θə:zdi/"
+    },
+    {
+        "id": "943",
+        "english": "thin ",
+        "chinese": " 瘦的",
+        "phonetic": "/θin/"
+    },
+    {
+        "id": "944",
+        "english": "three ",
+        "chinese": " 三",
+        "phonetic": "/θri:/"
+    },
+    {
+        "id": "945",
+        "english": "thumb ",
+        "chinese": " 大拇指",
+        "phonetic": "/θʌm/"
+    },
+    {
+        "id": "946",
+        "english": "thunder ",
+        "chinese": " 雷",
+        "phonetic": "/ˈθʌndə(r)/"
+    },
+    {
+        "id": "947",
+        "english": "T-shirt ",
+        "chinese": " T 恤衫",
+        "phonetic": "/ˈtiː ʃɜːt/"
+    },
+    {
+        "id": "948",
+        "english": "Tvroom ",
+        "chinese": " 电视房",
+        "phonetic": "/ˈtiːˈviː ruːm/"
+    },
+    {
+        "id": "949",
+        "english": "one ",
+        "chinese": " 一",
+        "phonetic": "/wʌn/"
+    },
+    {
+        "id": "950",
+        "english": "two ",
+        "chinese": " 二",
+        "phonetic": "/tuː/"
+    },
+    {
+        "id": "951",
+        "english": "three ",
+        "chinese": " 三",
+        "phonetic": "/θriː/"
+    },
+    {
+        "id": "952",
+        "english": "four ",
+        "chinese": " 四",
+        "phonetic": "/fɔː(r)/"
+    },
+    {
+        "id": "953",
+        "english": "five ",
+        "chinese": " 五",
+        "phonetic": "/faɪv/"
+    },
+    {
+        "id": "954",
+        "english": "six ",
+        "chinese": " 六",
+        "phonetic": "/sɪks/"
+    },
+    {
+        "id": "955",
+        "english": "seven ",
+        "chinese": " 七",
+        "phonetic": "/ˈsevən/"
+    },
+    {
+        "id": "956",
+        "english": "eight ",
+        "chinese": " 八",
+        "phonetic": "/eɪt/"
+    },
+    {
+        "id": "957",
+        "english": "nine ",
+        "chinese": " 九",
+        "phonetic": "/nain/"
+    },
+    {
+        "id": "958",
+        "english": "ten ",
+        "chinese": " 十",
+        "phonetic": "/ten/"
+    },
+    {
+        "id": "959",
+        "english": "eleven ",
+        "chinese": " 十一",
+        "phonetic": "/ɪˈlevən/"
+    },
+    {
+        "id": "960",
+        "english": "twelve ",
+        "chinese": " 十二",
+        "phonetic": "/twelv/"
+    },
+    {
+        "id": "961",
+        "english": "thirteen ",
+        "chinese": " 十三",
+        "phonetic": "/ˈθɜːtiːn/"
+    },
+    {
+        "id": "962",
+        "english": "fourteen ",
+        "chinese": " 十四",
+        "phonetic": "/ˈfɔːtiːn/"
+    },
+    {
+        "id": "963",
+        "english": "fifteen ",
+        "chinese": " 十五",
+        "phonetic": "/ˈfiftiːn/"
+    },
+    {
+        "id": "964",
+        "english": "sixteen ",
+        "chinese": " 十六",
+        "phonetic": "/ˈsɪkstiːn/"
+    },
+    {
+        "id": "965",
+        "english": "seventeen ",
+        "chinese": " 十七",
+        "phonetic": "/ˌsevənˈtiːn/"
+    },
+    {
+        "id": "966",
+        "english": "eighteen ",
+        "chinese": " 十八",
+        "phonetic": "/ˌeɪˈtiːn/"
+    },
+    {
+        "id": "967",
+        "english": "nineteen ",
+        "chinese": " 十九",
+        "phonetic": "/ˌnainˈtiːn/"
+    },
+    {
+        "id": "968",
+        "english": "twenty ",
+        "chinese": " 二十",
+        "phonetic": "/ˈtwenti/"
+    },
+    {
+        "id": "969",
+        "english": "thirty ",
+        "chinese": " 三十",
+        "phonetic": "/ˈθɜːti/"
+    },
+    {
+        "id": "970",
+        "english": "forty ",
+        "chinese": " 四十",
+        "phonetic": "/ˈfɔːti/"
+    },
+    {
+        "id": "971",
+        "english": "fifty ",
+        "chinese": " 五十",
+        "phonetic": "/ˈfifti/"
+    },
+    {
+        "id": "972",
+        "english": "sixty ",
+        "chinese": " 六十",
+        "phonetic": "/ˈsɪksti/"
+    },
+    {
+        "id": "973",
+        "english": "seventy ",
+        "chinese": " 七十",
+        "phonetic": "/ˈsevənti/"
+    },
+    {
+        "id": "974",
+        "english": "eighty ",
+        "chinese": " 八十",
+        "phonetic": "/ˈeɪti/"
+    },
+    {
+        "id": "975",
+        "english": "ninety ",
+        "chinese": " 九十",
+        "phonetic": "/ˈnainti/"
+    },
+    {
+        "id": "976",
+        "english": "first ",
+        "chinese": " 第一",
+        "phonetic": "/fɜːst/"
+    },
+    {
+        "id": "977",
+        "english": "second ",
+        "chinese": " 第二",
+        "phonetic": "/ˈsekənd/"
+    },
+    {
+        "id": "978",
+        "english": "third ",
+        "chinese": " 第三",
+        "phonetic": "/θɜːd/"
+    },
+    {
+        "id": "979",
+        "english": "fourth ",
+        "chinese": " 第四",
+        "phonetic": "/fɔːθ/"
+    },
+    {
+        "id": "980",
+        "english": "fifth ",
+        "chinese": " 第五",
+        "phonetic": "/fɪfθ/"
+    },
+    {
+        "id": "981",
+        "english": "sixth ",
+        "chinese": " 第六",
+        "phonetic": "/sɪksθ/"
+    },
+    {
+        "id": "982",
+        "english": "seventh ",
+        "chinese": " 第七",
+        "phonetic": "/ˈsevənθ/"
+    },
+    {
+        "id": "983",
+        "english": "eighth ",
+        "chinese": " 第八",
+        "phonetic": "/eɪtθ/"
+    },
+    {
+        "id": "984",
+        "english": "ninth ",
+        "chinese": " 第九",
+        "phonetic": "/naɪnθ/"
+    },
+    {
+        "id": "985",
+        "english": "tenth ",
+        "chinese": " 第十",
+        "phonetic": "/tenθ/"
+    },
+    {
+        "id": "986",
+        "english": "eleventh ",
+        "chinese": " 第十一",
+        "phonetic": "/ɪˈlevənθ/"
+    },
+    {
+        "id": "987",
+        "english": "twelfth ",
+        "chinese": " 第十二",
+        "phonetic": "/twelfθ/"
+    },
+    {
+        "id": "988",
+        "english": "taller ",
+        "chinese": " 更高的",
+        "phonetic": "/ˈtɔːlə(r)/"
+    },
+    {
+        "id": "989",
+        "english": "shorter ",
+        "chinese": " 更短的",
+        "phonetic": "/ˈʃɔːtə(r)/"
+    },
+    {
+        "id": "990",
+        "english": "stronger ",
+        "chinese": " 更强壮的",
+        "phonetic": "/ˈstrɒŋɡə(r)/"
+    },
+    {
+        "id": "991",
+        "english": "older ",
+        "chinese": " 更老的",
+        "phonetic": "/ˈəʊldə(r)/"
+    },
+    {
+        "id": "992",
+        "english": "younger ",
+        "chinese": " 更年轻的",
+        "phonetic": "/ˈjʌŋɡə(r)/"
+    },
+    {
+        "id": "993",
+        "english": "bigger ",
+        "chinese": " 更大的",
+        "phonetic": "/ˈbɪɡə(r)/"
+    },
+    {
+        "id": "994",
+        "english": "heavier ",
+        "chinese": " 更重的",
+        "phonetic": "/ˈheviə(r)/"
+    },
+    {
+        "id": "995",
+        "english": "longer ",
+        "chinese": " 更长的",
+        "phonetic": "/ˈlɒŋɡə(r)/"
+    },
+    {
+        "id": "996",
+        "english": "thinner ",
+        "chinese": " 更瘦的",
+        "phonetic": "/ˈθɪnə(r)/"
+    },
+    {
+        "id": "997",
+        "english": "smaller ",
+        "chinese": " 更小的",
+        "phonetic": "/ˈsmɔːlə(r)/"
+    },
+    {
+        "id": "998",
+        "english": "good ",
+        "chinese": " 好的",
+        "phonetic": "/ɡʊd/"
+    },
+    {
+        "id": "999",
+        "english": "better ",
+        "chinese": " 更好的",
+        "phonetic": "/ˈbetə(r)/"
+    },
+    {
+        "id": "1000",
+        "english": "higher ",
+        "chinese": " 更高的",
+        "phonetic": "/ˈhaɪə(r)/"
+    },
+    {
+        "id": "1001",
+        "english": "in ",
+        "chinese": " 在里面",
+        "phonetic": "/ɪn/"
+    },
+    {
+        "id": "1002",
+        "english": "on ",
+        "chinese": " 在上面",
+        "phonetic": "/ɒn/"
+    },
+    {
+        "id": "1003",
+        "english": "next to ",
+        "chinese": " 在旁边",
+        "phonetic": "/nekst tuː/"
+    },
+    {
+        "id": "1004",
+        "english": "read books ",
+        "chinese": " 读书",
+        "phonetic": "/riːd bʊks/"
+    },
+    {
+        "id": "1005",
+        "english": "do homework ",
+        "chinese": " 做作业",
+        "phonetic": "/duː ˈhəʊmwɜːk/"
+    },
+    {
+        "id": "1006",
+        "english": "make the bed ",
+        "chinese": " 铺床叠被",
+        "phonetic": "/meɪk ðə bed/"
+    },
+    {
+        "id": "1007",
+        "english": "go to school ",
+        "chinese": " 去上学",
+        "phonetic": "/ɡəʊ tuː skuːl/"
+    },
+    {
+        "id": "1008",
+        "english": "have English class ",
+        "chinese": " 上英语课",
+        "phonetic": "/hæv ˈɪŋɡlɪʃ klɑːs/"
+    },
+    {
+        "id": "1009",
+        "english": "get up ",
+        "chinese": " 起床",
+        "phonetic": "/ɡet ʌp/"
+    },
+    {
+        "id": "1010",
+        "english": "go shopping ",
+        "chinese": " 去购物",
+        "phonetic": "/ɡəʊ ˈʃɒpɪŋ/"
+    },
+    {
+        "id": "1011",
+        "english": "read a book ",
+        "chinese": " 读书",
+        "phonetic": "/riːd ə bʊk/"
+    },
+    {
+        "id": "1012",
+        "english": "clean the room ",
+        "chinese": " 打扫房间",
+        "phonetic": "/kliːn ðə ruːm/"
+    },
+    {
+        "id": "1013",
+        "english": "write an e-mail ",
+        "chinese": " 写电子邮件",
+        "phonetic": "/raɪt ən iːmeɪl/"
+    },
+    {
+        "id": "1014",
+        "english": "get to ",
+        "chinese": " 到达",
+        "phonetic": "/ɡet tuː/"
+    },
+    {
+        "id": "1015",
+        "english": "put on ",
+        "chinese": " 穿上",
+        "phonetic": "/ˈpʊt ɒn/"
+    },
+    {
+        "id": "1016",
+        "english": "take off ",
+        "chinese": " 脱下",
+        "phonetic": "/teɪk ɒf/"
+    },
+    {
+        "id": "1017",
+        "english": "go home ",
+        "chinese": " 回家",
+        "phonetic": "/ɡəʊ həʊm/"
+    },
+    {
+        "id": "1018",
+        "english": "go to bed ",
+        "chinese": " 去睡觉",
+        "phonetic": "/ɡəʊ tuː bed/"
+    },
+    {
+        "id": "1019",
+        "english": "get off ",
+        "chinese": " 下车",
+        "phonetic": "/ɡet ɒf/"
+    },
+    {
+        "id": "1020",
+        "english": "what ",
+        "chinese": " 什么",
+        "phonetic": "/wɒt/"
+    },
+    {
+        "id": "1021",
+        "english": "what colour ",
+        "chinese": " 什么颜色",
+        "phonetic": "/wɒt ˈkʌlə(r)/"
+    },
+    {
+        "id": "1022",
+        "english": "what time ",
+        "chinese": " 几点",
+        "phonetic": "/wɒt taɪm/"
+    },
+    {
+        "id": "1023",
+        "english": "what day ",
+        "chinese": " 星期几",
+        "phonetic": "/wɒt deɪ/"
+    },
+    {
+        "id": "1024",
+        "english": "how ",
+        "chinese": " 怎样",
+        "phonetic": "/haʊ/"
+    },
+    {
+        "id": "1025",
+        "english": "how old ",
+        "chinese": " 年龄多大、几岁",
+        "phonetic": "/haʊ əʊld/"
+    },
+    {
+        "id": "1026",
+        "english": "how many ",
+        "chinese": " 多少",
+        "phonetic": "/haʊ ˈmeni/"
+    },
+    {
+        "id": "1027",
+        "english": "how much ",
+        "chinese": " 用于不可数名词时表示 “多少”，用于询问价格时表示 “多少钱”",
+        "phonetic": "/haʊ mʌtʃ/"
+    },
+    {
+        "id": "1028",
+        "english": "how tall ",
+        "chinese": " 多高",
+        "phonetic": "/haʊ tɔːl/"
+    },
+    {
+        "id": "1029",
+        "english": "how heavy ",
+        "chinese": " 多重",
+        "phonetic": "/haʊ ˈhevi/"
+    },
+    {
+        "id": "1030",
+        "english": "how long ",
+        "chinese": " 多长",
+        "phonetic": "/haʊ lɒŋ/"
+    },
+    {
+        "id": "1031",
+        "english": "how big ",
+        "chinese": " 多大",
+        "phonetic": "/haʊ bɪɡ/"
+    },
+    {
+        "id": "1032",
+        "english": "Mr ",
+        "chinese": " 先生",
+        "phonetic": "/ˈmɪstə(r)/"
+    },
+    {
+        "id": "1033",
+        "english": "Miss ",
+        "chinese": " 小姐",
+        "phonetic": "/mɪs/"
+    }
+]

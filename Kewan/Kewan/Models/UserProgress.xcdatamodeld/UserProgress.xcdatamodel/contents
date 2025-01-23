@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23C71" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="UserProgress" representedClassName="UserProgress" syncable="YES">
+        <attribute name="lastUpdateDate" attributeType="Date" defaultDateTimeInterval="725846400" usesScalarValueType="NO"/>
+        <attribute name="learnedWordsCount" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="learningRecords" optional="YES" attributeType="Binary"/>
+        <attribute name="totalScore" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userId" attributeType="String" defaultValueString=""/>
+    </entity>
+</model> 
